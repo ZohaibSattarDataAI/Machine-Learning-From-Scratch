@@ -71,24 +71,27 @@ Each folder includes:
 Install dependencies:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+---
 
+## 💼 Use Cases
 
-💼 Use Cases
 This repository is perfect for:
+- Students learning ML theory and code
+- Preparing for interviews and exams
+- Building data science portfolios
+- Training models with real datasets
 
-Students learning ML theory and code
+---
 
-Preparing for interviews and exams
+## 🙌 Author
 
-Building data science portfolios
+**Zohaib Sattar**  
+📧 Email: [zabizubi86@gmail.com] 
+🔗 LinkedIn: [Zohaib Sattar](https://www.linkedin.com/in/zohaib-sattar)
 
-Training models with real datasets
+---
 
-🙌 Author
-Zohaib Sattar
-📧 Email: zabizubi86@gmail.com
-🔗 LinkedIn: Zohaib Sattar
+## ⭐️ Support the Project
 
-⭐️ Support the Project
 If you find this project helpful, please ⭐️ star the repo and share it with your network. It motivates further open-source contributions!
-
