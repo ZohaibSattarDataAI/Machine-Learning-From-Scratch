@@ -9,6 +9,12 @@ Welcome to **Machine Learning From Scratch** — a comprehensive, beginner-frien
 
 ---
 
+> # Machine Learning Algorithum
+
+ Link:[Machine Learning From Scratch](https://github.com/ZohaibSattarDataAI/Machine-Learning-From-Scratch)
+
+ ---
+
 ## 🎯 Project Mission
 
 To help students, developers, and AI enthusiasts **learn Machine Learning the right way** — by implementing core algorithms manually and then applying the same models using Scikit-learn for practical use.
