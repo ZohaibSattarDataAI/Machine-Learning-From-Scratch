@@ -42,6 +42,7 @@ Each folder includes:
 - ✅ Logistic Regression  
 - ✅ Random Forest Regression  
 - ✅ XGBoost Regressor *(Scikit-learn version only)*
+- ✅ Decision Tree Regressor
 
 #### 🔍 Classification
 - ✅ Bernoulli Naive Bayes  
