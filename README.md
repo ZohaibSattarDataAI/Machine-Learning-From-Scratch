@@ -39,12 +39,12 @@ Each folder includes:
 - ✅ Multiple Linear Regression  
 - ✅ Lasso Regression  
 - ✅ Ridge Regression  
-- ✅ Logistic Regression  
 - ✅ Random Forest Regression  
 - ✅ XGBoost Regressor *(Scikit-learn version only)*
 - ✅ Decision Tree Regressor
 
 #### 🔍 Classification
+- ✅ Logistic Regression  
 - ✅ Bernoulli Naive Bayes  
 - ✅ Multinomial Naive Bayes  
 - ✅ Naive Bayes Classification  
