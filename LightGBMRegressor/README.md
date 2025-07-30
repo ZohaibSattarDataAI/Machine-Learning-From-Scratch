@@ -27,12 +27,23 @@ This project demonstrates how to implement a powerful **LightGBM Regressor** to 
 
 The dataset includes simulated data related to crop yield prediction, with the following features:
 
-- 🌦️ *rainfall_mm* — Rainfall measured in millimeters  
-- ☀️ *sunlight_hours* — Average daily sunlight hours  
-- 🌱 *fertilizer_kg* — Fertilizer usage in kilograms per hectare  
-- 💧 *water_usage_liters* — Water used for irrigation  
-- 🍀 *soil_ph* — Soil pH level (acidity or alkalinity)  
-- 🌾 *crop_yield* — Actual crop output per hectare (target variable)
+- 🌧️ Rainfall_mm — Total seasonal rainfall measured in millimeters
+
+- 🌡️ Temperature_C — Average temperature in degrees Celsius during the growing season
+
+- 💦 Humidity_percent — Relative humidity percentage
+
+- 🌱 Soil_Type — Encoded soil classification representing different soil textures and properties
+
+- 🌾 Fertilizer_kg_per_hectare — Amount of fertilizer applied per hectare
+
+- 🐞 Pesticide_kg_per_hectare — Amount of pesticide used per hectare
+
+- 🌽 Crop_Type — Encoded crop category (e.g., wheat, maize, rice, etc.)
+
+- 📈 Yield_per_hectare — Actual crop output per hectare (target variable)
+
+- 🎯 Prediction — Yield predicted by the machine learning model (e.g., LightGBM)
 
 This dataset is highly relevant for agricultural planning, sustainability, and yield forecasting.
 
