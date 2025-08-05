@@ -43,7 +43,8 @@ Each folder includes:
 - ✅ XGBoost Regressor *(Scikit-learn version only)*
 - ✅ Decision Tree Regressor
 - ✅ LightGBMRegressor
-- ✅ CastboostRegression 
+- ✅ CastboostRegression
+- ✅ ElasticNet Regression 
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
