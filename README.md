@@ -44,7 +44,10 @@ Each folder includes:
 - ✅ Decision Tree Regressor
 - ✅ LightGBMRegressor
 - ✅ CastboostRegression
-- ✅ ElasticNet Regression 
+- ✅ ElasticNet Regression
+- ✅ BayesianRidge Regression
+- ✅ Gradient Boosting Regression
+- ✅ SVR  Regression 
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
