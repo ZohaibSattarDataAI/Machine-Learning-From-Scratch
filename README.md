@@ -47,7 +47,8 @@ Each folder includes:
 - ✅ ElasticNet Regression
 - ✅ BayesianRidge Regression
 - ✅ Gradient Boosting Regression
-- ✅ SVR  Regression 
+- ✅ Support Vector Machine (SVM) Regression
+- ✅ K-Nearest Neighbors (KNN)  Regression 
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
