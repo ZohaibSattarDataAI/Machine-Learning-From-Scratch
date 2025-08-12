@@ -48,7 +48,8 @@ Each folder includes:
 - ✅ BayesianRidge Regression
 - ✅ Gradient Boosting Regression
 - ✅ Support Vector Machine (SVM) Regression
-- ✅ K-Nearest Neighbors (KNN)  Regression 
+- ✅ K-Nearest Neighbors (KNN)  Regression
+- ✅ Huber Regression
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
