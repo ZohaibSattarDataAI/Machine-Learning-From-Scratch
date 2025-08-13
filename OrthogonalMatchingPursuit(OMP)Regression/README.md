@@ -1,4 +1,4 @@
-# 📊 Orthogonal Matching Pursuit (OMP) Regression for Product Sales Prediction
+# 📊 Orthogonal Matching Pursuit (OMP) Regression for Product Price Prediction
 
 This is my 18th project in the field of Machine Learning and Regression Modeling.
 
