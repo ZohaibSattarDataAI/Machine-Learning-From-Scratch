@@ -50,6 +50,7 @@ Each folder includes:
 - ✅ Support Vector Machine (SVM) Regression
 - ✅ K-Nearest Neighbors (KNN)  Regression
 - ✅ Huber Regression
+- ✅ Orthogonal Matching Pursuit (OMP)
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
