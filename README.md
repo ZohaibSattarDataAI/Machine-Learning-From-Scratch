@@ -51,6 +51,7 @@ Each folder includes:
 - ✅ K-Nearest Neighbors (KNN)  Regression
 - ✅ Huber Regression
 - ✅ Orthogonal Matching Pursuit (OMP)
+- ✅Theil-Sen Regression
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
