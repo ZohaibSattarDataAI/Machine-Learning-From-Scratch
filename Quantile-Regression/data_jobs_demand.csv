@@ -1,0 +1,1801 @@
+date,region,job_role,avg_salary_usd,job_postings,applicants_per_posting,q10_demand,q50_demand,q90_demand
+2019-01-01,North America,Data Scientist,129101.28,669,7.34,654.43,669,679.84
+2019-01-01,North America,Machine Learning Engineer,126224.29,597,7.75,586.27,597,601.26
+2019-01-01,North America,Data Analyst,126345.13,730,9.38,719.06,730,737.89
+2019-01-01,North America,AI Researcher,125908.41,356,12.71,347.63,356,366.33
+2019-01-01,North America,MLOps Engineer,132442.04,422,15.26,412.88,422,428.94
+2019-01-01,Europe,Data Scientist,107064.93,546,18.64,533.53,546,552.34
+2019-01-01,Europe,Machine Learning Engineer,99221.81,479,19.54,468.41,479,489.66
+2019-01-01,Europe,Data Analyst,104450.03,653,9.07,644.38,653,666.17
+2019-01-01,Europe,AI Researcher,100303.28,341,6.12,332.16,341,352.75
+2019-01-01,Europe,MLOps Engineer,114918.83,414,6.11,406.52,414,423.07
+2019-01-01,Asia-Pacific,Data Scientist,157316.59,749,9.66,739.56,749,762.54
+2019-01-01,Asia-Pacific,Machine Learning Engineer,156260.97,661,12.08,649.92,661,669.06
+2019-01-01,Asia-Pacific,Data Analyst,161535.27,906,12.84,891.31,906,914.8
+2019-01-01,Asia-Pacific,AI Researcher,139359.37,464,12.63,454.66,464,475.07
+2019-01-01,Asia-Pacific,MLOps Engineer,146112.97,542,18.95,533.51,542,553.5
+2019-01-01,South America,Data Scientist,91157.03,477,7.8,466.71,477,489.91
+2019-01-01,South America,Machine Learning Engineer,88525.52,385,17.27,379.39,385,387.03
+2019-01-01,South America,Data Analyst,88220.18,542,10.06,532.48,542,553.21
+2019-01-01,South America,AI Researcher,90785.6,311,19.44,301.22,311,320.94
+2019-01-01,South America,MLOps Engineer,85173.61,266,5.55,255.82,266,283.39
+2019-01-01,Middle East & Africa,Data Scientist,81206.19,395,19.78,388.51,395,407.3
+2019-01-01,Middle East & Africa,Machine Learning Engineer,76898.66,348,15.92,333.79,348,353.79
+2019-01-01,Middle East & Africa,Data Analyst,88761.82,476,5.61,467.7,476,491.12
+2019-01-01,Middle East & Africa,AI Researcher,80036.58,251,8.4,244.19,251,262.42
+2019-01-01,Middle East & Africa,MLOps Engineer,86199.74,249,18.87,239.97,249,257.93
+2019-02-01,North America,Data Scientist,136785.09,756,13.33,750.82,756,766.55
+2019-02-01,North America,Machine Learning Engineer,135081.85,650,15.89,643.96,650,661.85
+2019-02-01,North America,Data Analyst,131470.87,922,5.14,911.12,922,929.86
+2019-02-01,North America,AI Researcher,133079.91,462,15.68,450.03,462,469.75
+2019-02-01,North America,MLOps Engineer,135004.85,512,17.74,499.53,512,527.69
+2019-02-01,Europe,Data Scientist,105854.45,605,19.6,597.45,605,617.64
+2019-02-01,Europe,Machine Learning Engineer,116651.6,564,12.54,554.79,564,582.16
+2019-02-01,Europe,Data Analyst,105285.63,745,19.11,733.55,745,754.63
+2019-02-01,Europe,AI Researcher,107511.46,400,10.78,391.34,400,412.57
+2019-02-01,Europe,MLOps Engineer,103148.44,443,13.55,431.84,443,453.69
+2019-02-01,Asia-Pacific,Data Scientist,157930.68,835,16.11,821.75,835,848.16
+2019-02-01,Asia-Pacific,Machine Learning Engineer,142966.31,745,18.01,733.46,745,755.07
+2019-02-01,Asia-Pacific,Data Analyst,160780.17,1038,14.75,1025.14,1038,1049.95
+2019-02-01,Asia-Pacific,AI Researcher,155692.27,492,13.67,482.71,492,501.88
+2019-02-01,Asia-Pacific,MLOps Engineer,136586.28,590,13.86,581.42,590,603.27
+2019-02-01,South America,Data Scientist,85150.15,501,14.34,488.96,501,518.17
+2019-02-01,South America,Machine Learning Engineer,96135.46,508,19.64,504.08,508,518.56
+2019-02-01,South America,Data Analyst,93835.95,587,5.38,577.34,587,594.68
+2019-02-01,South America,AI Researcher,88495.89,334,8.75,318.7,334,345.21
+2019-02-01,South America,MLOps Engineer,94130.38,363,11.29,349.9,363,370.81
+2019-02-01,Middle East & Africa,Data Scientist,79050.43,456,6.47,455.72,456,462.93
+2019-02-01,Middle East & Africa,Machine Learning Engineer,75008.87,427,14.53,421.29,427,436.61
+2019-02-01,Middle East & Africa,Data Analyst,80234.04,570,17.85,562.94,570,581.39
+2019-02-01,Middle East & Africa,AI Researcher,77599.13,277,19.1,268.16,277,281.31
+2019-02-01,Middle East & Africa,MLOps Engineer,77539.47,375,13.18,365.46,375,386.76
+2019-03-01,North America,Data Scientist,125952.45,743,17.67,734.48,743,751.13
+2019-03-01,North America,Machine Learning Engineer,136188.07,681,18.16,668.56,681,692.89
+2019-03-01,North America,Data Analyst,126358.82,883,19.86,871.17,883,887.64
+2019-03-01,North America,AI Researcher,125650.18,437,18.96,427.65,437,450.3
+2019-03-01,North America,MLOps Engineer,135287.81,554,9.8,543.94,554,563.28
+2019-03-01,Europe,Data Scientist,108509.28,634,19.25,623.71,634,645.79
+2019-03-01,Europe,Machine Learning Engineer,121508.13,532,15.09,525.64,532,544.31
+2019-03-01,Europe,Data Analyst,106154.69,765,13.24,752.07,765,774.56
+2019-03-01,Europe,AI Researcher,108232.38,365,14.27,356.69,365,373.7
+2019-03-01,Europe,MLOps Engineer,113075.1,455,6.22,449.34,455,460.78
+2019-03-01,Asia-Pacific,Data Scientist,148399.15,844,11.36,829.57,844,853.09
+2019-03-01,Asia-Pacific,Machine Learning Engineer,144882.43,768,6.78,757.03,768,775.52
+2019-03-01,Asia-Pacific,Data Analyst,161495.54,1034,9.29,1022.79,1034,1042.97
+2019-03-01,Asia-Pacific,AI Researcher,150522.39,536,19.89,525.71,536,543.68
+2019-03-01,Asia-Pacific,MLOps Engineer,153734.99,620,11.82,607.12,620,633.6
+2019-03-01,South America,Data Scientist,89500.81,563,14.3,555.52,563,571.2
+2019-03-01,South America,Machine Learning Engineer,87634.1,407,19.62,396.55,407,411.26
+2019-03-01,South America,Data Analyst,92571.06,637,7.44,630.96,637,652.49
+2019-03-01,South America,AI Researcher,87888.71,305,19.55,290.94,305,315.83
+2019-03-01,South America,MLOps Engineer,78964.81,350,9.1,339.98,350,360.14
+2019-03-01,Middle East & Africa,Data Scientist,82491.4,430,19.31,420.43,430,435.89
+2019-03-01,Middle East & Africa,Machine Learning Engineer,84241.79,444,10.37,433.0,444,451.75
+2019-03-01,Middle East & Africa,Data Analyst,80462.7,595,13.28,584.8,595,608.08
+2019-03-01,Middle East & Africa,AI Researcher,75918.47,272,5.43,260.06,272,286.11
+2019-03-01,Middle East & Africa,MLOps Engineer,82744.21,315,10.88,310.28,315,327.66
+2019-04-01,North America,Data Scientist,131300.87,622,16.75,607.11,622,627.86
+2019-04-01,North America,Machine Learning Engineer,129638.94,563,12.39,553.1,563,576.37
+2019-04-01,North America,Data Analyst,129201.08,759,6.93,747.9,759,766.18
+2019-04-01,North America,AI Researcher,123115.11,383,15.01,370.13,383,391.66
+2019-04-01,North America,MLOps Engineer,124699.26,442,6.33,432.32,442,448.89
+2019-04-01,Europe,Data Scientist,103411.67,575,5.59,564.89,575,586.54
+2019-04-01,Europe,Machine Learning Engineer,114682.45,516,16.22,507.59,516,524.27
+2019-04-01,Europe,Data Analyst,97339.43,639,11.94,624.9,639,651.55
+2019-04-01,Europe,AI Researcher,110157.41,328,12.98,318.38,328,335.13
+2019-04-01,Europe,MLOps Engineer,111119.05,345,5.3,339.27,345,351.82
+2019-04-01,Asia-Pacific,Data Scientist,144200.81,740,18.36,724.94,740,752.64
+2019-04-01,Asia-Pacific,Machine Learning Engineer,161099.58,684,13.8,676.58,684,692.68
+2019-04-01,Asia-Pacific,Data Analyst,147089.48,933,10.45,920.22,933,948.73
+2019-04-01,Asia-Pacific,AI Researcher,154222.27,417,7.8,408.46,417,424.51
+2019-04-01,Asia-Pacific,MLOps Engineer,131229.3,530,19.74,520.72,530,537.28
+2019-04-01,South America,Data Scientist,93399.26,451,18.94,443.93,451,467.13
+2019-04-01,South America,Machine Learning Engineer,94198.55,431,7.81,423.29,431,435.59
+2019-04-01,South America,Data Analyst,90216.38,517,9.33,509.71,517,523.58
+2019-04-01,South America,AI Researcher,102527.0,254,5.78,246.58,254,262.85
+2019-04-01,South America,MLOps Engineer,87403.99,351,16.4,344.39,351,358.83
+2019-04-01,Middle East & Africa,Data Scientist,72919.03,438,18.94,426.89,438,446.19
+2019-04-01,Middle East & Africa,Machine Learning Engineer,79377.29,383,7.1,372.24,383,391.22
+2019-04-01,Middle East & Africa,Data Analyst,78726.09,493,17.22,482.13,493,509.23
+2019-04-01,Middle East & Africa,AI Researcher,78695.91,278,11.59,269.22,278,285.97
+2019-04-01,Middle East & Africa,MLOps Engineer,84206.37,225,12.54,214.02,225,234.34
+2019-05-01,North America,Data Scientist,115627.62,595,6.75,582.69,595,605.5
+2019-05-01,North America,Machine Learning Engineer,124313.76,523,16.91,511.1,523,539.81
+2019-05-01,North America,Data Analyst,131613.43,686,8.73,678.55,686,700.53
+2019-05-01,North America,AI Researcher,127741.08,365,17.32,355.81,365,372.06
+2019-05-01,North America,MLOps Engineer,132452.45,404,15.8,396.77,404,418.16
+2019-05-01,Europe,Data Scientist,101022.8,511,10.19,506.34,511,525.49
+2019-05-01,Europe,Machine Learning Engineer,109694.28,455,12.59,448.38,455,464.39
+2019-05-01,Europe,Data Analyst,119801.9,593,18.84,585.37,593,604.41
+2019-05-01,Europe,AI Researcher,117399.81,354,19.02,345.53,354,363.73
+2019-05-01,Europe,MLOps Engineer,123962.8,364,10.99,354.47,364,372.72
+2019-05-01,Asia-Pacific,Data Scientist,137588.57,655,10.2,644.78,655,668.81
+2019-05-01,Asia-Pacific,Machine Learning Engineer,138729.26,576,11.79,566.74,576,585.18
+2019-05-01,Asia-Pacific,Data Analyst,149592.79,737,13.71,724.91,737,743.95
+2019-05-01,Asia-Pacific,AI Researcher,144006.67,406,19.95,388.28,406,416.18
+2019-05-01,Asia-Pacific,MLOps Engineer,149819.06,467,8.08,457.43,467,484.71
+2019-05-01,South America,Data Scientist,96248.62,335,11.61,321.26,335,338.78
+2019-05-01,South America,Machine Learning Engineer,88328.52,330,14.66,322.33,330,338.91
+2019-05-01,South America,Data Analyst,92183.92,464,14.88,451.83,464,470.61
+2019-05-01,South America,AI Researcher,92202.19,209,6.49,196.86,209,221.44
+2019-05-01,South America,MLOps Engineer,91055.93,263,10.96,256.24,263,274.85
+2019-05-01,Middle East & Africa,Data Scientist,78761.81,370,11.32,363.75,370,376.28
+2019-05-01,Middle East & Africa,Machine Learning Engineer,85263.07,275,9.02,268.84,275,290.26
+2019-05-01,Middle East & Africa,Data Analyst,86785.83,385,16.45,375.29,385,397.92
+2019-05-01,Middle East & Africa,AI Researcher,78657.14,231,5.34,220.08,231,235.87
+2019-05-01,Middle East & Africa,MLOps Engineer,82973.06,222,19.77,212.55,222,228.13
+2019-06-01,North America,Data Scientist,119407.65,587,13.31,573.91,587,598.42
+2019-06-01,North America,Machine Learning Engineer,136387.49,549,7.63,535.96,549,558.53
+2019-06-01,North America,Data Analyst,132493.49,673,5.7,661.45,673,680.82
+2019-06-01,North America,AI Researcher,125090.01,341,9.33,335.22,341,355.02
+2019-06-01,North America,MLOps Engineer,133730.79,359,12.14,347.52,359,369.55
+2019-06-01,Europe,Data Scientist,113851.7,462,12.45,451.63,462,466.93
+2019-06-01,Europe,Machine Learning Engineer,108063.05,463,6.13,453.1,463,478.31
+2019-06-01,Europe,Data Analyst,119968.47,584,16.99,575.69,584,590.74
+2019-06-01,Europe,AI Researcher,100304.23,329,6.37,319.22,329,340.86
+2019-06-01,Europe,MLOps Engineer,102655.61,351,17.1,339.17,351,364.86
+2019-06-01,Asia-Pacific,Data Scientist,146596.92,697,12.34,685.71,697,707.62
+2019-06-01,Asia-Pacific,Machine Learning Engineer,140424.39,588,18.87,574.84,588,601.39
+2019-06-01,Asia-Pacific,Data Analyst,146509.12,811,17.43,800.71,811,819.61
+2019-06-01,Asia-Pacific,AI Researcher,147681.21,394,10.1,385.44,394,403.22
+2019-06-01,Asia-Pacific,MLOps Engineer,153094.28,440,16.86,426.9,440,445.54
+2019-06-01,South America,Data Scientist,94003.34,406,19.09,392.8,406,419.67
+2019-06-01,South America,Machine Learning Engineer,87705.64,308,14.41,299.34,308,322.36
+2019-06-01,South America,Data Analyst,87647.13,505,10.32,495.85,505,511.98
+2019-06-01,South America,AI Researcher,81298.45,200,15.19,187.05,200,209.36
+2019-06-01,South America,MLOps Engineer,93036.69,261,19.87,249.85,261,274.5
+2019-06-01,Middle East & Africa,Data Scientist,73720.16,389,7.65,380.87,389,397.33
+2019-06-01,Middle East & Africa,Machine Learning Engineer,84756.07,328,15.44,319.71,328,339.03
+2019-06-01,Middle East & Africa,Data Analyst,77179.16,408,13.05,393.36,408,423.39
+2019-06-01,Middle East & Africa,AI Researcher,78449.19,204,14.83,193.0,204,211.45
+2019-06-01,Middle East & Africa,MLOps Engineer,73005.81,231,8.9,221.1,231,246.38
+2019-07-01,North America,Data Scientist,131454.62,655,12.21,641.43,655,668.62
+2019-07-01,North America,Machine Learning Engineer,138605.19,589,13.49,577.25,589,597.92
+2019-07-01,North America,Data Analyst,137206.57,823,15.46,811.48,823,836.03
+2019-07-01,North America,AI Researcher,125780.26,438,18.21,428.5,438,448.44
+2019-07-01,North America,MLOps Engineer,124689.92,496,17.48,487.18,496,505.32
+2019-07-01,Europe,Data Scientist,114497.64,541,19.72,535.08,541,553.24
+2019-07-01,Europe,Machine Learning Engineer,121897.9,515,16.42,504.34,515,526.61
+2019-07-01,Europe,Data Analyst,116649.4,655,18.98,646.34,655,665.58
+2019-07-01,Europe,AI Researcher,104354.17,362,10.19,354.1,362,370.56
+2019-07-01,Europe,MLOps Engineer,112019.06,389,5.37,374.3,389,398.8
+2019-07-01,Asia-Pacific,Data Scientist,164108.68,735,7.45,731.6,735,746.95
+2019-07-01,Asia-Pacific,Machine Learning Engineer,158413.9,731,9.1,719.05,731,740.7
+2019-07-01,Asia-Pacific,Data Analyst,141974.36,937,19.76,929.08,937,949.69
+2019-07-01,Asia-Pacific,AI Researcher,144668.46,446,5.47,439.75,446,460.33
+2019-07-01,Asia-Pacific,MLOps Engineer,158379.72,541,16.56,529.63,541,552.38
+2019-07-01,South America,Data Scientist,85750.34,478,5.49,467.41,478,490.13
+2019-07-01,South America,Machine Learning Engineer,96480.53,403,8.01,387.6,403,410.78
+2019-07-01,South America,Data Analyst,82838.68,561,16.96,552.34,561,565.33
+2019-07-01,South America,AI Researcher,79092.54,243,15.42,230.72,243,254.12
+2019-07-01,South America,MLOps Engineer,89891.2,324,6.57,314.01,324,330.52
+2019-07-01,Middle East & Africa,Data Scientist,83509.45,437,9.9,426.92,437,444.37
+2019-07-01,Middle East & Africa,Machine Learning Engineer,78923.26,368,6.18,361.0,368,377.16
+2019-07-01,Middle East & Africa,Data Analyst,82563.37,520,7.51,508.28,520,530.83
+2019-07-01,Middle East & Africa,AI Researcher,87247.92,234,18.06,221.31,234,245.91
+2019-07-01,Middle East & Africa,MLOps Engineer,77859.06,328,11.78,317.41,328,339.2
+2019-08-01,North America,Data Scientist,127598.11,803,5.91,794.95,803,811.55
+2019-08-01,North America,Machine Learning Engineer,132757.08,681,14.88,672.72,681,699.9
+2019-08-01,North America,Data Analyst,123934.11,916,19.95,905.89,916,926.36
+2019-08-01,North America,AI Researcher,123351.85,462,18.02,457.01,462,474.8
+2019-08-01,North America,MLOps Engineer,117881.85,533,10.57,522.33,533,546.14
+2019-08-01,Europe,Data Scientist,107476.14,690,18.51,680.12,690,695.1
+2019-08-01,Europe,Machine Learning Engineer,114402.74,566,8.16,551.57,566,580.14
+2019-08-01,Europe,Data Analyst,112176.92,762,7.7,751.22,762,772.97
+2019-08-01,Europe,AI Researcher,100922.3,376,18.06,363.68,376,377.45
+2019-08-01,Europe,MLOps Engineer,100431.57,465,19.54,458.36,465,477.42
+2019-08-01,Asia-Pacific,Data Scientist,158307.9,835,6.96,825.14,835,846.43
+2019-08-01,Asia-Pacific,Machine Learning Engineer,140377.56,801,11.46,792.48,801,812.95
+2019-08-01,Asia-Pacific,Data Analyst,143712.09,1025,7.51,1015.96,1025,1041.23
+2019-08-01,Asia-Pacific,AI Researcher,153225.31,546,8.09,535.28,546,555.02
+2019-08-01,Asia-Pacific,MLOps Engineer,150362.89,588,19.05,575.8,588,597.76
+2019-08-01,South America,Data Scientist,81008.1,538,11.82,526.96,538,541.7
+2019-08-01,South America,Machine Learning Engineer,86079.9,537,5.45,523.68,537,543.88
+2019-08-01,South America,Data Analyst,85259.63,631,18.02,615.26,631,642.64
+2019-08-01,South America,AI Researcher,89861.01,325,14.27,314.4,325,338.15
+2019-08-01,South America,MLOps Engineer,95341.64,398,10.91,391.43,398,405.69
+2019-08-01,Middle East & Africa,Data Scientist,84020.57,467,16.74,452.16,467,478.36
+2019-08-01,Middle East & Africa,Machine Learning Engineer,83856.35,431,17.12,424.68,431,443.16
+2019-08-01,Middle East & Africa,Data Analyst,85159.03,567,6.8,557.52,567,577.05
+2019-08-01,Middle East & Africa,AI Researcher,74239.8,280,10.83,272.54,280,285.34
+2019-08-01,Middle East & Africa,MLOps Engineer,74827.42,310,6.1,295.07,310,323.03
+2019-09-01,North America,Data Scientist,144640.83,759,12.79,749.97,759,767.64
+2019-09-01,North America,Machine Learning Engineer,122481.16,659,10.98,645.93,659,676.32
+2019-09-01,North America,Data Analyst,133665.41,948,19.33,935.44,948,957.24
+2019-09-01,North America,AI Researcher,128772.17,471,6.52,466.08,471,480.7
+2019-09-01,North America,MLOps Engineer,122826.67,513,9.67,498.82,513,527.54
+2019-09-01,Europe,Data Scientist,106681.72,634,6.83,622.35,634,641.09
+2019-09-01,Europe,Machine Learning Engineer,102662.86,571,13.51,560.04,571,585.19
+2019-09-01,Europe,Data Analyst,106815.7,769,14.5,758.63,769,780.63
+2019-09-01,Europe,AI Researcher,110223.25,375,14.16,366.99,375,388.45
+2019-09-01,Europe,MLOps Engineer,108485.72,454,8.55,446.16,454,466.68
+2019-09-01,Asia-Pacific,Data Scientist,159358.07,859,14.36,848.16,859,875.67
+2019-09-01,Asia-Pacific,Machine Learning Engineer,153932.72,751,17.94,741.56,751,760.61
+2019-09-01,Asia-Pacific,Data Analyst,148897.48,1066,8.48,1049.37,1066,1080.38
+2019-09-01,Asia-Pacific,AI Researcher,152357.88,490,7.05,482.41,490,504.92
+2019-09-01,Asia-Pacific,MLOps Engineer,145848.09,656,9.11,641.11,656,662.7
+2019-09-01,South America,Data Scientist,87360.46,507,12.79,496.3,507,512.33
+2019-09-01,South America,Machine Learning Engineer,93750.88,449,10.0,437.88,449,461.08
+2019-09-01,South America,Data Analyst,88827.76,696,5.9,684.33,696,706.23
+2019-09-01,South America,AI Researcher,85856.97,328,6.45,322.24,328,342.75
+2019-09-01,South America,MLOps Engineer,95913.04,343,16.93,336.28,343,352.05
+2019-09-01,Middle East & Africa,Data Scientist,80566.87,526,6.34,514.82,526,534.42
+2019-09-01,Middle East & Africa,Machine Learning Engineer,82014.94,436,15.63,428.36,436,442.01
+2019-09-01,Middle East & Africa,Data Analyst,82031.97,505,14.01,501.46,505,517.51
+2019-09-01,Middle East & Africa,AI Researcher,81005.22,280,17.77,269.75,280,289.7
+2019-09-01,Middle East & Africa,MLOps Engineer,78838.9,349,16.85,338.03,349,357.48
+2019-10-01,North America,Data Scientist,122278.57,664,15.42,653.92,664,673.97
+2019-10-01,North America,Machine Learning Engineer,133085.54,629,14.09,616.55,629,637.05
+2019-10-01,North America,Data Analyst,113582.83,821,7.2,812.83,821,830.44
+2019-10-01,North America,AI Researcher,133443.0,404,9.68,392.54,404,405.34
+2019-10-01,North America,MLOps Engineer,131841.45,466,8.24,451.41,466,479.66
+2019-10-01,Europe,Data Scientist,118198.99,568,19.76,559.01,568,576.31
+2019-10-01,Europe,Machine Learning Engineer,107980.27,494,6.52,485.16,494,504.51
+2019-10-01,Europe,Data Analyst,110016.75,694,9.59,680.43,694,705.5
+2019-10-01,Europe,AI Researcher,104258.15,386,18.3,380.1,386,395.33
+2019-10-01,Europe,MLOps Engineer,100089.11,383,16.54,370.72,383,392.91
+2019-10-01,Asia-Pacific,Data Scientist,147063.26,774,8.9,765.64,774,785.18
+2019-10-01,Asia-Pacific,Machine Learning Engineer,151375.2,669,6.65,657.26,669,673.12
+2019-10-01,Asia-Pacific,Data Analyst,141052.05,975,9.87,965.52,975,990.14
+2019-10-01,Asia-Pacific,AI Researcher,137898.29,460,18.38,450.63,460,473.43
+2019-10-01,Asia-Pacific,MLOps Engineer,138006.48,515,17.61,498.53,515,523.18
+2019-10-01,South America,Data Scientist,91346.82,501,6.0,486.32,501,507.43
+2019-10-01,South America,Machine Learning Engineer,90398.91,447,15.2,438.1,447,457.55
+2019-10-01,South America,Data Analyst,85627.74,550,14.92,541.97,550,558.65
+2019-10-01,South America,AI Researcher,91271.45,260,16.47,247.01,260,267.73
+2019-10-01,South America,MLOps Engineer,96756.0,292,14.23,282.75,292,303.93
+2019-10-01,Middle East & Africa,Data Scientist,77666.57,440,19.53,431.93,440,452.78
+2019-10-01,Middle East & Africa,Machine Learning Engineer,81074.37,397,17.18,385.48,397,404.44
+2019-10-01,Middle East & Africa,Data Analyst,82227.28,502,8.37,495.13,502,506.1
+2019-10-01,Middle East & Africa,AI Researcher,75587.17,288,18.3,278.83,288,293.98
+2019-10-01,Middle East & Africa,MLOps Engineer,81216.5,313,17.7,303.5,313,323.85
+2019-11-01,North America,Data Scientist,140447.75,591,16.65,578.8,591,597.88
+2019-11-01,North America,Machine Learning Engineer,132120.79,541,19.06,529.8,541,549.05
+2019-11-01,North America,Data Analyst,133811.37,714,15.99,703.94,714,730.9
+2019-11-01,North America,AI Researcher,117655.35,377,13.48,364.74,377,388.14
+2019-11-01,North America,MLOps Engineer,134375.68,437,5.14,430.67,437,449.49
+2019-11-01,Europe,Data Scientist,117083.9,472,8.06,456.99,472,483.18
+2019-11-01,Europe,Machine Learning Engineer,112445.31,441,13.31,432.83,441,446.65
+2019-11-01,Europe,Data Analyst,107501.96,562,18.15,546.82,562,570.8
+2019-11-01,Europe,AI Researcher,115129.25,282,15.43,277.28,282,295.5
+2019-11-01,Europe,MLOps Engineer,110996.14,324,12.21,315.69,324,334.55
+2019-11-01,Asia-Pacific,Data Scientist,165045.7,742,15.15,728.37,742,750.13
+2019-11-01,Asia-Pacific,Machine Learning Engineer,149947.18,648,6.16,638.51,648,656.64
+2019-11-01,Asia-Pacific,Data Analyst,157164.79,831,11.6,816.57,831,839.7
+2019-11-01,Asia-Pacific,AI Researcher,143675.55,387,8.31,372.46,387,398.89
+2019-11-01,Asia-Pacific,MLOps Engineer,163905.69,472,6.78,460.25,472,485.44
+2019-11-01,South America,Data Scientist,95393.89,372,13.82,363.47,372,378.64
+2019-11-01,South America,Machine Learning Engineer,82042.02,374,8.89,364.44,374,387.1
+2019-11-01,South America,Data Analyst,88340.26,491,17.04,484.51,491,492.38
+2019-11-01,South America,AI Researcher,97975.13,269,16.48,260.37,269,280.06
+2019-11-01,South America,MLOps Engineer,91778.89,254,14.85,244.3,254,263.39
+2019-11-01,Middle East & Africa,Data Scientist,76692.48,340,9.08,328.9,340,349.09
+2019-11-01,Middle East & Africa,Machine Learning Engineer,77895.69,358,5.94,355.27,358,370.65
+2019-11-01,Middle East & Africa,Data Analyst,78874.69,451,19.05,439.45,451,460.67
+2019-11-01,Middle East & Africa,AI Researcher,83538.43,191,19.72,178.62,191,197.24
+2019-11-01,Middle East & Africa,MLOps Engineer,74573.67,266,14.13,256.11,266,273.57
+2019-12-01,North America,Data Scientist,127226.08,576,8.76,565.4,576,589.45
+2019-12-01,North America,Machine Learning Engineer,130400.92,517,6.02,504.92,517,528.14
+2019-12-01,North America,Data Analyst,129462.79,735,12.27,723.69,735,747.71
+2019-12-01,North America,AI Researcher,123436.75,314,5.93,297.83,314,328.19
+2019-12-01,North America,MLOps Engineer,125792.94,414,16.79,405.94,414,421.6
+2019-12-01,Europe,Data Scientist,104756.69,492,8.07,477.13,492,500.92
+2019-12-01,Europe,Machine Learning Engineer,111746.1,460,16.58,447.35,460,469.77
+2019-12-01,Europe,Data Analyst,127562.09,601,17.33,593.26,601,614.93
+2019-12-01,Europe,AI Researcher,99930.77,291,16.89,275.38,291,304.24
+2019-12-01,Europe,MLOps Engineer,117045.59,342,7.37,329.44,342,354.95
+2019-12-01,Asia-Pacific,Data Scientist,156253.56,689,18.59,680.0,689,697.79
+2019-12-01,Asia-Pacific,Machine Learning Engineer,153176.99,625,6.25,618.2,625,635.57
+2019-12-01,Asia-Pacific,Data Analyst,153909.71,824,11.27,817.19,824,835.28
+2019-12-01,Asia-Pacific,AI Researcher,157392.97,423,15.79,405.23,423,430.58
+2019-12-01,Asia-Pacific,MLOps Engineer,152032.31,494,13.11,487.02,494,507.42
+2019-12-01,South America,Data Scientist,89468.69,405,12.41,396.82,405,413.5
+2019-12-01,South America,Machine Learning Engineer,92456.18,376,17.39,366.72,376,384.9
+2019-12-01,South America,Data Analyst,85849.15,507,14.77,497.97,507,512.44
+2019-12-01,South America,AI Researcher,89536.4,290,19.69,282.71,290,300.97
+2019-12-01,South America,MLOps Engineer,95344.56,255,7.62,244.4,255,263.79
+2019-12-01,Middle East & Africa,Data Scientist,77963.22,386,14.64,375.62,386,401.82
+2019-12-01,Middle East & Africa,Machine Learning Engineer,77289.02,314,18.07,303.46,314,326.17
+2019-12-01,Middle East & Africa,Data Analyst,75151.64,463,18.61,450.98,463,478.7
+2019-12-01,Middle East & Africa,AI Researcher,76101.88,232,13.2,222.36,232,242.76
+2019-12-01,Middle East & Africa,MLOps Engineer,79249.86,239,5.63,228.0,239,249.57
+2020-01-01,North America,Data Scientist,127169.34,705,16.31,695.78,705,717.67
+2020-01-01,North America,Machine Learning Engineer,134285.97,597,6.69,585.9,597,612.51
+2020-01-01,North America,Data Analyst,127729.44,814,9.52,804.91,814,819.18
+2020-01-01,North America,AI Researcher,136825.72,412,5.72,399.15,412,427.13
+2020-01-01,North America,MLOps Engineer,128902.66,476,5.95,462.51,476,487.04
+2020-01-01,Europe,Data Scientist,111458.36,611,17.44,600.43,611,624.0
+2020-01-01,Europe,Machine Learning Engineer,113728.31,453,16.61,448.49,453,465.66
+2020-01-01,Europe,Data Analyst,121578.61,681,14.47,666.08,681,693.23
+2020-01-01,Europe,AI Researcher,101189.19,344,12.32,336.53,344,355.27
+2020-01-01,Europe,MLOps Engineer,118134.93,416,12.59,407.87,416,426.58
+2020-01-01,Asia-Pacific,Data Scientist,140099.83,762,7.1,752.11,762,771.34
+2020-01-01,Asia-Pacific,Machine Learning Engineer,153390.25,646,9.21,635.75,646,651.63
+2020-01-01,Asia-Pacific,Data Analyst,144358.83,943,12.69,928.98,943,954.13
+2020-01-01,Asia-Pacific,AI Researcher,144156.36,465,14.26,455.96,465,472.61
+2020-01-01,Asia-Pacific,MLOps Engineer,150159.84,602,19.89,592.18,602,610.8
+2020-01-01,South America,Data Scientist,83800.35,430,11.17,419.2,430,441.53
+2020-01-01,South America,Machine Learning Engineer,94027.67,384,8.86,373.56,384,394.43
+2020-01-01,South America,Data Analyst,86812.7,559,10.76,555.46,559,566.84
+2020-01-01,South America,AI Researcher,85557.69,277,6.2,266.77,277,288.54
+2020-01-01,South America,MLOps Engineer,95518.82,344,10.43,334.3,344,354.06
+2020-01-01,Middle East & Africa,Data Scientist,80932.86,449,15.86,438.14,449,459.18
+2020-01-01,Middle East & Africa,Machine Learning Engineer,73211.61,352,12.29,343.65,352,362.28
+2020-01-01,Middle East & Africa,Data Analyst,75889.3,526,14.78,518.6,526,537.41
+2020-01-01,Middle East & Africa,AI Researcher,87360.87,258,9.13,245.0,258,265.99
+2020-01-01,Middle East & Africa,MLOps Engineer,78999.81,327,18.75,316.22,327,331.54
+2020-02-01,North America,Data Scientist,118068.23,777,14.02,763.9,777,790.38
+2020-02-01,North America,Machine Learning Engineer,127329.71,657,18.35,647.64,657,664.11
+2020-02-01,North America,Data Analyst,130322.26,917,14.55,908.69,917,926.37
+2020-02-01,North America,AI Researcher,124761.84,443,10.47,428.15,443,458.67
+2020-02-01,North America,MLOps Engineer,129701.19,515,5.41,503.36,515,525.02
+2020-02-01,Europe,Data Scientist,109397.15,644,7.4,635.11,644,648.59
+2020-02-01,Europe,Machine Learning Engineer,109486.11,585,18.33,571.48,585,596.11
+2020-02-01,Europe,Data Analyst,112462.44,760,13.12,753.38,760,770.55
+2020-02-01,Europe,AI Researcher,118650.48,371,17.5,366.4,371,379.37
+2020-02-01,Europe,MLOps Engineer,106585.34,439,9.05,430.42,439,449.18
+2020-02-01,Asia-Pacific,Data Scientist,157210.66,876,7.09,859.78,876,883.24
+2020-02-01,Asia-Pacific,Machine Learning Engineer,147854.97,767,14.31,751.12,767,775.66
+2020-02-01,Asia-Pacific,Data Analyst,149773.92,1036,13.15,1025.24,1036,1047.4
+2020-02-01,Asia-Pacific,AI Researcher,150734.87,563,6.87,554.17,563,571.0
+2020-02-01,Asia-Pacific,MLOps Engineer,149065.37,626,19.71,612.62,626,635.85
+2020-02-01,South America,Data Scientist,95678.65,485,16.43,476.96,485,495.72
+2020-02-01,South America,Machine Learning Engineer,102221.76,427,17.98,417.16,427,437.86
+2020-02-01,South America,Data Analyst,92903.47,662,8.01,651.73,662,675.5
+2020-02-01,South America,AI Researcher,89391.36,332,12.66,320.03,332,342.58
+2020-02-01,South America,MLOps Engineer,88251.67,391,15.39,378.16,391,399.77
+2020-02-01,Middle East & Africa,Data Scientist,84581.56,452,9.18,439.14,452,463.54
+2020-02-01,Middle East & Africa,Machine Learning Engineer,82064.71,434,16.3,422.7,434,446.09
+2020-02-01,Middle East & Africa,Data Analyst,82338.01,603,14.2,593.08,603,610.35
+2020-02-01,Middle East & Africa,AI Researcher,77020.39,272,10.23,262.43,272,282.32
+2020-02-01,Middle East & Africa,MLOps Engineer,80120.76,339,9.49,329.0,339,346.55
+2020-03-01,North America,Data Scientist,136094.21,767,8.49,759.29,767,779.62
+2020-03-01,North America,Machine Learning Engineer,128992.99,696,18.59,686.79,696,699.99
+2020-03-01,North America,Data Analyst,121944.82,947,10.37,936.17,947,954.44
+2020-03-01,North America,AI Researcher,130051.77,488,11.74,472.6,488,501.72
+2020-03-01,North America,MLOps Engineer,126804.36,560,17.34,552.92,560,570.71
+2020-03-01,Europe,Data Scientist,103644.06,687,16.63,677.08,687,691.69
+2020-03-01,Europe,Machine Learning Engineer,107748.95,569,16.23,558.54,569,577.12
+2020-03-01,Europe,Data Analyst,115253.03,774,5.94,761.52,774,781.4
+2020-03-01,Europe,AI Researcher,108329.51,360,17.64,352.46,360,373.08
+2020-03-01,Europe,MLOps Engineer,109122.23,460,18.65,448.83,460,469.69
+2020-03-01,Asia-Pacific,Data Scientist,145629.31,865,14.49,855.4,865,876.57
+2020-03-01,Asia-Pacific,Machine Learning Engineer,151436.3,790,16.42,779.73,790,800.59
+2020-03-01,Asia-Pacific,Data Analyst,147629.45,1072,5.72,1058.39,1072,1083.22
+2020-03-01,Asia-Pacific,AI Researcher,128756.1,535,11.87,526.65,535,541.34
+2020-03-01,Asia-Pacific,MLOps Engineer,148891.65,610,17.33,595.64,610,618.81
+2020-03-01,South America,Data Scientist,88332.34,579,18.2,566.99,579,585.78
+2020-03-01,South America,Machine Learning Engineer,93680.5,457,16.08,449.71,457,470.23
+2020-03-01,South America,Data Analyst,96966.0,605,7.99,595.99,605,616.81
+2020-03-01,South America,AI Researcher,89267.43,311,9.01,304.01,311,316.42
+2020-03-01,South America,MLOps Engineer,89018.84,313,11.06,295.76,313,325.35
+2020-03-01,Middle East & Africa,Data Scientist,78948.44,478,15.16,466.36,478,491.16
+2020-03-01,Middle East & Africa,Machine Learning Engineer,80483.03,438,19.64,425.98,438,449.78
+2020-03-01,Middle East & Africa,Data Analyst,77705.59,568,10.22,553.35,568,580.97
+2020-03-01,Middle East & Africa,AI Researcher,82680.88,268,11.87,262.8,268,275.51
+2020-03-01,Middle East & Africa,MLOps Engineer,73427.24,330,5.87,315.02,330,341.61
+2020-04-01,North America,Data Scientist,128662.77,681,8.38,672.13,681,690.05
+2020-04-01,North America,Machine Learning Engineer,133624.99,632,17.17,621.26,632,638.11
+2020-04-01,North America,Data Analyst,122394.89,875,10.18,865.7,875,886.4
+2020-04-01,North America,AI Researcher,129506.32,430,7.21,419.54,430,436.73
+2020-04-01,North America,MLOps Engineer,130246.1,488,8.63,471.93,488,498.02
+2020-04-01,Europe,Data Scientist,108034.05,577,13.2,562.88,577,585.31
+2020-04-01,Europe,Machine Learning Engineer,108895.88,505,8.14,496.29,505,516.77
+2020-04-01,Europe,Data Analyst,112541.95,697,6.1,691.09,697,707.49
+2020-04-01,Europe,AI Researcher,113017.9,342,18.62,330.72,342,352.06
+2020-04-01,Europe,MLOps Engineer,112683.3,422,8.71,412.57,422,436.18
+2020-04-01,Asia-Pacific,Data Scientist,151741.17,803,16.57,793.94,803,813.0
+2020-04-01,Asia-Pacific,Machine Learning Engineer,154533.86,703,15.93,694.36,703,712.54
+2020-04-01,Asia-Pacific,Data Analyst,149851.88,930,14.94,921.08,930,938.06
+2020-04-01,Asia-Pacific,AI Researcher,148640.82,484,10.89,470.04,484,494.74
+2020-04-01,Asia-Pacific,MLOps Engineer,150753.9,569,10.36,561.05,569,581.37
+2020-04-01,South America,Data Scientist,94016.69,418,7.87,405.81,418,423.42
+2020-04-01,South America,Machine Learning Engineer,90962.57,428,9.24,417.68,428,439.75
+2020-04-01,South America,Data Analyst,82960.91,640,9.24,629.69,640,652.34
+2020-04-01,South America,AI Researcher,96349.73,274,12.15,268.35,274,283.96
+2020-04-01,South America,MLOps Engineer,91636.34,321,8.11,312.26,321,331.03
+2020-04-01,Middle East & Africa,Data Scientist,85062.52,434,17.54,420.29,434,440.79
+2020-04-01,Middle East & Africa,Machine Learning Engineer,84770.03,370,11.38,359.04,370,382.07
+2020-04-01,Middle East & Africa,Data Analyst,77073.95,440,9.56,427.96,440,446.55
+2020-04-01,Middle East & Africa,AI Researcher,81850.37,243,9.88,235.03,243,255.59
+2020-04-01,Middle East & Africa,MLOps Engineer,78158.95,292,18.53,283.79,292,306.27
+2020-05-01,North America,Data Scientist,136362.58,641,15.64,633.42,641,652.44
+2020-05-01,North America,Machine Learning Engineer,133695.12,532,5.64,520.05,532,537.49
+2020-05-01,North America,Data Analyst,123512.61,740,12.71,729.25,740,743.07
+2020-05-01,North America,AI Researcher,137032.62,380,11.93,369.31,380,391.49
+2020-05-01,North America,MLOps Engineer,132740.31,449,7.93,440.85,449,455.1
+2020-05-01,Europe,Data Scientist,115820.14,498,13.43,488.02,498,510.01
+2020-05-01,Europe,Machine Learning Engineer,107870.95,446,10.77,433.45,446,455.82
+2020-05-01,Europe,Data Analyst,114257.72,607,17.26,595.5,607,617.15
+2020-05-01,Europe,AI Researcher,106368.23,316,7.69,304.74,316,326.73
+2020-05-01,Europe,MLOps Engineer,104519.85,382,17.98,373.44,382,389.41
+2020-05-01,Asia-Pacific,Data Scientist,147059.91,726,8.76,714.15,726,739.33
+2020-05-01,Asia-Pacific,Machine Learning Engineer,150523.1,658,9.31,651.09,658,663.94
+2020-05-01,Asia-Pacific,Data Analyst,158345.16,793,6.03,778.4,793,800.89
+2020-05-01,Asia-Pacific,AI Researcher,163600.08,427,9.99,417.47,427,435.36
+2020-05-01,Asia-Pacific,MLOps Engineer,153763.37,507,7.98,492.65,507,521.56
+2020-05-01,South America,Data Scientist,88675.81,399,9.14,387.97,399,408.85
+2020-05-01,South America,Machine Learning Engineer,86586.77,373,16.07,365.77,373,381.07
+2020-05-01,South America,Data Analyst,85012.84,512,8.96,502.25,512,517.65
+2020-05-01,South America,AI Researcher,85482.19,234,14.05,223.79,234,243.75
+2020-05-01,South America,MLOps Engineer,90887.97,284,14.35,277.9,284,296.49
+2020-05-01,Middle East & Africa,Data Scientist,75406.95,400,9.69,385.39,400,411.97
+2020-05-01,Middle East & Africa,Machine Learning Engineer,79140.36,305,13.81,291.86,305,318.51
+2020-05-01,Middle East & Africa,Data Analyst,79826.09,417,11.75,405.46,417,426.67
+2020-05-01,Middle East & Africa,AI Researcher,78458.47,239,15.09,229.07,239,248.48
+2020-05-01,Middle East & Africa,MLOps Engineer,78521.89,262,8.88,249.52,262,277.03
+2020-06-01,North America,Data Scientist,130102.75,593,14.2,586.88,593,605.07
+2020-06-01,North America,Machine Learning Engineer,131712.67,538,16.08,528.7,538,545.9
+2020-06-01,North America,Data Analyst,141082.59,703,14.1,694.74,703,713.72
+2020-06-01,North America,AI Researcher,133068.01,375,8.0,362.77,375,389.25
+2020-06-01,North America,MLOps Engineer,131003.19,464,6.03,451.95,464,473.37
+2020-06-01,Europe,Data Scientist,123001.3,523,18.43,517.14,523,536.32
+2020-06-01,Europe,Machine Learning Engineer,121777.61,463,8.73,454.82,463,478.16
+2020-06-01,Europe,Data Analyst,105783.39,649,11.66,636.42,649,656.93
+2020-06-01,Europe,AI Researcher,114362.43,307,6.58,298.48,307,321.33
+2020-06-01,Europe,MLOps Engineer,114472.63,327,6.06,317.84,327,338.63
+2020-06-01,Asia-Pacific,Data Scientist,151017.89,679,15.28,669.99,679,687.16
+2020-06-01,Asia-Pacific,Machine Learning Engineer,143809.42,649,10.35,635.27,649,662.15
+2020-06-01,Asia-Pacific,Data Analyst,144989.47,843,18.71,833.38,843,853.98
+2020-06-01,Asia-Pacific,AI Researcher,133355.25,417,13.3,409.55,417,422.8
+2020-06-01,Asia-Pacific,MLOps Engineer,153132.55,502,17.57,490.74,502,513.82
+2020-06-01,South America,Data Scientist,84911.0,470,7.69,462.78,470,476.89
+2020-06-01,South America,Machine Learning Engineer,90504.47,419,7.42,411.13,419,425.22
+2020-06-01,South America,Data Analyst,88611.83,534,8.68,522.7,534,543.56
+2020-06-01,South America,AI Researcher,86683.56,228,19.4,214.94,228,244.27
+2020-06-01,South America,MLOps Engineer,81540.34,287,15.53,275.83,287,297.0
+2020-06-01,Middle East & Africa,Data Scientist,84060.91,341,14.47,334.04,341,351.26
+2020-06-01,Middle East & Africa,Machine Learning Engineer,81021.54,302,15.38,293.22,302,310.58
+2020-06-01,Middle East & Africa,Data Analyst,79471.65,422,12.62,412.9,422,431.85
+2020-06-01,Middle East & Africa,AI Researcher,75552.13,301,8.8,288.01,301,314.73
+2020-06-01,Middle East & Africa,MLOps Engineer,81445.77,268,12.28,254.71,268,276.12
+2020-07-01,North America,Data Scientist,128680.63,658,10.82,648.19,658,667.17
+2020-07-01,North America,Machine Learning Engineer,133225.07,649,6.0,640.82,649,659.63
+2020-07-01,North America,Data Analyst,126802.63,836,8.3,824.14,836,842.24
+2020-07-01,North America,AI Researcher,128785.98,378,11.96,365.31,378,391.82
+2020-07-01,North America,MLOps Engineer,122605.04,500,17.07,490.02,500,510.81
+2020-07-01,Europe,Data Scientist,117681.28,629,16.28,618.75,629,643.23
+2020-07-01,Europe,Machine Learning Engineer,105264.02,561,7.55,548.91,561,571.45
+2020-07-01,Europe,Data Analyst,111958.01,710,16.38,694.9,710,723.21
+2020-07-01,Europe,AI Researcher,115177.21,343,12.11,331.81,343,350.04
+2020-07-01,Europe,MLOps Engineer,106533.28,418,8.62,409.11,418,423.78
+2020-07-01,Asia-Pacific,Data Scientist,156767.08,792,17.33,777.44,792,805.33
+2020-07-01,Asia-Pacific,Machine Learning Engineer,156949.54,721,8.96,710.48,721,732.66
+2020-07-01,Asia-Pacific,Data Analyst,143286.98,951,8.28,943.85,951,956.42
+2020-07-01,Asia-Pacific,AI Researcher,157833.85,505,16.67,497.09,505,516.75
+2020-07-01,Asia-Pacific,MLOps Engineer,145958.69,554,5.47,549.89,554,563.0
+2020-07-01,South America,Data Scientist,87578.83,495,15.0,482.96,495,504.09
+2020-07-01,South America,Machine Learning Engineer,93293.42,433,8.74,422.05,433,440.88
+2020-07-01,South America,Data Analyst,95226.29,571,17.1,564.05,571,580.27
+2020-07-01,South America,AI Researcher,89394.76,294,9.69,279.71,294,300.4
+2020-07-01,South America,MLOps Engineer,96007.06,362,5.58,350.84,362,375.27
+2020-07-01,Middle East & Africa,Data Scientist,84094.84,477,13.71,463.86,477,492.31
+2020-07-01,Middle East & Africa,Machine Learning Engineer,74583.93,368,13.95,356.9,368,371.7
+2020-07-01,Middle East & Africa,Data Analyst,83540.93,520,11.82,509.63,520,533.57
+2020-07-01,Middle East & Africa,AI Researcher,82233.17,280,7.51,264.11,280,290.01
+2020-07-01,Middle East & Africa,MLOps Engineer,85365.9,311,14.54,302.46,311,317.38
+2020-08-01,North America,Data Scientist,127414.92,827,15.02,818.01,827,838.03
+2020-08-01,North America,Machine Learning Engineer,135550.84,753,19.41,741.61,753,760.06
+2020-08-01,North America,Data Analyst,122829.31,1012,13.59,1000.84,1012,1021.39
+2020-08-01,North America,AI Researcher,140224.63,506,5.48,496.45,506,513.58
+2020-08-01,North America,MLOps Engineer,136055.21,555,18.24,548.39,555,566.87
+2020-08-01,Europe,Data Scientist,105576.26,697,19.96,688.89,697,707.87
+2020-08-01,Europe,Machine Learning Engineer,116558.73,603,5.94,594.55,603,612.41
+2020-08-01,Europe,Data Analyst,105893.82,797,9.03,791.65,797,801.89
+2020-08-01,Europe,AI Researcher,106630.18,408,9.49,399.46,408,416.94
+2020-08-01,Europe,MLOps Engineer,102871.36,445,8.16,434.46,445,453.86
+2020-08-01,Asia-Pacific,Data Scientist,156608.88,915,7.32,905.09,915,922.45
+2020-08-01,Asia-Pacific,Machine Learning Engineer,136606.0,830,13.71,819.1,830,836.5
+2020-08-01,Asia-Pacific,Data Analyst,139302.16,1109,12.32,1099.24,1109,1116.5
+2020-08-01,Asia-Pacific,AI Researcher,145878.45,566,11.88,557.91,566,577.63
+2020-08-01,Asia-Pacific,MLOps Engineer,158471.05,685,17.93,673.82,685,689.22
+2020-08-01,South America,Data Scientist,93803.21,541,16.12,535.22,541,541.03
+2020-08-01,South America,Machine Learning Engineer,88089.98,477,17.9,472.11,477,484.23
+2020-08-01,South America,Data Analyst,88767.03,688,19.27,678.9,688,698.79
+2020-08-01,South America,AI Researcher,88419.62,342,14.67,331.11,342,347.45
+2020-08-01,South America,MLOps Engineer,84744.99,419,7.78,412.29,419,426.27
+2020-08-01,Middle East & Africa,Data Scientist,81767.94,465,9.29,458.31,465,475.66
+2020-08-01,Middle East & Africa,Machine Learning Engineer,77947.21,454,13.35,444.69,454,465.2
+2020-08-01,Middle East & Africa,Data Analyst,82080.0,580,8.31,568.77,580,589.08
+2020-08-01,Middle East & Africa,AI Researcher,76453.28,282,16.25,268.31,282,291.57
+2020-08-01,Middle East & Africa,MLOps Engineer,77141.81,311,12.29,303.81,311,319.0
+2020-09-01,North America,Data Scientist,128782.36,768,16.41,764.36,768,777.87
+2020-09-01,North America,Machine Learning Engineer,142604.75,668,19.99,659.58,668,682.17
+2020-09-01,North America,Data Analyst,132489.43,948,14.23,944.39,948,958.06
+2020-09-01,North America,AI Researcher,125769.59,496,5.52,492.25,496,511.17
+2020-09-01,North America,MLOps Engineer,131867.64,550,8.56,541.27,550,560.75
+2020-09-01,Europe,Data Scientist,105519.73,645,10.7,636.35,645,658.77
+2020-09-01,Europe,Machine Learning Engineer,111971.49,583,15.16,570.73,583,595.23
+2020-09-01,Europe,Data Analyst,106480.05,807,5.29,796.71,807,820.89
+2020-09-01,Europe,AI Researcher,114097.53,385,19.42,375.19,385,396.52
+2020-09-01,Europe,MLOps Engineer,113822.61,453,15.18,440.39,453,461.63
+2020-09-01,Asia-Pacific,Data Scientist,157164.75,911,19.85,896.58,911,917.74
+2020-09-01,Asia-Pacific,Machine Learning Engineer,149185.55,786,8.92,773.01,786,794.6
+2020-09-01,Asia-Pacific,Data Analyst,148571.23,1120,7.26,1113.44,1120,1129.83
+2020-09-01,Asia-Pacific,AI Researcher,137632.25,561,12.06,547.38,561,573.33
+2020-09-01,Asia-Pacific,MLOps Engineer,161407.55,638,11.04,622.76,638,647.19
+2020-09-01,South America,Data Scientist,85030.15,577,7.86,568.59,577,583.83
+2020-09-01,South America,Machine Learning Engineer,88835.16,527,12.97,518.71,527,536.81
+2020-09-01,South America,Data Analyst,93511.54,596,11.51,583.27,596,606.32
+2020-09-01,South America,AI Researcher,86191.58,366,17.31,355.4,366,381.73
+2020-09-01,South America,MLOps Engineer,89024.69,416,9.9,406.37,416,426.28
+2020-09-01,Middle East & Africa,Data Scientist,89646.71,487,5.49,475.19,487,498.27
+2020-09-01,Middle East & Africa,Machine Learning Engineer,73022.68,494,19.07,489.72,494,501.42
+2020-09-01,Middle East & Africa,Data Analyst,87550.75,586,8.79,580.01,586,590.4
+2020-09-01,Middle East & Africa,AI Researcher,81718.25,322,12.16,315.86,322,327.81
+2020-09-01,Middle East & Africa,MLOps Engineer,84153.52,307,17.61,305.5,307,315.33
+2020-10-01,North America,Data Scientist,133148.9,685,10.77,680.61,685,693.83
+2020-10-01,North America,Machine Learning Engineer,132919.92,632,12.13,621.9,632,638.56
+2020-10-01,North America,Data Analyst,131043.75,842,13.43,833.03,842,852.51
+2020-10-01,North America,AI Researcher,128657.03,412,14.93,401.53,412,421.35
+2020-10-01,North America,MLOps Engineer,115795.57,498,17.5,486.72,498,511.59
+2020-10-01,Europe,Data Scientist,106098.07,563,11.2,555.35,563,576.47
+2020-10-01,Europe,Machine Learning Engineer,109089.6,556,7.73,545.05,556,565.0
+2020-10-01,Europe,Data Analyst,107088.67,693,12.54,682.04,693,704.06
+2020-10-01,Europe,AI Researcher,117537.25,374,11.05,363.39,374,388.9
+2020-10-01,Europe,MLOps Engineer,119999.34,414,7.2,402.34,414,424.46
+2020-10-01,Asia-Pacific,Data Scientist,148259.03,860,10.69,850.56,860,870.93
+2020-10-01,Asia-Pacific,Machine Learning Engineer,159142.28,703,13.6,692.57,703,712.32
+2020-10-01,Asia-Pacific,Data Analyst,161307.25,966,10.19,952.87,966,977.75
+2020-10-01,Asia-Pacific,AI Researcher,154348.93,475,19.85,462.43,475,485.22
+2020-10-01,Asia-Pacific,MLOps Engineer,159617.73,579,6.81,572.88,579,590.72
+2020-10-01,South America,Data Scientist,81585.83,481,7.56,471.85,481,495.49
+2020-10-01,South America,Machine Learning Engineer,86217.88,426,5.25,412.85,426,440.97
+2020-10-01,South America,Data Analyst,87245.25,584,18.9,575.07,584,592.22
+2020-10-01,South America,AI Researcher,90375.67,283,10.89,272.78,283,291.77
+2020-10-01,South America,MLOps Engineer,89830.93,314,19.61,299.52,314,318.8
+2020-10-01,Middle East & Africa,Data Scientist,75921.98,456,18.56,443.46,456,459.62
+2020-10-01,Middle East & Africa,Machine Learning Engineer,77588.72,395,8.36,383.59,395,406.91
+2020-10-01,Middle East & Africa,Data Analyst,72058.16,500,18.06,498.72,500,508.88
+2020-10-01,Middle East & Africa,AI Researcher,73474.9,219,13.58,208.67,219,230.83
+2020-10-01,Middle East & Africa,MLOps Engineer,79312.21,317,9.02,310.46,317,321.74
+2020-11-01,North America,Data Scientist,131027.35,607,15.46,598.25,607,618.58
+2020-11-01,North America,Machine Learning Engineer,133402.07,525,18.44,518.01,525,532.74
+2020-11-01,North America,Data Analyst,126740.89,723,15.1,711.45,723,731.87
+2020-11-01,North America,AI Researcher,133131.59,385,10.41,378.59,385,397.68
+2020-11-01,North America,MLOps Engineer,141892.53,445,12.02,432.86,445,451.06
+2020-11-01,Europe,Data Scientist,99901.6,549,13.46,540.12,549,560.31
+2020-11-01,Europe,Machine Learning Engineer,112339.95,477,16.69,463.16,477,488.99
+2020-11-01,Europe,Data Analyst,113224.83,605,6.54,592.3,605,616.35
+2020-11-01,Europe,AI Researcher,103520.78,364,15.24,349.43,364,368.84
+2020-11-01,Europe,MLOps Engineer,115048.82,394,8.39,387.15,394,406.27
+2020-11-01,Asia-Pacific,Data Scientist,155214.02,746,17.74,738.96,746,755.14
+2020-11-01,Asia-Pacific,Machine Learning Engineer,148432.34,602,11.98,595.21,602,617.73
+2020-11-01,Asia-Pacific,Data Analyst,151421.1,842,19.48,835.76,842,856.87
+2020-11-01,Asia-Pacific,AI Researcher,144201.87,470,6.35,465.01,470,483.18
+2020-11-01,Asia-Pacific,MLOps Engineer,155789.4,501,9.4,493.2,501,516.7
+2020-11-01,South America,Data Scientist,90500.75,435,15.15,423.9,435,445.44
+2020-11-01,South America,Machine Learning Engineer,86795.01,383,13.9,368.69,383,396.5
+2020-11-01,South America,Data Analyst,81135.0,496,7.02,485.31,496,507.94
+2020-11-01,South America,AI Researcher,86071.68,264,6.77,251.84,264,270.11
+2020-11-01,South America,MLOps Engineer,90111.86,278,17.77,267.76,278,289.66
+2020-11-01,Middle East & Africa,Data Scientist,80120.13,328,14.11,315.37,328,333.83
+2020-11-01,Middle East & Africa,Machine Learning Engineer,78868.45,319,6.45,304.74,319,321.54
+2020-11-01,Middle East & Africa,Data Analyst,81352.09,465,11.04,458.23,465,478.62
+2020-11-01,Middle East & Africa,AI Researcher,76830.81,246,14.49,235.35,246,252.92
+2020-11-01,Middle East & Africa,MLOps Engineer,84245.48,297,12.5,285.92,297,309.24
+2020-12-01,North America,Data Scientist,127012.93,625,14.26,616.08,625,636.25
+2020-12-01,North America,Machine Learning Engineer,123615.03,573,6.29,556.04,573,586.54
+2020-12-01,North America,Data Analyst,134272.87,774,17.3,764.01,774,782.23
+2020-12-01,North America,AI Researcher,135425.88,361,18.47,355.64,361,372.04
+2020-12-01,North America,MLOps Engineer,124786.0,482,14.61,476.1,482,491.55
+2020-12-01,Europe,Data Scientist,119879.98,546,5.31,536.73,546,554.88
+2020-12-01,Europe,Machine Learning Engineer,114214.08,483,9.97,475.89,483,497.89
+2020-12-01,Europe,Data Analyst,118748.2,633,8.76,623.41,633,643.65
+2020-12-01,Europe,AI Researcher,109515.76,298,5.93,287.76,298,301.61
+2020-12-01,Europe,MLOps Engineer,104611.53,359,6.73,354.06,359,368.36
+2020-12-01,Asia-Pacific,Data Scientist,161876.08,719,11.63,710.58,719,729.53
+2020-12-01,Asia-Pacific,Machine Learning Engineer,150982.99,651,14.03,644.59,651,655.61
+2020-12-01,Asia-Pacific,Data Analyst,143749.7,885,10.88,873.48,885,892.82
+2020-12-01,Asia-Pacific,AI Researcher,158929.11,479,10.18,465.92,479,489.55
+2020-12-01,Asia-Pacific,MLOps Engineer,150929.38,519,18.62,513.73,519,526.59
+2020-12-01,South America,Data Scientist,89659.5,457,6.21,451.16,457,470.61
+2020-12-01,South America,Machine Learning Engineer,89793.62,380,14.45,368.53,380,391.71
+2020-12-01,South America,Data Analyst,89555.2,525,13.71,522.6,525,535.56
+2020-12-01,South America,AI Researcher,96206.23,266,19.26,258.02,266,274.79
+2020-12-01,South America,MLOps Engineer,86255.72,335,13.99,325.44,335,344.3
+2020-12-01,Middle East & Africa,Data Scientist,78826.38,377,5.73,365.72,377,388.25
+2020-12-01,Middle East & Africa,Machine Learning Engineer,84255.76,308,17.39,293.85,308,321.72
+2020-12-01,Middle East & Africa,Data Analyst,73913.61,496,19.37,479.18,496,508.67
+2020-12-01,Middle East & Africa,AI Researcher,74894.78,222,5.89,211.12,222,236.2
+2020-12-01,Middle East & Africa,MLOps Engineer,73822.49,281,15.0,271.33,281,288.59
+2021-01-01,North America,Data Scientist,127311.5,699,5.77,692.77,699,709.86
+2021-01-01,North America,Machine Learning Engineer,114553.19,583,17.59,572.94,583,589.49
+2021-01-01,North America,Data Analyst,142332.38,897,19.4,883.93,897,913.31
+2021-01-01,North America,AI Researcher,126828.04,454,6.16,444.27,454,463.76
+2021-01-01,North America,MLOps Engineer,123106.07,490,19.84,483.85,490,500.96
+2021-01-01,Europe,Data Scientist,108164.22,592,13.32,578.54,592,606.16
+2021-01-01,Europe,Machine Learning Engineer,95682.75,532,10.03,522.19,532,542.33
+2021-01-01,Europe,Data Analyst,104962.41,754,10.9,744.98,754,763.36
+2021-01-01,Europe,AI Researcher,107055.76,381,12.13,365.19,381,388.31
+2021-01-01,Europe,MLOps Engineer,112764.93,389,17.46,380.51,389,394.88
+2021-01-01,Asia-Pacific,Data Scientist,149542.47,839,10.01,830.6,839,847.34
+2021-01-01,Asia-Pacific,Machine Learning Engineer,159007.61,781,17.06,773.39,781,792.27
+2021-01-01,Asia-Pacific,Data Analyst,133373.86,1025,19.95,1022.48,1025,1036.2
+2021-01-01,Asia-Pacific,AI Researcher,142492.03,472,7.38,463.75,472,478.48
+2021-01-01,Asia-Pacific,MLOps Engineer,165509.3,545,13.91,538.15,545,551.46
+2021-01-01,South America,Data Scientist,101564.58,480,13.55,467.96,480,487.56
+2021-01-01,South America,Machine Learning Engineer,89278.38,449,8.92,434.65,449,460.84
+2021-01-01,South America,Data Analyst,92956.26,645,14.15,638.33,645,654.89
+2021-01-01,South America,AI Researcher,82944.63,290,9.32,272.47,290,299.99
+2021-01-01,South America,MLOps Engineer,94472.68,327,5.36,315.08,327,337.37
+2021-01-01,Middle East & Africa,Data Scientist,74803.13,441,13.26,433.27,441,452.74
+2021-01-01,Middle East & Africa,Machine Learning Engineer,79847.44,341,5.34,330.31,341,354.22
+2021-01-01,Middle East & Africa,Data Analyst,83616.07,528,16.25,514.06,528,538.43
+2021-01-01,Middle East & Africa,AI Researcher,77711.22,270,7.98,262.45,270,276.8
+2021-01-01,Middle East & Africa,MLOps Engineer,85325.36,383,6.22,376.67,383,388.53
+2021-02-01,North America,Data Scientist,125326.46,789,17.18,775.79,789,800.81
+2021-02-01,North America,Machine Learning Engineer,120383.61,799,18.98,785.56,799,810.95
+2021-02-01,North America,Data Analyst,128201.87,971,8.31,954.85,971,981.0
+2021-02-01,North America,AI Researcher,124859.15,492,11.16,478.75,492,503.68
+2021-02-01,North America,MLOps Engineer,136528.45,561,16.49,553.96,561,570.15
+2021-02-01,Europe,Data Scientist,114920.56,691,12.57,679.95,691,698.94
+2021-02-01,Europe,Machine Learning Engineer,117096.44,589,8.48,583.63,589,597.1
+2021-02-01,Europe,Data Analyst,106511.43,833,16.27,820.77,833,838.48
+2021-02-01,Europe,AI Researcher,109873.36,375,6.64,367.43,375,381.66
+2021-02-01,Europe,MLOps Engineer,111170.07,497,17.86,488.29,497,505.31
+2021-02-01,Asia-Pacific,Data Scientist,152486.14,947,15.24,936.98,947,950.74
+2021-02-01,Asia-Pacific,Machine Learning Engineer,166593.98,840,17.04,832.18,840,849.61
+2021-02-01,Asia-Pacific,Data Analyst,159022.86,1141,17.18,1131.43,1141,1152.02
+2021-02-01,Asia-Pacific,AI Researcher,156542.37,567,18.1,554.54,567,576.39
+2021-02-01,Asia-Pacific,MLOps Engineer,147369.67,710,7.52,699.46,710,723.69
+2021-02-01,South America,Data Scientist,86172.59,612,11.91,601.21,612,623.14
+2021-02-01,South America,Machine Learning Engineer,87331.18,518,17.58,504.35,518,531.17
+2021-02-01,South America,Data Analyst,88582.11,684,11.12,673.0,684,694.22
+2021-02-01,South America,AI Researcher,83765.57,352,8.73,342.42,352,362.92
+2021-02-01,South America,MLOps Engineer,96084.91,387,10.54,376.88,387,392.9
+2021-02-01,Middle East & Africa,Data Scientist,69110.89,485,18.2,465.27,485,501.92
+2021-02-01,Middle East & Africa,Machine Learning Engineer,79574.65,460,11.23,444.89,460,474.2
+2021-02-01,Middle East & Africa,Data Analyst,82040.91,583,14.73,576.6,583,586.05
+2021-02-01,Middle East & Africa,AI Researcher,76687.21,288,13.94,277.56,288,297.99
+2021-02-01,Middle East & Africa,MLOps Engineer,79086.65,359,5.82,350.11,359,364.96
+2021-03-01,North America,Data Scientist,133388.32,802,11.46,791.5,802,812.1
+2021-03-01,North America,Machine Learning Engineer,121982.27,687,14.32,678.76,687,697.99
+2021-03-01,North America,Data Analyst,127086.54,994,15.13,989.91,994,1007.42
+2021-03-01,North America,AI Researcher,128619.21,511,19.83,500.03,511,520.97
+2021-03-01,North America,MLOps Engineer,135351.32,555,17.86,544.95,555,565.87
+2021-03-01,Europe,Data Scientist,102183.66,668,17.28,654.99,668,676.51
+2021-03-01,Europe,Machine Learning Engineer,105821.63,575,11.26,563.59,575,587.76
+2021-03-01,Europe,Data Analyst,109912.45,833,9.95,823.45,833,842.02
+2021-03-01,Europe,AI Researcher,103552.71,397,6.84,388.65,397,404.33
+2021-03-01,Europe,MLOps Engineer,112667.51,482,13.17,470.24,482,490.76
+2021-03-01,Asia-Pacific,Data Scientist,148195.01,945,16.54,935.98,945,953.08
+2021-03-01,Asia-Pacific,Machine Learning Engineer,143608.49,803,10.9,796.65,803,813.48
+2021-03-01,Asia-Pacific,Data Analyst,153852.11,1107,16.95,1102.91,1107,1119.37
+2021-03-01,Asia-Pacific,AI Researcher,151225.54,574,6.31,567.79,574,578.62
+2021-03-01,Asia-Pacific,MLOps Engineer,149072.03,643,19.22,636.55,643,654.21
+2021-03-01,South America,Data Scientist,95916.51,542,10.14,535.53,542,553.46
+2021-03-01,South America,Machine Learning Engineer,92164.09,530,9.71,521.58,530,535.79
+2021-03-01,South America,Data Analyst,91339.22,689,17.22,681.9,689,698.07
+2021-03-01,South America,AI Researcher,86805.95,339,14.01,333.12,339,346.04
+2021-03-01,South America,MLOps Engineer,87806.75,433,12.04,424.57,433,444.48
+2021-03-01,Middle East & Africa,Data Scientist,75571.37,524,14.15,514.45,524,532.19
+2021-03-01,Middle East & Africa,Machine Learning Engineer,77855.31,416,18.66,406.02,416,425.35
+2021-03-01,Middle East & Africa,Data Analyst,77086.15,597,18.27,582.04,597,611.64
+2021-03-01,Middle East & Africa,AI Researcher,78119.03,347,18.75,340.29,347,352.57
+2021-03-01,Middle East & Africa,MLOps Engineer,84767.6,348,5.74,337.27,348,357.28
+2021-04-01,North America,Data Scientist,134835.36,673,18.79,668.53,673,680.33
+2021-04-01,North America,Machine Learning Engineer,133485.89,616,18.64,606.49,616,630.54
+2021-04-01,North America,Data Analyst,126482.69,892,11.51,883.18,892,905.0
+2021-04-01,North America,AI Researcher,134618.57,471,10.93,459.86,471,480.63
+2021-04-01,North America,MLOps Engineer,126396.8,522,16.23,508.02,522,527.78
+2021-04-01,Europe,Data Scientist,105947.76,603,9.38,592.34,603,612.65
+2021-04-01,Europe,Machine Learning Engineer,105137.13,548,18.47,532.43,548,558.67
+2021-04-01,Europe,Data Analyst,101136.38,722,5.01,713.01,722,734.26
+2021-04-01,Europe,AI Researcher,110998.32,358,7.3,345.99,358,372.58
+2021-04-01,Europe,MLOps Engineer,114184.66,448,10.12,436.84,448,456.29
+2021-04-01,Asia-Pacific,Data Scientist,157560.03,830,13.96,821.79,830,832.83
+2021-04-01,Asia-Pacific,Machine Learning Engineer,156851.05,749,7.73,737.72,749,755.38
+2021-04-01,Asia-Pacific,Data Analyst,152358.6,1023,14.53,1014.74,1023,1031.17
+2021-04-01,Asia-Pacific,AI Researcher,148203.74,515,15.0,504.44,515,526.77
+2021-04-01,Asia-Pacific,MLOps Engineer,152499.3,584,12.91,575.82,584,595.09
+2021-04-01,South America,Data Scientist,81496.58,537,7.49,523.13,537,551.37
+2021-04-01,South America,Machine Learning Engineer,90346.42,419,13.88,407.3,419,425.85
+2021-04-01,South America,Data Analyst,97382.77,678,10.02,671.37,678,683.76
+2021-04-01,South America,AI Researcher,87651.42,309,6.27,293.23,309,316.68
+2021-04-01,South America,MLOps Engineer,87879.31,283,18.99,270.75,283,293.01
+2021-04-01,Middle East & Africa,Data Scientist,84732.91,450,5.55,446.23,450,459.04
+2021-04-01,Middle East & Africa,Machine Learning Engineer,81442.59,424,19.59,414.09,424,441.17
+2021-04-01,Middle East & Africa,Data Analyst,79600.12,518,11.44,509.46,518,529.9
+2021-04-01,Middle East & Africa,AI Researcher,74377.75,252,5.55,241.4,252,265.53
+2021-04-01,Middle East & Africa,MLOps Engineer,77916.55,283,5.6,266.49,283,288.73
+2021-05-01,North America,Data Scientist,135093.33,580,10.5,570.95,580,590.65
+2021-05-01,North America,Machine Learning Engineer,131823.46,576,15.51,563.41,576,581.75
+2021-05-01,North America,Data Analyst,111545.99,720,9.77,707.13,720,732.62
+2021-05-01,North America,AI Researcher,136024.63,411,8.75,398.2,411,419.75
+2021-05-01,North America,MLOps Engineer,148295.25,456,14.05,444.82,456,466.71
+2021-05-01,Europe,Data Scientist,110682.86,532,6.89,517.61,532,543.35
+2021-05-01,Europe,Machine Learning Engineer,108696.43,513,14.35,502.16,513,521.81
+2021-05-01,Europe,Data Analyst,114200.34,641,9.51,629.28,641,648.89
+2021-05-01,Europe,AI Researcher,109203.02,279,9.89,268.66,279,285.48
+2021-05-01,Europe,MLOps Engineer,108404.79,366,16.54,350.96,366,370.27
+2021-05-01,Asia-Pacific,Data Scientist,148317.61,770,10.82,759.76,770,779.46
+2021-05-01,Asia-Pacific,Machine Learning Engineer,151252.78,665,10.45,655.34,665,675.66
+2021-05-01,Asia-Pacific,Data Analyst,142260.34,910,16.08,901.77,910,919.52
+2021-05-01,Asia-Pacific,AI Researcher,142646.94,406,19.74,391.95,406,418.66
+2021-05-01,Asia-Pacific,MLOps Engineer,151823.43,504,18.04,489.93,504,511.97
+2021-05-01,South America,Data Scientist,87353.31,434,14.12,419.11,434,442.88
+2021-05-01,South America,Machine Learning Engineer,81494.95,381,11.0,374.12,381,391.36
+2021-05-01,South America,Data Analyst,97579.57,525,11.29,517.21,525,539.97
+2021-05-01,South America,AI Researcher,90010.3,272,5.58,258.18,272,282.46
+2021-05-01,South America,MLOps Engineer,90299.67,264,18.65,252.14,264,278.92
+2021-05-01,Middle East & Africa,Data Scientist,81246.61,374,10.79,371.89,374,381.7
+2021-05-01,Middle East & Africa,Machine Learning Engineer,71205.23,368,18.17,356.42,368,376.57
+2021-05-01,Middle East & Africa,Data Analyst,80336.67,452,9.36,440.56,452,465.44
+2021-05-01,Middle East & Africa,AI Researcher,76194.92,221,6.94,208.04,221,228.86
+2021-05-01,Middle East & Africa,MLOps Engineer,79357.48,230,19.1,222.9,230,236.01
+2021-06-01,North America,Data Scientist,129357.21,647,15.65,636.16,647,655.47
+2021-06-01,North America,Machine Learning Engineer,126198.1,544,12.02,532.92,544,550.07
+2021-06-01,North America,Data Analyst,128960.55,818,13.03,815.16,818,826.51
+2021-06-01,North America,AI Researcher,119823.29,359,9.18,347.29,359,364.06
+2021-06-01,North America,MLOps Engineer,125607.21,433,19.98,422.67,433,441.12
+2021-06-01,Europe,Data Scientist,94299.55,534,6.3,527.38,534,543.52
+2021-06-01,Europe,Machine Learning Engineer,114658.21,494,5.09,483.86,494,505.68
+2021-06-01,Europe,Data Analyst,107350.29,690,13.0,685.41,690,696.47
+2021-06-01,Europe,AI Researcher,123813.47,313,8.41,297.39,313,324.26
+2021-06-01,Europe,MLOps Engineer,110047.06,358,16.58,343.93,358,366.81
+2021-06-01,Asia-Pacific,Data Scientist,143616.28,677,16.73,662.64,677,686.77
+2021-06-01,Asia-Pacific,Machine Learning Engineer,156690.51,608,8.37,595.9,608,612.85
+2021-06-01,Asia-Pacific,Data Analyst,128216.52,887,19.5,873.77,887,897.63
+2021-06-01,Asia-Pacific,AI Researcher,141812.81,447,15.77,433.89,447,454.73
+2021-06-01,Asia-Pacific,MLOps Engineer,133040.32,493,18.01,480.72,493,502.12
+2021-06-01,South America,Data Scientist,92221.02,441,15.32,436.99,441,453.82
+2021-06-01,South America,Machine Learning Engineer,82919.48,356,9.73,352.07,356,365.7
+2021-06-01,South America,Data Analyst,85650.35,512,11.67,500.91,512,522.87
+2021-06-01,South America,AI Researcher,93505.63,247,15.74,239.34,247,257.61
+2021-06-01,South America,MLOps Engineer,90835.6,319,8.16,307.18,319,328.58
+2021-06-01,Middle East & Africa,Data Scientist,78230.31,411,19.3,397.38,411,416.42
+2021-06-01,Middle East & Africa,Machine Learning Engineer,80505.07,312,8.2,304.38,312,326.95
+2021-06-01,Middle East & Africa,Data Analyst,77658.93,433,10.86,424.89,433,445.2
+2021-06-01,Middle East & Africa,AI Researcher,78141.68,230,16.67,225.24,230,240.31
+2021-06-01,Middle East & Africa,MLOps Engineer,85578.5,259,9.69,248.54,259,267.99
+2021-07-01,North America,Data Scientist,129302.78,749,16.49,742.23,749,761.81
+2021-07-01,North America,Machine Learning Engineer,126972.98,618,15.91,605.96,618,624.54
+2021-07-01,North America,Data Analyst,131296.26,901,13.52,892.94,901,910.4
+2021-07-01,North America,AI Researcher,135594.71,371,18.34,355.15,371,384.08
+2021-07-01,North America,MLOps Engineer,130177.54,496,9.65,490.75,496,506.05
+2021-07-01,Europe,Data Scientist,103654.47,575,11.96,563.79,575,587.15
+2021-07-01,Europe,Machine Learning Engineer,108217.63,570,6.71,557.96,570,583.11
+2021-07-01,Europe,Data Analyst,120224.38,767,11.88,758.58,767,777.1
+2021-07-01,Europe,AI Researcher,111227.99,329,13.18,320.64,329,340.21
+2021-07-01,Europe,MLOps Engineer,107247.88,422,6.56,419.11,422,438.13
+2021-07-01,Asia-Pacific,Data Scientist,144176.26,852,14.39,841.47,852,860.78
+2021-07-01,Asia-Pacific,Machine Learning Engineer,154319.28,743,14.16,731.46,743,755.46
+2021-07-01,Asia-Pacific,Data Analyst,146004.56,1032,10.11,1026.07,1032,1042.96
+2021-07-01,Asia-Pacific,AI Researcher,155725.01,510,19.62,498.54,510,523.22
+2021-07-01,Asia-Pacific,MLOps Engineer,152614.46,568,5.6,555.46,568,581.25
+2021-07-01,South America,Data Scientist,88321.77,523,5.83,516.18,523,525.51
+2021-07-01,South America,Machine Learning Engineer,92740.07,464,5.99,459.85,464,473.8
+2021-07-01,South America,Data Analyst,80140.17,607,15.24,593.23,607,619.84
+2021-07-01,South America,AI Researcher,84902.47,288,5.6,280.53,288,301.0
+2021-07-01,South America,MLOps Engineer,89432.41,374,11.89,363.32,374,382.32
+2021-07-01,Middle East & Africa,Data Scientist,82783.46,455,18.16,445.82,455,465.93
+2021-07-01,Middle East & Africa,Machine Learning Engineer,79149.99,387,10.14,379.63,387,397.3
+2021-07-01,Middle East & Africa,Data Analyst,85986.84,543,7.76,534.49,543,553.37
+2021-07-01,Middle East & Africa,AI Researcher,80382.94,247,17.29,240.47,247,253.0
+2021-07-01,Middle East & Africa,MLOps Engineer,82648.21,297,16.13,281.45,297,303.83
+2021-08-01,North America,Data Scientist,124349.86,838,6.95,825.45,838,849.25
+2021-08-01,North America,Machine Learning Engineer,132517.91,753,14.27,739.15,753,765.12
+2021-08-01,North America,Data Analyst,134145.18,1024,9.29,1018.18,1024,1037.16
+2021-08-01,North America,AI Researcher,131857.72,457,8.53,445.34,457,469.59
+2021-08-01,North America,MLOps Engineer,127004.59,574,16.38,561.36,574,584.0
+2021-08-01,Europe,Data Scientist,104733.37,701,15.25,692.38,701,715.4
+2021-08-01,Europe,Machine Learning Engineer,107207.47,615,11.08,607.88,615,620.94
+2021-08-01,Europe,Data Analyst,112271.49,803,18.44,791.86,803,813.88
+2021-08-01,Europe,AI Researcher,109729.37,411,19.19,404.56,411,424.17
+2021-08-01,Europe,MLOps Engineer,104854.22,475,16.93,467.74,475,481.57
+2021-08-01,Asia-Pacific,Data Scientist,160099.83,950,13.06,936.46,950,963.43
+2021-08-01,Asia-Pacific,Machine Learning Engineer,155728.95,829,18.36,820.65,829,842.65
+2021-08-01,Asia-Pacific,Data Analyst,158178.64,1172,19.7,1159.77,1172,1180.09
+2021-08-01,Asia-Pacific,AI Researcher,147724.87,575,14.46,562.7,575,579.83
+2021-08-01,Asia-Pacific,MLOps Engineer,158018.58,614,19.04,602.89,614,625.75
+2021-08-01,South America,Data Scientist,89741.74,578,14.5,568.69,578,585.12
+2021-08-01,South America,Machine Learning Engineer,96524.34,515,7.19,506.61,515,526.97
+2021-08-01,South America,Data Analyst,97735.68,651,5.25,640.34,651,660.27
+2021-08-01,South America,AI Researcher,86911.48,341,14.94,326.64,341,351.04
+2021-08-01,South America,MLOps Engineer,88653.68,400,10.67,391.75,400,409.24
+2021-08-01,Middle East & Africa,Data Scientist,80112.32,496,11.24,487.7,496,508.49
+2021-08-01,Middle East & Africa,Machine Learning Engineer,76061.86,463,17.64,450.65,463,478.33
+2021-08-01,Middle East & Africa,Data Analyst,76921.75,610,10.42,601.84,610,620.59
+2021-08-01,Middle East & Africa,AI Researcher,71313.71,318,17.24,307.53,318,332.12
+2021-08-01,Middle East & Africa,MLOps Engineer,83705.93,353,11.16,338.09,353,366.94
+2021-09-01,North America,Data Scientist,128351.11,802,8.17,790.53,802,809.37
+2021-09-01,North America,Machine Learning Engineer,121852.53,775,19.4,760.67,775,783.46
+2021-09-01,North America,Data Analyst,127987.28,1017,5.11,1015.51,1017,1031.96
+2021-09-01,North America,AI Researcher,140837.99,479,8.5,467.93,479,492.78
+2021-09-01,North America,MLOps Engineer,125235.7,583,11.23,571.72,583,594.8
+2021-09-01,Europe,Data Scientist,106713.61,724,12.32,712.43,724,730.34
+2021-09-01,Europe,Machine Learning Engineer,94422.21,600,17.01,589.61,600,615.25
+2021-09-01,Europe,Data Analyst,108715.68,875,7.88,869.85,875,884.31
+2021-09-01,Europe,AI Researcher,113446.38,417,14.47,405.13,417,423.78
+2021-09-01,Europe,MLOps Engineer,105602.04,492,14.34,477.55,492,501.15
+2021-09-01,Asia-Pacific,Data Scientist,146465.13,958,15.66,948.47,958,969.68
+2021-09-01,Asia-Pacific,Machine Learning Engineer,140738.66,819,13.79,807.56,819,825.83
+2021-09-01,Asia-Pacific,Data Analyst,142780.12,1181,14.22,1167.68,1181,1187.48
+2021-09-01,Asia-Pacific,AI Researcher,156731.58,575,8.18,567.39,575,582.15
+2021-09-01,Asia-Pacific,MLOps Engineer,146378.18,638,10.08,627.27,638,647.12
+2021-09-01,South America,Data Scientist,91950.63,574,14.24,563.62,574,582.59
+2021-09-01,South America,Machine Learning Engineer,83496.58,506,11.01,494.27,506,515.63
+2021-09-01,South America,Data Analyst,89584.63,728,18.46,719.83,728,739.78
+2021-09-01,South America,AI Researcher,91606.38,356,5.75,346.11,356,366.38
+2021-09-01,South America,MLOps Engineer,98428.97,391,5.25,378.83,391,401.34
+2021-09-01,Middle East & Africa,Data Scientist,82071.98,535,11.89,525.91,535,542.63
+2021-09-01,Middle East & Africa,Machine Learning Engineer,80139.47,490,16.48,483.57,490,499.85
+2021-09-01,Middle East & Africa,Data Analyst,81893.63,595,7.36,582.13,595,605.07
+2021-09-01,Middle East & Africa,AI Researcher,80773.41,310,8.8,298.44,310,321.49
+2021-09-01,Middle East & Africa,MLOps Engineer,81659.09,382,6.99,372.86,382,398.0
+2021-10-01,North America,Data Scientist,128926.7,773,17.8,763.71,773,781.78
+2021-10-01,North America,Machine Learning Engineer,131917.31,630,16.83,616.16,630,641.98
+2021-10-01,North America,Data Analyst,135077.63,843,18.11,835.98,843,853.75
+2021-10-01,North America,AI Researcher,128357.04,432,6.59,419.61,432,446.08
+2021-10-01,North America,MLOps Engineer,130148.57,529,19.25,525.96,529,541.35
+2021-10-01,Europe,Data Scientist,116613.48,608,17.7,607.53,608,616.98
+2021-10-01,Europe,Machine Learning Engineer,109442.71,558,13.59,545.81,558,566.05
+2021-10-01,Europe,Data Analyst,109063.58,699,19.24,690.2,699,706.35
+2021-10-01,Europe,AI Researcher,99594.53,357,5.53,345.54,357,361.15
+2021-10-01,Europe,MLOps Engineer,114065.49,398,10.66,388.17,398,405.42
+2021-10-01,Asia-Pacific,Data Scientist,161869.16,830,8.09,815.72,830,838.74
+2021-10-01,Asia-Pacific,Machine Learning Engineer,135644.55,794,5.78,786.41,794,802.93
+2021-10-01,Asia-Pacific,Data Analyst,147438.18,1046,15.84,1034.12,1046,1055.16
+2021-10-01,Asia-Pacific,AI Researcher,148621.1,495,7.94,485.04,495,507.04
+2021-10-01,Asia-Pacific,MLOps Engineer,137191.22,597,15.54,584.39,597,603.44
+2021-10-01,South America,Data Scientist,92788.82,496,7.27,485.72,496,503.5
+2021-10-01,South America,Machine Learning Engineer,91115.04,451,6.16,438.94,451,460.58
+2021-10-01,South America,Data Analyst,92389.39,608,6.63,599.59,608,618.89
+2021-10-01,South America,AI Researcher,90212.53,296,12.31,284.41,296,306.45
+2021-10-01,South America,MLOps Engineer,100546.44,398,7.04,385.15,398,407.17
+2021-10-01,Middle East & Africa,Data Scientist,75813.85,448,10.58,438.23,448,452.95
+2021-10-01,Middle East & Africa,Machine Learning Engineer,79854.68,416,5.82,407.57,416,426.13
+2021-10-01,Middle East & Africa,Data Analyst,90377.24,591,7.56,582.82,591,597.96
+2021-10-01,Middle East & Africa,AI Researcher,81728.87,232,7.03,219.1,232,243.34
+2021-10-01,Middle East & Africa,MLOps Engineer,84824.47,309,19.06,301.56,309,320.43
+2021-11-01,North America,Data Scientist,126917.84,648,18.8,633.17,648,655.92
+2021-11-01,North America,Machine Learning Engineer,123415.31,561,5.77,554.19,561,570.97
+2021-11-01,North America,Data Analyst,122719.69,746,7.3,734.19,746,751.87
+2021-11-01,North America,AI Researcher,132476.19,347,15.61,338.49,347,353.54
+2021-11-01,North America,MLOps Engineer,124647.02,450,13.68,436.02,450,460.34
+2021-11-01,Europe,Data Scientist,107681.87,548,17.65,533.95,548,561.88
+2021-11-01,Europe,Machine Learning Engineer,111678.84,538,7.5,523.76,538,549.96
+2021-11-01,Europe,Data Analyst,109587.56,662,7.61,648.71,662,665.43
+2021-11-01,Europe,AI Researcher,116173.06,355,6.81,343.37,355,364.45
+2021-11-01,Europe,MLOps Engineer,112140.43,386,6.46,373.05,386,391.8
+2021-11-01,Asia-Pacific,Data Scientist,148457.79,759,13.86,751.18,759,765.22
+2021-11-01,Asia-Pacific,Machine Learning Engineer,157678.32,682,7.92,671.28,682,695.76
+2021-11-01,Asia-Pacific,Data Analyst,157271.77,916,18.02,910.17,916,927.44
+2021-11-01,Asia-Pacific,AI Researcher,141492.9,443,10.84,433.37,443,453.93
+2021-11-01,Asia-Pacific,MLOps Engineer,148232.17,492,16.74,478.64,492,499.82
+2021-11-01,South America,Data Scientist,87507.14,402,11.65,396.42,402,407.88
+2021-11-01,South America,Machine Learning Engineer,90521.21,439,15.06,435.66,439,446.22
+2021-11-01,South America,Data Analyst,90652.09,518,13.66,508.66,518,528.21
+2021-11-01,South America,AI Researcher,100764.49,241,6.22,228.95,241,248.37
+2021-11-01,South America,MLOps Engineer,91406.93,284,12.63,271.58,284,291.46
+2021-11-01,Middle East & Africa,Data Scientist,78186.34,360,8.71,350.99,360,374.03
+2021-11-01,Middle East & Africa,Machine Learning Engineer,78754.61,405,6.1,390.21,405,417.2
+2021-11-01,Middle East & Africa,Data Analyst,79049.27,478,18.81,469.54,478,488.13
+2021-11-01,Middle East & Africa,AI Researcher,82666.82,248,15.1,238.17,248,255.79
+2021-11-01,Middle East & Africa,MLOps Engineer,73602.42,308,10.35,301.7,308,318.04
+2021-12-01,North America,Data Scientist,133191.93,633,10.08,620.81,633,644.62
+2021-12-01,North America,Machine Learning Engineer,145563.35,632,13.36,624.06,632,639.38
+2021-12-01,North America,Data Analyst,124527.04,801,11.2,788.52,801,814.21
+2021-12-01,North America,AI Researcher,129856.77,358,15.26,348.56,358,367.34
+2021-12-01,North America,MLOps Engineer,127882.75,471,9.72,458.87,471,481.06
+2021-12-01,Europe,Data Scientist,107668.6,540,7.99,526.86,540,544.29
+2021-12-01,Europe,Machine Learning Engineer,110786.22,468,12.58,458.06,468,478.87
+2021-12-01,Europe,Data Analyst,108791.82,640,15.82,634.67,640,654.63
+2021-12-01,Europe,AI Researcher,119583.07,361,6.72,350.75,361,367.79
+2021-12-01,Europe,MLOps Engineer,122785.7,405,5.95,393.48,405,418.61
+2021-12-01,Asia-Pacific,Data Scientist,154702.16,747,7.87,741.18,747,762.11
+2021-12-01,Asia-Pacific,Machine Learning Engineer,147405.61,683,19.23,676.37,683,695.42
+2021-12-01,Asia-Pacific,Data Analyst,150432.02,873,6.06,859.91,873,884.51
+2021-12-01,Asia-Pacific,AI Researcher,150585.88,460,12.76,449.4,460,470.23
+2021-12-01,Asia-Pacific,MLOps Engineer,151850.41,484,12.24,474.12,484,489.79
+2021-12-01,South America,Data Scientist,92337.11,470,14.06,461.77,470,477.8
+2021-12-01,South America,Machine Learning Engineer,88536.77,351,5.39,338.93,351,358.95
+2021-12-01,South America,Data Analyst,89935.78,534,17.82,523.71,534,542.99
+2021-12-01,South America,AI Researcher,92342.26,278,16.99,272.75,278,288.15
+2021-12-01,South America,MLOps Engineer,93280.24,314,16.89,305.98,314,322.73
+2021-12-01,Middle East & Africa,Data Scientist,80766.53,441,18.52,431.37,441,450.37
+2021-12-01,Middle East & Africa,Machine Learning Engineer,81302.31,410,7.83,402.56,410,419.88
+2021-12-01,Middle East & Africa,Data Analyst,80478.64,425,12.54,415.55,425,431.61
+2021-12-01,Middle East & Africa,AI Researcher,71701.44,244,16.42,233.95,244,251.36
+2021-12-01,Middle East & Africa,MLOps Engineer,76031.83,303,13.65,294.24,303,310.01
+2022-01-01,North America,Data Scientist,141709.3,740,13.43,735.56,740,751.38
+2022-01-01,North America,Machine Learning Engineer,124881.41,657,13.53,648.11,657,667.64
+2022-01-01,North America,Data Analyst,141252.6,866,7.87,856.12,866,875.32
+2022-01-01,North America,AI Researcher,124213.35,458,17.82,450.54,458,470.78
+2022-01-01,North America,MLOps Engineer,126683.95,517,13.0,504.69,517,521.87
+2022-01-01,Europe,Data Scientist,110578.93,681,6.75,670.68,681,687.76
+2022-01-01,Europe,Machine Learning Engineer,112196.25,570,8.72,558.49,570,577.47
+2022-01-01,Europe,Data Analyst,110169.11,738,15.88,728.67,738,745.21
+2022-01-01,Europe,AI Researcher,104096.7,440,17.12,428.75,440,451.59
+2022-01-01,Europe,MLOps Engineer,105957.1,509,7.08,498.08,509,525.2
+2022-01-01,Asia-Pacific,Data Scientist,159019.32,833,6.28,820.49,833,847.74
+2022-01-01,Asia-Pacific,Machine Learning Engineer,149799.37,790,18.42,781.8,790,795.32
+2022-01-01,Asia-Pacific,Data Analyst,153179.17,1039,8.59,1030.62,1039,1044.42
+2022-01-01,Asia-Pacific,AI Researcher,143883.73,499,9.44,493.88,499,515.07
+2022-01-01,Asia-Pacific,MLOps Engineer,144157.35,636,9.98,624.75,636,644.02
+2022-01-01,South America,Data Scientist,88367.46,515,17.12,509.01,515,527.17
+2022-01-01,South America,Machine Learning Engineer,101645.59,477,17.97,464.9,477,490.34
+2022-01-01,South America,Data Analyst,92744.23,564,6.09,555.92,564,575.98
+2022-01-01,South America,AI Researcher,92698.1,358,14.93,346.75,358,371.36
+2022-01-01,South America,MLOps Engineer,92692.49,324,16.18,318.49,324,331.25
+2022-01-01,Middle East & Africa,Data Scientist,79323.51,491,14.92,478.72,491,503.29
+2022-01-01,Middle East & Africa,Machine Learning Engineer,81136.23,395,11.23,385.39,395,402.45
+2022-01-01,Middle East & Africa,Data Analyst,76085.04,530,13.94,516.3,530,539.22
+2022-01-01,Middle East & Africa,AI Researcher,79279.28,281,8.35,271.58,281,292.62
+2022-01-01,Middle East & Africa,MLOps Engineer,75206.43,343,12.16,332.37,343,348.17
+2022-02-01,North America,Data Scientist,118198.98,839,6.3,828.23,839,852.58
+2022-02-01,North America,Machine Learning Engineer,126763.25,737,16.89,729.4,737,748.31
+2022-02-01,North America,Data Analyst,125159.08,1005,18.05,998.16,1005,1016.28
+2022-02-01,North America,AI Researcher,126351.3,464,19.84,448.98,464,473.52
+2022-02-01,North America,MLOps Engineer,134030.97,528,9.74,516.16,528,539.13
+2022-02-01,Europe,Data Scientist,116392.43,713,10.98,700.32,713,721.95
+2022-02-01,Europe,Machine Learning Engineer,106543.33,595,12.9,585.57,595,600.51
+2022-02-01,Europe,Data Analyst,108330.06,884,10.01,869.23,884,897.22
+2022-02-01,Europe,AI Researcher,109386.8,435,6.96,423.71,435,447.22
+2022-02-01,Europe,MLOps Engineer,97628.12,570,7.96,561.67,570,581.98
+2022-02-01,Asia-Pacific,Data Scientist,155149.71,951,6.34,938.47,951,961.07
+2022-02-01,Asia-Pacific,Machine Learning Engineer,138656.03,891,13.99,887.53,891,904.28
+2022-02-01,Asia-Pacific,Data Analyst,153423.77,1135,14.51,1130.68,1135,1145.93
+2022-02-01,Asia-Pacific,AI Researcher,147020.08,567,12.55,556.73,567,577.62
+2022-02-01,Asia-Pacific,MLOps Engineer,156816.09,661,11.52,652.58,661,669.43
+2022-02-01,South America,Data Scientist,93942.78,558,9.83,546.07,558,570.05
+2022-02-01,South America,Machine Learning Engineer,85591.07,520,12.65,507.22,520,529.73
+2022-02-01,South America,Data Analyst,92951.51,714,17.1,704.06,714,719.63
+2022-02-01,South America,AI Researcher,84086.23,354,5.79,341.94,354,362.16
+2022-02-01,South America,MLOps Engineer,95327.94,414,8.01,404.18,414,421.91
+2022-02-01,Middle East & Africa,Data Scientist,78339.3,482,18.66,476.05,482,497.3
+2022-02-01,Middle East & Africa,Machine Learning Engineer,74372.23,470,11.05,459.67,470,484.01
+2022-02-01,Middle East & Africa,Data Analyst,74358.29,665,6.4,658.11,665,674.39
+2022-02-01,Middle East & Africa,AI Researcher,82638.6,328,12.47,320.24,328,340.87
+2022-02-01,Middle East & Africa,MLOps Engineer,81557.37,364,5.7,349.45,364,375.15
+2022-03-01,North America,Data Scientist,126748.71,839,11.7,824.09,839,850.86
+2022-03-01,North America,Machine Learning Engineer,137697.18,731,19.34,728.15,731,743.24
+2022-03-01,North America,Data Analyst,132784.22,1013,17.64,1004.15,1013,1027.22
+2022-03-01,North America,AI Researcher,120826.84,480,14.03,470.39,480,488.04
+2022-03-01,North America,MLOps Engineer,140396.56,555,16.57,543.4,555,567.21
+2022-03-01,Europe,Data Scientist,111625.58,725,9.55,718.15,725,727.4
+2022-03-01,Europe,Machine Learning Engineer,109220.33,644,15.01,631.81,644,653.24
+2022-03-01,Europe,Data Analyst,107688.52,881,7.8,869.49,881,892.88
+2022-03-01,Europe,AI Researcher,101734.21,392,8.76,383.98,392,400.14
+2022-03-01,Europe,MLOps Engineer,110105.63,503,17.98,493.54,503,512.67
+2022-03-01,Asia-Pacific,Data Scientist,144381.21,1031,19.39,1020.37,1031,1042.38
+2022-03-01,Asia-Pacific,Machine Learning Engineer,145667.89,913,19.76,906.17,913,921.94
+2022-03-01,Asia-Pacific,Data Analyst,157143.46,1174,11.69,1158.99,1174,1182.47
+2022-03-01,Asia-Pacific,AI Researcher,162737.18,571,14.95,562.48,571,584.98
+2022-03-01,Asia-Pacific,MLOps Engineer,153049.67,661,15.94,649.08,661,674.16
+2022-03-01,South America,Data Scientist,93468.46,588,12.26,581.14,588,597.92
+2022-03-01,South America,Machine Learning Engineer,93361.41,516,15.16,503.93,516,524.66
+2022-03-01,South America,Data Analyst,88070.96,715,12.46,706.03,715,723.88
+2022-03-01,South America,AI Researcher,81191.98,320,12.56,309.42,320,330.89
+2022-03-01,South America,MLOps Engineer,93781.61,413,16.07,399.5,413,420.83
+2022-03-01,Middle East & Africa,Data Scientist,69043.44,526,9.65,511.38,526,536.67
+2022-03-01,Middle East & Africa,Machine Learning Engineer,78640.62,469,13.89,457.77,469,478.17
+2022-03-01,Middle East & Africa,Data Analyst,81835.98,628,5.42,618.31,628,639.46
+2022-03-01,Middle East & Africa,AI Researcher,86479.25,297,18.77,290.81,297,305.86
+2022-03-01,Middle East & Africa,MLOps Engineer,80150.79,397,18.61,381.7,397,407.28
+2022-04-01,North America,Data Scientist,128504.84,745,12.23,735.51,745,754.02
+2022-04-01,North America,Machine Learning Engineer,128999.62,684,15.07,679.34,684,693.85
+2022-04-01,North America,Data Analyst,133979.56,883,14.39,875.43,883,894.1
+2022-04-01,North America,AI Researcher,135621.36,438,16.31,427.1,438,447.11
+2022-04-01,North America,MLOps Engineer,138667.02,503,6.56,490.64,503,511.32
+2022-04-01,Europe,Data Scientist,117475.54,584,15.95,579.23,584,599.32
+2022-04-01,Europe,Machine Learning Engineer,115897.08,562,5.78,552.39,562,575.38
+2022-04-01,Europe,Data Analyst,105568.1,762,10.68,752.13,762,770.83
+2022-04-01,Europe,AI Researcher,111371.54,389,16.56,378.98,389,394.56
+2022-04-01,Europe,MLOps Engineer,102100.6,446,8.42,433.85,446,456.49
+2022-04-01,Asia-Pacific,Data Scientist,150288.74,853,14.08,844.92,853,871.47
+2022-04-01,Asia-Pacific,Machine Learning Engineer,150150.8,756,6.97,741.96,756,765.55
+2022-04-01,Asia-Pacific,Data Analyst,150424.35,1041,6.69,1032.69,1041,1046.52
+2022-04-01,Asia-Pacific,AI Researcher,146267.46,533,9.01,523.5,533,539.46
+2022-04-01,Asia-Pacific,MLOps Engineer,158844.45,641,15.72,632.2,641,648.76
+2022-04-01,South America,Data Scientist,92757.56,520,5.69,510.65,520,523.94
+2022-04-01,South America,Machine Learning Engineer,100582.97,475,18.03,467.32,475,490.7
+2022-04-01,South America,Data Analyst,85337.35,642,7.44,630.81,642,653.09
+2022-04-01,South America,AI Researcher,89020.41,327,18.56,315.33,327,331.29
+2022-04-01,South America,MLOps Engineer,97749.7,344,15.05,335.81,344,353.04
+2022-04-01,Middle East & Africa,Data Scientist,74527.7,392,19.46,382.43,392,402.13
+2022-04-01,Middle East & Africa,Machine Learning Engineer,79238.22,433,16.38,423.84,433,446.88
+2022-04-01,Middle East & Africa,Data Analyst,75017.03,611,12.56,606.31,611,622.1
+2022-04-01,Middle East & Africa,AI Researcher,80809.12,269,7.41,261.93,269,272.19
+2022-04-01,Middle East & Africa,MLOps Engineer,76389.25,325,11.45,313.29,325,334.01
+2022-05-01,North America,Data Scientist,135545.81,648,9.55,636.45,648,656.24
+2022-05-01,North America,Machine Learning Engineer,125255.85,619,19.23,608.38,619,624.13
+2022-05-01,North America,Data Analyst,128932.43,846,7.84,838.51,846,851.77
+2022-05-01,North America,AI Researcher,115800.8,408,8.51,396.63,408,424.29
+2022-05-01,North America,MLOps Engineer,133842.38,457,12.69,441.17,457,466.01
+2022-05-01,Europe,Data Scientist,120180.8,514,19.11,504.85,514,523.68
+2022-05-01,Europe,Machine Learning Engineer,108580.04,582,19.77,573.95,582,593.14
+2022-05-01,Europe,Data Analyst,120520.0,653,17.74,649.91,653,661.92
+2022-05-01,Europe,AI Researcher,108731.36,414,6.49,399.67,414,421.16
+2022-05-01,Europe,MLOps Engineer,110292.67,384,11.04,376.44,384,394.53
+2022-05-01,Asia-Pacific,Data Scientist,148010.72,732,15.31,721.19,732,740.05
+2022-05-01,Asia-Pacific,Machine Learning Engineer,163959.43,664,5.37,653.52,664,678.09
+2022-05-01,Asia-Pacific,Data Analyst,149102.85,891,5.98,878.54,891,903.02
+2022-05-01,Asia-Pacific,AI Researcher,137113.97,480,8.25,468.92,480,486.41
+2022-05-01,Asia-Pacific,MLOps Engineer,134070.39,508,12.28,499.64,508,512.39
+2022-05-01,South America,Data Scientist,85993.3,475,15.35,469.14,475,479.61
+2022-05-01,South America,Machine Learning Engineer,87668.69,354,14.96,345.89,354,360.28
+2022-05-01,South America,Data Analyst,83811.49,567,8.16,558.97,567,574.91
+2022-05-01,South America,AI Researcher,88260.56,249,7.01,238.38,249,254.92
+2022-05-01,South America,MLOps Engineer,92196.43,374,8.84,366.45,374,384.96
+2022-05-01,Middle East & Africa,Data Scientist,85569.82,360,18.07,354.5,360,365.83
+2022-05-01,Middle East & Africa,Machine Learning Engineer,79428.53,328,10.51,318.68,328,340.15
+2022-05-01,Middle East & Africa,Data Analyst,73918.85,461,14.21,447.98,461,474.07
+2022-05-01,Middle East & Africa,AI Researcher,70008.61,235,12.46,225.46,235,248.18
+2022-05-01,Middle East & Africa,MLOps Engineer,78448.14,260,11.05,258.7,260,267.65
+2022-06-01,North America,Data Scientist,130656.72,710,17.11,700.7,710,717.32
+2022-06-01,North America,Machine Learning Engineer,117822.63,624,13.14,617.3,624,634.49
+2022-06-01,North America,Data Analyst,129247.97,778,9.9,765.98,778,788.5
+2022-06-01,North America,AI Researcher,132621.28,410,16.8,402.39,410,419.53
+2022-06-01,North America,MLOps Engineer,148796.07,455,15.93,441.32,455,460.26
+2022-06-01,Europe,Data Scientist,122273.24,569,6.27,556.69,569,578.12
+2022-06-01,Europe,Machine Learning Engineer,116819.65,494,15.52,485.8,494,507.5
+2022-06-01,Europe,Data Analyst,101778.84,635,7.5,624.92,635,647.11
+2022-06-01,Europe,AI Researcher,111413.27,325,11.13,316.34,325,341.16
+2022-06-01,Europe,MLOps Engineer,121579.14,373,12.93,367.13,373,384.81
+2022-06-01,Asia-Pacific,Data Scientist,144228.05,787,15.81,774.07,787,797.0
+2022-06-01,Asia-Pacific,Machine Learning Engineer,133847.02,710,5.13,701.92,710,720.88
+2022-06-01,Asia-Pacific,Data Analyst,153398.73,892,15.58,885.0,892,906.87
+2022-06-01,Asia-Pacific,AI Researcher,152946.85,528,12.83,519.71,528,539.5
+2022-06-01,Asia-Pacific,MLOps Engineer,157040.43,534,7.65,521.41,534,544.51
+2022-06-01,South America,Data Scientist,84521.68,492,10.05,485.51,492,500.01
+2022-06-01,South America,Machine Learning Engineer,83540.9,379,11.73,365.58,379,386.49
+2022-06-01,South America,Data Analyst,92009.41,551,7.36,537.72,551,561.41
+2022-06-01,South America,AI Researcher,93558.24,325,11.61,314.25,325,336.2
+2022-06-01,South America,MLOps Engineer,88761.95,374,9.9,363.65,374,382.34
+2022-06-01,Middle East & Africa,Data Scientist,79825.88,404,9.99,398.9,404,412.73
+2022-06-01,Middle East & Africa,Machine Learning Engineer,76437.0,357,9.79,346.79,357,364.86
+2022-06-01,Middle East & Africa,Data Analyst,82354.54,503,16.3,490.14,503,516.66
+2022-06-01,Middle East & Africa,AI Researcher,78575.63,297,16.67,288.25,297,300.28
+2022-06-01,Middle East & Africa,MLOps Engineer,83447.86,265,15.39,256.09,265,277.56
+2022-07-01,North America,Data Scientist,139751.78,772,12.76,758.92,772,786.61
+2022-07-01,North America,Machine Learning Engineer,145086.53,707,12.24,696.46,707,716.18
+2022-07-01,North America,Data Analyst,137131.93,909,6.09,900.49,909,917.98
+2022-07-01,North America,AI Researcher,134306.66,472,15.17,456.88,472,479.69
+2022-07-01,North America,MLOps Engineer,124179.72,484,5.74,469.99,484,494.17
+2022-07-01,Europe,Data Scientist,111238.92,658,17.61,648.29,658,667.0
+2022-07-01,Europe,Machine Learning Engineer,101487.09,578,13.31,568.12,578,589.2
+2022-07-01,Europe,Data Analyst,113868.22,779,13.14,772.43,779,789.26
+2022-07-01,Europe,AI Researcher,106050.64,384,14.06,373.31,384,395.53
+2022-07-01,Europe,MLOps Engineer,108103.72,407,13.99,395.4,407,414.82
+2022-07-01,Asia-Pacific,Data Scientist,140510.56,912,6.92,904.62,912,917.4
+2022-07-01,Asia-Pacific,Machine Learning Engineer,143653.4,795,18.23,785.34,795,805.44
+2022-07-01,Asia-Pacific,Data Analyst,151577.75,1062,14.89,1054.33,1062,1067.68
+2022-07-01,Asia-Pacific,AI Researcher,143825.28,544,15.79,528.39,544,554.1
+2022-07-01,Asia-Pacific,MLOps Engineer,141396.3,614,18.46,605.71,614,615.5
+2022-07-01,South America,Data Scientist,80373.99,553,18.86,542.81,553,561.88
+2022-07-01,South America,Machine Learning Engineer,91159.2,469,15.91,461.65,469,477.53
+2022-07-01,South America,Data Analyst,86771.74,614,6.6,601.83,614,625.35
+2022-07-01,South America,AI Researcher,85868.91,314,8.8,308.69,314,318.18
+2022-07-01,South America,MLOps Engineer,84084.13,364,15.91,350.59,364,373.54
+2022-07-01,Middle East & Africa,Data Scientist,81753.65,452,8.01,441.6,452,457.97
+2022-07-01,Middle East & Africa,Machine Learning Engineer,88953.41,399,15.38,386.11,399,408.08
+2022-07-01,Middle East & Africa,Data Analyst,87811.67,522,17.31,514.25,522,535.37
+2022-07-01,Middle East & Africa,AI Researcher,75841.48,290,5.2,276.75,290,296.77
+2022-07-01,Middle East & Africa,MLOps Engineer,83830.15,272,11.16,262.45,272,280.47
+2022-08-01,North America,Data Scientist,120409.83,872,19.6,863.66,872,878.71
+2022-08-01,North America,Machine Learning Engineer,142138.5,816,14.71,801.25,816,832.48
+2022-08-01,North America,Data Analyst,126725.04,1003,10.91,995.68,1003,1008.08
+2022-08-01,North America,AI Researcher,122221.67,515,12.36,500.89,515,526.4
+2022-08-01,North America,MLOps Engineer,118949.87,623,18.27,617.28,623,634.18
+2022-08-01,Europe,Data Scientist,106525.92,756,10.92,747.09,756,769.13
+2022-08-01,Europe,Machine Learning Engineer,115608.77,623,5.74,615.27,623,634.08
+2022-08-01,Europe,Data Analyst,104834.17,894,7.68,881.21,894,905.98
+2022-08-01,Europe,AI Researcher,112042.72,436,7.53,424.39,436,447.93
+2022-08-01,Europe,MLOps Engineer,115536.34,464,12.65,455.07,464,468.59
+2022-08-01,Asia-Pacific,Data Scientist,133284.09,1019,14.62,1012.01,1019,1028.01
+2022-08-01,Asia-Pacific,Machine Learning Engineer,155799.3,930,19.25,919.08,930,940.45
+2022-08-01,Asia-Pacific,Data Analyst,165262.57,1189,17.47,1180.09,1189,1201.23
+2022-08-01,Asia-Pacific,AI Researcher,141885.64,591,9.12,580.75,591,600.77
+2022-08-01,Asia-Pacific,MLOps Engineer,142202.75,695,18.59,688.63,695,705.17
+2022-08-01,South America,Data Scientist,90836.27,616,8.01,602.94,616,628.0
+2022-08-01,South America,Machine Learning Engineer,88566.23,493,16.73,483.72,493,507.4
+2022-08-01,South America,Data Analyst,91963.06,713,9.11,700.96,713,720.83
+2022-08-01,South America,AI Researcher,86082.51,341,11.83,328.12,341,354.38
+2022-08-01,South America,MLOps Engineer,94403.06,361,15.4,348.43,361,377.22
+2022-08-01,Middle East & Africa,Data Scientist,82762.52,498,16.58,481.03,498,506.41
+2022-08-01,Middle East & Africa,Machine Learning Engineer,79575.64,520,17.02,510.02,520,525.72
+2022-08-01,Middle East & Africa,Data Analyst,84783.91,623,8.41,608.82,623,633.33
+2022-08-01,Middle East & Africa,AI Researcher,74567.3,344,16.92,334.87,344,353.16
+2022-08-01,Middle East & Africa,MLOps Engineer,78392.12,375,19.6,367.78,375,384.66
+2022-09-01,North America,Data Scientist,128926.98,866,17.02,855.77,866,871.04
+2022-09-01,North America,Machine Learning Engineer,129249.77,733,13.28,727.06,733,745.2
+2022-09-01,North America,Data Analyst,128470.72,1025,11.53,1019.63,1025,1039.72
+2022-09-01,North America,AI Researcher,135901.99,515,8.75,500.83,515,530.36
+2022-09-01,North America,MLOps Engineer,115040.43,590,8.21,581.28,590,600.94
+2022-09-01,Europe,Data Scientist,112176.55,721,15.95,711.52,721,734.3
+2022-09-01,Europe,Machine Learning Engineer,110354.78,683,6.25,672.78,683,692.23
+2022-09-01,Europe,Data Analyst,116914.07,855,19.82,846.55,855,864.62
+2022-09-01,Europe,AI Researcher,116973.78,451,16.13,445.27,451,460.99
+2022-09-01,Europe,MLOps Engineer,104662.89,577,9.21,569.71,577,589.43
+2022-09-01,Asia-Pacific,Data Scientist,140358.07,1018,6.77,1012.3,1018,1024.13
+2022-09-01,Asia-Pacific,Machine Learning Engineer,155532.19,913,14.13,903.25,913,923.92
+2022-09-01,Asia-Pacific,Data Analyst,151364.92,1199,13.08,1189.29,1199,1207.04
+2022-09-01,Asia-Pacific,AI Researcher,157245.31,613,10.61,601.53,613,622.31
+2022-09-01,Asia-Pacific,MLOps Engineer,143836.39,694,6.55,683.59,694,705.72
+2022-09-01,South America,Data Scientist,83623.79,556,16.75,547.89,556,558.15
+2022-09-01,South America,Machine Learning Engineer,83972.39,508,11.54,498.98,508,519.55
+2022-09-01,South America,Data Analyst,89713.68,731,9.48,725.15,731,743.71
+2022-09-01,South America,AI Researcher,85958.88,368,8.61,359.38,368,378.1
+2022-09-01,South America,MLOps Engineer,94061.97,433,10.92,426.3,433,441.14
+2022-09-01,Middle East & Africa,Data Scientist,75982.84,481,13.66,468.01,481,492.97
+2022-09-01,Middle East & Africa,Machine Learning Engineer,86050.12,461,8.83,453.55,461,469.55
+2022-09-01,Middle East & Africa,Data Analyst,77346.26,654,10.69,644.94,654,672.58
+2022-09-01,Middle East & Africa,AI Researcher,75457.0,312,16.0,302.73,312,322.88
+2022-09-01,Middle East & Africa,MLOps Engineer,71889.29,377,13.84,368.0,377,382.7
+2022-10-01,North America,Data Scientist,139147.05,771,13.86,760.68,771,778.28
+2022-10-01,North America,Machine Learning Engineer,134313.05,702,15.65,690.86,702,706.77
+2022-10-01,North America,Data Analyst,122819.28,914,13.86,900.8,914,923.23
+2022-10-01,North America,AI Researcher,133194.18,474,14.17,459.73,474,480.88
+2022-10-01,North America,MLOps Engineer,133835.03,609,16.13,607.11,609,620.02
+2022-10-01,Europe,Data Scientist,109587.9,639,13.82,626.58,639,648.41
+2022-10-01,Europe,Machine Learning Engineer,112756.44,615,15.4,603.26,615,626.38
+2022-10-01,Europe,Data Analyst,116904.42,810,15.63,797.54,810,818.41
+2022-10-01,Europe,AI Researcher,105028.48,353,12.63,348.25,353,362.47
+2022-10-01,Europe,MLOps Engineer,107968.75,435,18.0,427.45,435,446.85
+2022-10-01,Asia-Pacific,Data Scientist,141736.69,900,15.44,890.84,900,905.79
+2022-10-01,Asia-Pacific,Machine Learning Engineer,158340.75,809,17.05,794.79,809,823.26
+2022-10-01,Asia-Pacific,Data Analyst,155221.02,1059,12.3,1044.57,1059,1068.42
+2022-10-01,Asia-Pacific,AI Researcher,159666.48,537,19.52,530.96,537,549.19
+2022-10-01,Asia-Pacific,MLOps Engineer,149736.42,629,14.7,618.52,629,642.47
+2022-10-01,South America,Data Scientist,85464.59,523,5.78,518.38,523,534.12
+2022-10-01,South America,Machine Learning Engineer,88356.68,463,11.8,448.22,463,473.31
+2022-10-01,South America,Data Analyst,88829.84,662,7.34,651.19,662,665.9
+2022-10-01,South America,AI Researcher,92313.22,314,10.82,305.51,314,322.18
+2022-10-01,South America,MLOps Engineer,97834.24,312,14.94,301.82,312,320.66
+2022-10-01,Middle East & Africa,Data Scientist,81789.01,490,10.0,482.43,490,500.56
+2022-10-01,Middle East & Africa,Machine Learning Engineer,80813.44,419,13.85,406.11,419,432.38
+2022-10-01,Middle East & Africa,Data Analyst,79994.93,575,18.97,561.73,575,592.1
+2022-10-01,Middle East & Africa,AI Researcher,79098.95,215,11.73,204.42,215,221.73
+2022-10-01,Middle East & Africa,MLOps Engineer,86058.86,335,7.25,329.7,335,346.37
+2022-11-01,North America,Data Scientist,125044.28,653,7.99,644.18,653,660.99
+2022-11-01,North America,Machine Learning Engineer,127956.3,585,5.33,578.3,585,600.39
+2022-11-01,North America,Data Analyst,125648.66,773,7.69,757.6,773,784.87
+2022-11-01,North America,AI Researcher,134283.08,463,6.73,454.64,463,478.45
+2022-11-01,North America,MLOps Engineer,139985.02,439,19.43,428.1,439,448.17
+2022-11-01,Europe,Data Scientist,107766.5,557,12.8,549.16,557,564.23
+2022-11-01,Europe,Machine Learning Engineer,108817.75,489,6.28,476.89,489,502.95
+2022-11-01,Europe,Data Analyst,110790.71,713,18.98,700.19,713,725.33
+2022-11-01,Europe,AI Researcher,105065.11,333,17.15,324.65,333,342.71
+2022-11-01,Europe,MLOps Engineer,103123.28,375,9.74,370.27,375,382.91
+2022-11-01,Asia-Pacific,Data Scientist,144728.16,785,7.78,773.6,785,798.94
+2022-11-01,Asia-Pacific,Machine Learning Engineer,141614.55,739,8.78,725.43,739,748.56
+2022-11-01,Asia-Pacific,Data Analyst,139502.39,876,13.06,869.49,876,885.86
+2022-11-01,Asia-Pacific,AI Researcher,155134.96,473,14.53,458.7,473,483.85
+2022-11-01,Asia-Pacific,MLOps Engineer,153456.19,513,13.79,503.24,513,526.1
+2022-11-01,South America,Data Scientist,85212.03,505,12.7,496.5,505,518.59
+2022-11-01,South America,Machine Learning Engineer,88994.37,385,11.08,369.65,385,393.59
+2022-11-01,South America,Data Analyst,96325.71,571,17.42,558.56,571,582.0
+2022-11-01,South America,AI Researcher,85374.34,324,10.9,315.18,324,329.46
+2022-11-01,South America,MLOps Engineer,92968.44,301,6.05,293.86,301,312.55
+2022-11-01,Middle East & Africa,Data Scientist,79281.94,416,18.28,408.3,416,425.41
+2022-11-01,Middle East & Africa,Machine Learning Engineer,84282.32,336,16.44,319.81,336,346.47
+2022-11-01,Middle East & Africa,Data Analyst,79218.11,521,12.94,506.0,521,531.87
+2022-11-01,Middle East & Africa,AI Researcher,76193.02,224,15.71,214.1,224,234.1
+2022-11-01,Middle East & Africa,MLOps Engineer,75327.29,221,14.6,208.53,221,230.35
+2022-12-01,North America,Data Scientist,128376.99,694,19.26,680.39,694,704.03
+2022-12-01,North America,Machine Learning Engineer,128273.65,620,9.25,611.26,620,633.35
+2022-12-01,North America,Data Analyst,119463.45,829,17.13,819.6,829,843.2
+2022-12-01,North America,AI Researcher,140220.59,438,9.13,424.31,438,448.79
+2022-12-01,North America,MLOps Engineer,116519.61,406,6.37,398.73,406,418.09
+2022-12-01,Europe,Data Scientist,102823.51,569,10.57,563.3,569,584.08
+2022-12-01,Europe,Machine Learning Engineer,107419.79,453,18.21,448.89,453,458.56
+2022-12-01,Europe,Data Analyst,107010.16,716,15.61,700.5,716,724.34
+2022-12-01,Europe,AI Researcher,109960.0,309,8.21,299.52,309,317.69
+2022-12-01,Europe,MLOps Engineer,105870.99,393,5.14,382.67,393,401.55
+2022-12-01,Asia-Pacific,Data Scientist,137790.77,807,13.78,798.73,807,816.23
+2022-12-01,Asia-Pacific,Machine Learning Engineer,145762.05,715,8.96,707.55,715,725.04
+2022-12-01,Asia-Pacific,Data Analyst,153325.48,930,13.84,912.41,930,937.02
+2022-12-01,Asia-Pacific,AI Researcher,144338.5,441,16.16,436.18,441,448.71
+2022-12-01,Asia-Pacific,MLOps Engineer,156376.4,555,9.34,547.48,555,570.54
+2022-12-01,South America,Data Scientist,91155.38,514,9.7,500.91,514,521.65
+2022-12-01,South America,Machine Learning Engineer,94459.31,433,15.87,427.05,433,441.63
+2022-12-01,South America,Data Analyst,85955.4,537,8.78,529.2,537,540.41
+2022-12-01,South America,AI Researcher,89786.26,262,6.2,251.46,262,269.56
+2022-12-01,South America,MLOps Engineer,98125.08,282,12.75,272.29,282,288.42
+2022-12-01,Middle East & Africa,Data Scientist,80922.79,403,7.95,395.12,403,411.38
+2022-12-01,Middle East & Africa,Machine Learning Engineer,75497.38,356,5.29,350.42,356,366.83
+2022-12-01,Middle East & Africa,Data Analyst,82288.5,557,6.91,550.49,557,565.93
+2022-12-01,Middle East & Africa,AI Researcher,76437.72,197,19.22,182.98,197,209.2
+2022-12-01,Middle East & Africa,MLOps Engineer,76394.52,267,17.87,253.79,267,273.14
+2023-01-01,North America,Data Scientist,146643.27,780,6.32,770.09,780,792.14
+2023-01-01,North America,Machine Learning Engineer,126774.2,734,11.05,723.94,734,740.61
+2023-01-01,North America,Data Analyst,123014.7,922,12.21,909.44,922,931.14
+2023-01-01,North America,AI Researcher,128373.46,490,11.03,481.29,490,502.89
+2023-01-01,North America,MLOps Engineer,136241.98,550,13.66,536.75,550,558.09
+2023-01-01,Europe,Data Scientist,115554.76,634,9.94,628.39,634,641.99
+2023-01-01,Europe,Machine Learning Engineer,100351.43,571,19.15,555.58,571,581.01
+2023-01-01,Europe,Data Analyst,114235.12,780,5.74,766.65,780,790.7
+2023-01-01,Europe,AI Researcher,108118.18,410,11.59,398.39,410,418.56
+2023-01-01,Europe,MLOps Engineer,108971.32,490,6.87,474.26,490,503.49
+2023-01-01,Asia-Pacific,Data Scientist,150183.24,937,5.19,923.99,937,944.85
+2023-01-01,Asia-Pacific,Machine Learning Engineer,164542.75,863,10.25,853.83,863,870.98
+2023-01-01,Asia-Pacific,Data Analyst,145837.37,1028,5.51,1011.73,1028,1040.99
+2023-01-01,Asia-Pacific,AI Researcher,158349.54,540,15.47,531.89,540,549.11
+2023-01-01,Asia-Pacific,MLOps Engineer,146044.58,648,5.15,636.8,648,656.75
+2023-01-01,South America,Data Scientist,86619.35,521,19.15,508.86,521,530.3
+2023-01-01,South America,Machine Learning Engineer,93496.19,527,14.57,512.94,527,539.61
+2023-01-01,South America,Data Analyst,91970.21,702,8.23,692.11,702,709.44
+2023-01-01,South America,AI Researcher,90248.4,385,12.91,379.88,385,395.32
+2023-01-01,South America,MLOps Engineer,88505.62,372,13.91,365.47,372,382.97
+2023-01-01,Middle East & Africa,Data Scientist,77872.49,454,14.14,446.95,454,461.91
+2023-01-01,Middle East & Africa,Machine Learning Engineer,79027.69,450,9.7,446.86,450,457.65
+2023-01-01,Middle East & Africa,Data Analyst,78344.42,601,9.12,595.57,601,605.27
+2023-01-01,Middle East & Africa,AI Researcher,84473.53,285,17.77,271.85,285,295.97
+2023-01-01,Middle East & Africa,MLOps Engineer,73095.96,335,13.35,325.08,335,347.95
+2023-02-01,North America,Data Scientist,133157.15,950,6.0,939.29,950,957.18
+2023-02-01,North America,Machine Learning Engineer,128662.51,810,9.93,806.24,810,822.63
+2023-02-01,North America,Data Analyst,137647.19,1082,14.73,1069.6,1082,1098.18
+2023-02-01,North America,AI Researcher,128982.9,549,8.78,535.27,549,557.21
+2023-02-01,North America,MLOps Engineer,117814.27,589,12.72,578.84,589,601.6
+2023-02-01,Europe,Data Scientist,119224.14,714,9.52,700.43,714,723.8
+2023-02-01,Europe,Machine Learning Engineer,100858.37,748,10.5,738.66,748,757.62
+2023-02-01,Europe,Data Analyst,108362.12,909,12.27,900.16,909,919.53
+2023-02-01,Europe,AI Researcher,116030.99,372,6.72,358.06,372,379.15
+2023-02-01,Europe,MLOps Engineer,107616.36,575,6.61,566.1,575,586.42
+2023-02-01,Asia-Pacific,Data Scientist,146513.05,1031,9.74,1022.43,1031,1040.87
+2023-02-01,Asia-Pacific,Machine Learning Engineer,135494.34,951,17.29,939.13,951,959.31
+2023-02-01,Asia-Pacific,Data Analyst,155431.25,1199,19.26,1190.17,1199,1210.55
+2023-02-01,Asia-Pacific,AI Researcher,145416.17,588,12.57,573.94,588,593.04
+2023-02-01,Asia-Pacific,MLOps Engineer,146238.98,708,6.98,697.07,708,719.43
+2023-02-01,South America,Data Scientist,78066.77,646,16.76,638.21,646,658.36
+2023-02-01,South America,Machine Learning Engineer,87282.09,556,12.05,542.5,556,563.67
+2023-02-01,South America,Data Analyst,88186.2,718,8.39,708.17,718,724.43
+2023-02-01,South America,AI Researcher,89900.61,403,15.53,389.74,403,413.12
+2023-02-01,South America,MLOps Engineer,88889.74,414,13.65,402.19,414,422.08
+2023-02-01,Middle East & Africa,Data Scientist,77202.79,576,9.37,565.06,576,584.92
+2023-02-01,Middle East & Africa,Machine Learning Engineer,76275.99,508,13.1,495.94,508,512.06
+2023-02-01,Middle East & Africa,Data Analyst,89705.85,633,19.79,623.25,633,645.97
+2023-02-01,Middle East & Africa,AI Researcher,81191.5,351,11.24,341.31,351,365.72
+2023-02-01,Middle East & Africa,MLOps Engineer,80566.13,424,9.03,413.16,424,438.47
+2023-03-01,North America,Data Scientist,137505.51,892,11.07,883.13,892,907.22
+2023-03-01,North America,Machine Learning Engineer,118493.41,784,11.11,770.68,784,787.18
+2023-03-01,North America,Data Analyst,150264.93,1059,7.54,1052.36,1059,1073.92
+2023-03-01,North America,AI Researcher,135256.31,555,14.57,546.88,555,568.86
+2023-03-01,North America,MLOps Engineer,131804.09,601,9.06,593.99,601,610.44
+2023-03-01,Europe,Data Scientist,106585.96,731,16.97,721.35,731,741.05
+2023-03-01,Europe,Machine Learning Engineer,101908.8,634,15.53,626.21,634,646.9
+2023-03-01,Europe,Data Analyst,112402.03,929,6.4,916.84,929,944.46
+2023-03-01,Europe,AI Researcher,113568.85,439,18.99,421.64,439,449.01
+2023-03-01,Europe,MLOps Engineer,115606.39,515,13.75,505.44,515,523.03
+2023-03-01,Asia-Pacific,Data Scientist,150588.29,1047,12.98,1039.5,1047,1058.44
+2023-03-01,Asia-Pacific,Machine Learning Engineer,148790.74,925,18.35,910.69,925,932.89
+2023-03-01,Asia-Pacific,Data Analyst,149495.77,1202,16.02,1189.69,1202,1211.76
+2023-03-01,Asia-Pacific,AI Researcher,149932.75,599,15.35,585.25,599,605.83
+2023-03-01,Asia-Pacific,MLOps Engineer,157854.57,755,12.34,745.05,755,760.83
+2023-03-01,South America,Data Scientist,89298.81,607,14.5,599.47,607,613.82
+2023-03-01,South America,Machine Learning Engineer,95046.75,525,16.62,516.54,525,534.6
+2023-03-01,South America,Data Analyst,98906.79,712,14.5,705.15,712,719.08
+2023-03-01,South America,AI Researcher,86597.98,361,14.96,356.84,361,375.4
+2023-03-01,South America,MLOps Engineer,84367.78,396,13.12,384.09,396,405.65
+2023-03-01,Middle East & Africa,Data Scientist,80979.83,542,14.16,529.88,542,550.91
+2023-03-01,Middle East & Africa,Machine Learning Engineer,80263.75,497,13.23,479.89,497,511.19
+2023-03-01,Middle East & Africa,Data Analyst,81205.63,660,17.7,655.21,660,675.02
+2023-03-01,Middle East & Africa,AI Researcher,78350.61,319,15.98,310.35,319,325.95
+2023-03-01,Middle East & Africa,MLOps Engineer,74849.58,348,13.33,333.74,348,362.35
+2023-04-01,North America,Data Scientist,124303.44,767,18.27,760.58,767,782.83
+2023-04-01,North America,Machine Learning Engineer,134313.7,706,15.44,697.67,706,714.99
+2023-04-01,North America,Data Analyst,124892.95,1005,8.17,994.37,1005,1015.17
+2023-04-01,North America,AI Researcher,117590.22,470,17.65,454.08,470,481.12
+2023-04-01,North America,MLOps Engineer,135498.03,568,8.02,558.95,568,578.94
+2023-04-01,Europe,Data Scientist,114582.49,696,11.29,685.77,696,704.14
+2023-04-01,Europe,Machine Learning Engineer,128020.2,586,17.08,574.86,586,600.1
+2023-04-01,Europe,Data Analyst,113157.23,783,15.43,773.55,783,795.95
+2023-04-01,Europe,AI Researcher,113694.58,368,10.64,354.84,368,378.29
+2023-04-01,Europe,MLOps Engineer,112200.0,495,19.24,490.29,495,502.69
+2023-04-01,Asia-Pacific,Data Scientist,143275.0,898,5.34,891.4,898,911.09
+2023-04-01,Asia-Pacific,Machine Learning Engineer,154048.23,770,8.48,763.51,770,775.78
+2023-04-01,Asia-Pacific,Data Analyst,140784.41,1095,15.06,1086.35,1095,1105.88
+2023-04-01,Asia-Pacific,AI Researcher,149565.27,504,12.91,492.11,504,516.42
+2023-04-01,Asia-Pacific,MLOps Engineer,166563.88,656,11.02,643.67,656,664.55
+2023-04-01,South America,Data Scientist,88854.86,568,15.52,556.57,568,574.93
+2023-04-01,South America,Machine Learning Engineer,94713.74,451,8.45,442.85,451,456.96
+2023-04-01,South America,Data Analyst,89855.81,622,11.73,615.46,622,628.98
+2023-04-01,South America,AI Researcher,91530.16,331,8.84,318.16,331,340.08
+2023-04-01,South America,MLOps Engineer,95734.98,350,17.2,334.81,350,360.08
+2023-04-01,Middle East & Africa,Data Scientist,77836.18,474,15.35,464.68,474,484.89
+2023-04-01,Middle East & Africa,Machine Learning Engineer,78751.71,417,14.21,408.88,417,427.07
+2023-04-01,Middle East & Africa,Data Analyst,79505.23,521,7.69,512.55,521,537.37
+2023-04-01,Middle East & Africa,AI Researcher,79281.52,249,13.35,238.63,249,258.45
+2023-04-01,Middle East & Africa,MLOps Engineer,76517.52,354,14.13,346.4,354,362.5
+2023-05-01,North America,Data Scientist,145631.44,733,14.36,724.39,733,742.6
+2023-05-01,North America,Machine Learning Engineer,131550.02,612,10.93,599.04,612,617.24
+2023-05-01,North America,Data Analyst,132932.97,828,18.36,820.37,828,837.44
+2023-05-01,North America,AI Researcher,128241.65,444,11.61,430.22,444,455.85
+2023-05-01,North America,MLOps Engineer,127138.21,475,10.22,468.23,475,478.85
+2023-05-01,Europe,Data Scientist,109818.55,565,19.32,552.62,565,579.05
+2023-05-01,Europe,Machine Learning Engineer,112587.8,549,15.46,541.94,549,562.55
+2023-05-01,Europe,Data Analyst,111146.1,699,13.01,693.58,699,705.54
+2023-05-01,Europe,AI Researcher,111453.6,389,11.03,379.05,389,398.58
+2023-05-01,Europe,MLOps Engineer,116876.58,380,16.14,368.91,380,384.84
+2023-05-01,Asia-Pacific,Data Scientist,140812.5,802,12.65,793.75,802,813.14
+2023-05-01,Asia-Pacific,Machine Learning Engineer,138828.51,690,10.63,686.46,690,699.91
+2023-05-01,Asia-Pacific,Data Analyst,139283.22,956,17.21,944.0,956,961.64
+2023-05-01,Asia-Pacific,AI Researcher,156676.95,491,8.69,479.81,491,501.51
+2023-05-01,Asia-Pacific,MLOps Engineer,154559.61,523,10.84,513.31,523,530.98
+2023-05-01,South America,Data Scientist,94282.01,485,18.08,475.39,485,493.47
+2023-05-01,South America,Machine Learning Engineer,86179.03,445,9.29,437.19,445,454.87
+2023-05-01,South America,Data Analyst,89935.56,557,12.52,549.42,557,565.83
+2023-05-01,South America,AI Researcher,85139.99,324,13.85,309.51,324,332.07
+2023-05-01,South America,MLOps Engineer,87775.62,301,8.37,282.83,301,313.53
+2023-05-01,Middle East & Africa,Data Scientist,81967.97,426,8.94,414.82,426,438.14
+2023-05-01,Middle East & Africa,Machine Learning Engineer,79066.86,379,15.47,372.29,379,387.92
+2023-05-01,Middle East & Africa,Data Analyst,72686.38,512,12.62,501.73,512,522.66
+2023-05-01,Middle East & Africa,AI Researcher,72938.29,279,9.47,265.69,279,287.85
+2023-05-01,Middle East & Africa,MLOps Engineer,81931.16,311,11.4,302.0,311,316.43
+2023-06-01,North America,Data Scientist,131427.67,722,17.14,714.02,722,733.99
+2023-06-01,North America,Machine Learning Engineer,134172.31,627,5.04,618.45,627,630.85
+2023-06-01,North America,Data Analyst,121349.74,815,17.89,807.52,815,822.77
+2023-06-01,North America,AI Researcher,106592.95,398,7.55,390.63,398,410.82
+2023-06-01,North America,MLOps Engineer,141685.27,497,16.04,488.5,497,508.63
+2023-06-01,Europe,Data Scientist,108921.49,584,12.04,575.79,584,596.11
+2023-06-01,Europe,Machine Learning Engineer,118843.2,559,5.28,545.91,559,564.77
+2023-06-01,Europe,Data Analyst,114678.96,725,16.89,718.34,725,734.41
+2023-06-01,Europe,AI Researcher,109888.68,349,16.53,341.18,349,356.37
+2023-06-01,Europe,MLOps Engineer,102667.69,413,14.51,402.0,413,424.65
+2023-06-01,Asia-Pacific,Data Scientist,142373.37,772,11.32,762.52,772,786.31
+2023-06-01,Asia-Pacific,Machine Learning Engineer,150093.91,745,10.48,739.29,745,759.73
+2023-06-01,Asia-Pacific,Data Analyst,150516.7,945,16.53,936.21,945,955.01
+2023-06-01,Asia-Pacific,AI Researcher,137461.79,521,18.89,509.44,521,527.83
+2023-06-01,Asia-Pacific,MLOps Engineer,147400.62,597,15.14,582.74,597,607.88
+2023-06-01,South America,Data Scientist,96263.64,496,6.7,485.05,496,504.4
+2023-06-01,South America,Machine Learning Engineer,93586.35,471,11.91,465.22,471,477.11
+2023-06-01,South America,Data Analyst,93209.7,590,12.41,578.18,590,599.64
+2023-06-01,South America,AI Researcher,96925.58,325,14.92,312.33,325,334.39
+2023-06-01,South America,MLOps Engineer,91998.65,339,17.88,327.19,339,347.09
+2023-06-01,Middle East & Africa,Data Scientist,84424.75,428,10.51,417.68,428,445.82
+2023-06-01,Middle East & Africa,Machine Learning Engineer,80238.77,388,17.95,379.91,388,395.53
+2023-06-01,Middle East & Africa,Data Analyst,72362.12,519,7.32,508.78,519,532.58
+2023-06-01,Middle East & Africa,AI Researcher,78720.69,224,8.95,219.5,224,235.36
+2023-06-01,Middle East & Africa,MLOps Engineer,85681.52,252,13.32,237.08,252,256.23
+2023-07-01,North America,Data Scientist,128842.85,812,18.37,803.19,812,820.43
+2023-07-01,North America,Machine Learning Engineer,136815.15,714,6.26,702.2,714,726.56
+2023-07-01,North America,Data Analyst,131844.99,957,17.46,943.5,957,963.95
+2023-07-01,North America,AI Researcher,135323.86,470,10.87,458.07,470,479.19
+2023-07-01,North America,MLOps Engineer,124639.77,573,6.84,563.23,573,577.96
+2023-07-01,Europe,Data Scientist,111538.61,676,14.21,668.67,676,686.21
+2023-07-01,Europe,Machine Learning Engineer,108203.44,620,18.12,610.92,620,626.21
+2023-07-01,Europe,Data Analyst,105536.85,814,9.05,812.55,814,825.63
+2023-07-01,Europe,AI Researcher,110813.01,433,7.49,424.93,433,446.82
+2023-07-01,Europe,MLOps Engineer,114198.91,469,8.51,454.42,469,484.71
+2023-07-01,Asia-Pacific,Data Scientist,143235.06,1031,15.73,1022.06,1031,1041.89
+2023-07-01,Asia-Pacific,Machine Learning Engineer,149333.16,805,7.79,791.14,805,814.83
+2023-07-01,Asia-Pacific,Data Analyst,153564.44,1123,9.68,1117.97,1123,1127.32
+2023-07-01,Asia-Pacific,AI Researcher,148443.12,586,9.88,572.01,586,595.64
+2023-07-01,Asia-Pacific,MLOps Engineer,146357.41,587,7.64,580.38,587,595.43
+2023-07-01,South America,Data Scientist,95647.97,620,16.39,608.99,620,631.69
+2023-07-01,South America,Machine Learning Engineer,92439.91,485,5.1,474.99,485,493.89
+2023-07-01,South America,Data Analyst,86629.62,647,5.43,639.07,647,658.4
+2023-07-01,South America,AI Researcher,95269.96,344,18.4,330.13,344,355.58
+2023-07-01,South America,MLOps Engineer,88270.54,335,13.37,323.18,335,349.04
+2023-07-01,Middle East & Africa,Data Scientist,85440.67,482,12.87,469.45,482,483.9
+2023-07-01,Middle East & Africa,Machine Learning Engineer,80596.16,435,9.75,429.33,435,446.33
+2023-07-01,Middle East & Africa,Data Analyst,76234.39,614,12.55,601.58,614,625.53
+2023-07-01,Middle East & Africa,AI Researcher,76557.81,312,11.63,297.94,312,328.3
+2023-07-01,Middle East & Africa,MLOps Engineer,88636.48,343,15.74,334.14,343,357.48
+2023-08-01,North America,Data Scientist,125374.2,880,7.42,866.91,880,888.86
+2023-08-01,North America,Machine Learning Engineer,137363.23,826,8.62,814.07,826,836.55
+2023-08-01,North America,Data Analyst,138215.05,1069,8.34,1058.74,1069,1073.85
+2023-08-01,North America,AI Researcher,126723.16,517,6.41,501.33,517,524.6
+2023-08-01,North America,MLOps Engineer,132984.67,632,15.78,618.37,632,641.93
+2023-08-01,Europe,Data Scientist,114994.12,793,5.59,776.37,793,805.61
+2023-08-01,Europe,Machine Learning Engineer,107337.19,735,12.04,725.52,735,747.14
+2023-08-01,Europe,Data Analyst,113137.68,949,17.87,934.51,949,961.67
+2023-08-01,Europe,AI Researcher,105592.35,437,5.8,428.13,437,451.03
+2023-08-01,Europe,MLOps Engineer,105928.72,548,12.11,535.07,548,560.27
+2023-08-01,Asia-Pacific,Data Scientist,148352.98,1021,10.17,1020.42,1021,1030.59
+2023-08-01,Asia-Pacific,Machine Learning Engineer,150449.29,885,7.76,874.75,885,900.78
+2023-08-01,Asia-Pacific,Data Analyst,156856.95,1240,12.06,1234.66,1240,1245.79
+2023-08-01,Asia-Pacific,AI Researcher,166905.29,619,14.46,609.55,619,628.22
+2023-08-01,Asia-Pacific,MLOps Engineer,151326.64,743,16.44,734.89,743,750.88
+2023-08-01,South America,Data Scientist,90377.43,576,7.39,569.53,576,587.84
+2023-08-01,South America,Machine Learning Engineer,91012.76,547,9.97,536.45,547,554.03
+2023-08-01,South America,Data Analyst,90677.71,730,13.13,717.01,730,740.81
+2023-08-01,South America,AI Researcher,98146.36,365,16.86,356.86,365,372.62
+2023-08-01,South America,MLOps Engineer,90693.14,385,16.99,371.59,385,399.32
+2023-08-01,Middle East & Africa,Data Scientist,83896.49,558,9.12,552.38,558,568.71
+2023-08-01,Middle East & Africa,Machine Learning Engineer,78931.45,457,19.76,448.56,457,468.98
+2023-08-01,Middle East & Africa,Data Analyst,80125.71,660,12.52,646.54,660,673.49
+2023-08-01,Middle East & Africa,AI Researcher,80665.94,308,9.65,300.04,308,311.5
+2023-08-01,Middle East & Africa,MLOps Engineer,81427.88,365,6.33,355.11,365,377.46
+2023-09-01,North America,Data Scientist,132696.1,918,11.14,913.8,918,929.99
+2023-09-01,North America,Machine Learning Engineer,128878.78,796,6.48,789.04,796,807.02
+2023-09-01,North America,Data Analyst,130068.55,1098,12.26,1091.54,1098,1106.73
+2023-09-01,North America,AI Researcher,128683.6,542,19.97,529.36,542,549.16
+2023-09-01,North America,MLOps Engineer,131827.88,625,19.65,613.24,625,635.3
+2023-09-01,Europe,Data Scientist,100032.03,800,8.35,792.73,800,811.81
+2023-09-01,Europe,Machine Learning Engineer,111904.72,640,11.21,632.2,640,649.85
+2023-09-01,Europe,Data Analyst,112136.33,890,13.7,879.21,890,898.32
+2023-09-01,Europe,AI Researcher,107006.37,463,10.26,457.56,463,469.67
+2023-09-01,Europe,MLOps Engineer,113052.99,545,11.52,532.63,545,554.93
+2023-09-01,Asia-Pacific,Data Scientist,172446.08,1027,6.6,1014.83,1027,1036.23
+2023-09-01,Asia-Pacific,Machine Learning Engineer,143938.59,968,14.51,959.41,968,981.36
+2023-09-01,Asia-Pacific,Data Analyst,161462.49,1305,12.55,1295.76,1305,1315.3
+2023-09-01,Asia-Pacific,AI Researcher,140039.84,626,12.7,614.33,626,637.9
+2023-09-01,Asia-Pacific,MLOps Engineer,157099.33,757,18.4,748.23,757,766.06
+2023-09-01,South America,Data Scientist,99439.63,629,13.18,612.38,629,639.24
+2023-09-01,South America,Machine Learning Engineer,95565.75,461,7.38,453.4,461,469.58
+2023-09-01,South America,Data Analyst,97785.77,756,7.31,744.13,756,767.92
+2023-09-01,South America,AI Researcher,85597.8,349,11.27,338.28,349,355.04
+2023-09-01,South America,MLOps Engineer,99752.61,428,9.91,416.37,428,439.35
+2023-09-01,Middle East & Africa,Data Scientist,78081.12,573,18.62,556.44,573,578.83
+2023-09-01,Middle East & Africa,Machine Learning Engineer,67533.39,480,10.17,466.83,480,492.36
+2023-09-01,Middle East & Africa,Data Analyst,76051.82,715,12.14,707.89,715,720.09
+2023-09-01,Middle East & Africa,AI Researcher,79398.99,327,12.86,306.87,327,339.03
+2023-09-01,Middle East & Africa,MLOps Engineer,75775.55,351,16.98,344.08,351,368.81
+2023-10-01,North America,Data Scientist,132220.14,831,6.98,822.56,831,846.16
+2023-10-01,North America,Machine Learning Engineer,129438.8,686,8.77,676.59,686,699.11
+2023-10-01,North America,Data Analyst,131114.16,992,9.83,983.6,992,1000.83
+2023-10-01,North America,AI Researcher,132457.3,491,9.47,478.66,491,504.08
+2023-10-01,North America,MLOps Engineer,120116.99,514,12.69,507.01,514,526.83
+2023-10-01,Europe,Data Scientist,104369.34,674,14.7,669.72,674,691.15
+2023-10-01,Europe,Machine Learning Engineer,119167.14,614,15.59,598.08,614,625.13
+2023-10-01,Europe,Data Analyst,115679.62,833,13.74,824.44,833,843.39
+2023-10-01,Europe,AI Researcher,99884.56,381,6.35,373.71,381,399.09
+2023-10-01,Europe,MLOps Engineer,105319.64,495,18.58,482.69,495,506.65
+2023-10-01,Asia-Pacific,Data Scientist,146916.89,936,7.39,932.03,936,942.03
+2023-10-01,Asia-Pacific,Machine Learning Engineer,162310.71,881,6.57,866.01,881,889.71
+2023-10-01,Asia-Pacific,Data Analyst,155909.48,1140,11.51,1129.55,1140,1152.14
+2023-10-01,Asia-Pacific,AI Researcher,152911.39,567,18.59,561.06,567,575.99
+2023-10-01,Asia-Pacific,MLOps Engineer,149889.8,683,13.31,678.97,683,694.0
+2023-10-01,South America,Data Scientist,91422.31,556,11.14,542.15,556,567.84
+2023-10-01,South America,Machine Learning Engineer,91967.01,518,14.14,508.17,518,525.33
+2023-10-01,South America,Data Analyst,87332.84,664,11.06,653.23,664,675.77
+2023-10-01,South America,AI Researcher,91681.99,313,18.03,298.12,313,323.71
+2023-10-01,South America,MLOps Engineer,85879.1,384,18.94,381.32,384,392.61
+2023-10-01,Middle East & Africa,Data Scientist,83308.41,446,18.54,435.69,446,456.92
+2023-10-01,Middle East & Africa,Machine Learning Engineer,84971.45,449,13.33,443.37,449,456.52
+2023-10-01,Middle East & Africa,Data Analyst,74336.35,591,19.39,576.28,591,599.96
+2023-10-01,Middle East & Africa,AI Researcher,83583.18,290,12.13,279.49,290,301.33
+2023-10-01,Middle East & Africa,MLOps Engineer,81316.9,355,13.54,343.12,355,364.49
+2023-11-01,North America,Data Scientist,114628.44,766,12.06,761.12,766,782.36
+2023-11-01,North America,Machine Learning Engineer,135310.74,583,6.49,573.19,583,593.28
+2023-11-01,North America,Data Analyst,126684.58,833,7.82,820.17,833,842.39
+2023-11-01,North America,AI Researcher,127178.79,401,9.47,393.3,401,410.76
+2023-11-01,North America,MLOps Engineer,134816.61,471,19.33,460.55,471,481.64
+2023-11-01,Europe,Data Scientist,119689.19,587,10.56,577.71,587,593.07
+2023-11-01,Europe,Machine Learning Engineer,105318.51,549,14.93,532.37,549,559.43
+2023-11-01,Europe,Data Analyst,111483.17,686,16.43,678.66,686,694.13
+2023-11-01,Europe,AI Researcher,114026.83,344,15.41,333.93,344,349.14
+2023-11-01,Europe,MLOps Engineer,102872.11,380,14.51,367.03,380,388.86
+2023-11-01,Asia-Pacific,Data Scientist,160511.25,807,16.64,798.7,807,812.37
+2023-11-01,Asia-Pacific,Machine Learning Engineer,146501.76,720,16.66,709.54,720,725.35
+2023-11-01,Asia-Pacific,Data Analyst,139892.18,1022,11.4,1012.1,1022,1035.42
+2023-11-01,Asia-Pacific,AI Researcher,142717.45,544,14.7,532.29,544,551.83
+2023-11-01,Asia-Pacific,MLOps Engineer,142717.03,596,15.58,587.67,596,608.05
+2023-11-01,South America,Data Scientist,95383.34,497,10.3,479.48,497,505.65
+2023-11-01,South America,Machine Learning Engineer,88815.77,464,8.21,454.92,464,476.34
+2023-11-01,South America,Data Analyst,93834.78,599,15.6,590.3,599,609.7
+2023-11-01,South America,AI Researcher,95797.95,259,17.29,245.61,259,268.53
+2023-11-01,South America,MLOps Engineer,85508.53,309,10.23,299.97,309,319.64
+2023-11-01,Middle East & Africa,Data Scientist,78216.97,444,16.65,438.33,444,459.14
+2023-11-01,Middle East & Africa,Machine Learning Engineer,78102.21,422,17.5,410.08,422,437.09
+2023-11-01,Middle East & Africa,Data Analyst,82584.52,522,12.41,516.09,522,533.17
+2023-11-01,Middle East & Africa,AI Researcher,78166.45,241,18.87,230.76,241,254.54
+2023-11-01,Middle East & Africa,MLOps Engineer,78753.3,271,12.6,263.23,271,281.23
+2023-12-01,North America,Data Scientist,131984.12,728,12.13,718.28,728,741.49
+2023-12-01,North America,Machine Learning Engineer,134612.4,638,19.07,627.37,638,648.0
+2023-12-01,North America,Data Analyst,139387.69,807,16.9,795.66,807,811.83
+2023-12-01,North America,AI Researcher,132673.82,410,19.24,396.36,410,417.74
+2023-12-01,North America,MLOps Engineer,124361.6,485,19.54,481.77,485,496.29
+2023-12-01,Europe,Data Scientist,106600.04,576,18.65,564.11,576,584.58
+2023-12-01,Europe,Machine Learning Engineer,104897.27,492,18.98,484.1,492,501.37
+2023-12-01,Europe,Data Analyst,100999.78,780,5.83,769.59,780,792.54
+2023-12-01,Europe,AI Researcher,117000.17,319,7.29,310.15,319,326.71
+2023-12-01,Europe,MLOps Engineer,112304.78,490,14.13,476.59,490,497.78
+2023-12-01,Asia-Pacific,Data Scientist,158597.75,746,8.45,735.34,746,755.5
+2023-12-01,Asia-Pacific,Machine Learning Engineer,142664.83,708,15.75,695.82,708,712.94
+2023-12-01,Asia-Pacific,Data Analyst,154095.55,991,11.3,977.93,991,1001.63
+2023-12-01,Asia-Pacific,AI Researcher,157206.99,489,11.5,481.05,489,499.15
+2023-12-01,Asia-Pacific,MLOps Engineer,140474.95,580,9.8,566.18,580,586.59
+2023-12-01,South America,Data Scientist,87227.68,524,13.36,516.31,524,532.67
+2023-12-01,South America,Machine Learning Engineer,81959.35,503,10.31,492.26,503,509.62
+2023-12-01,South America,Data Analyst,92526.63,566,8.7,556.41,566,579.59
+2023-12-01,South America,AI Researcher,93178.67,312,16.05,295.08,312,317.8
+2023-12-01,South America,MLOps Engineer,97487.94,356,9.5,343.42,356,369.44
+2023-12-01,Middle East & Africa,Data Scientist,84216.51,470,12.2,461.03,470,482.71
+2023-12-01,Middle East & Africa,Machine Learning Engineer,81782.71,401,13.0,395.81,401,411.79
+2023-12-01,Middle East & Africa,Data Analyst,78686.24,492,19.23,479.39,492,502.98
+2023-12-01,Middle East & Africa,AI Researcher,85520.56,262,19.4,251.56,262,273.65
+2023-12-01,Middle East & Africa,MLOps Engineer,80894.1,302,18.97,290.41,302,311.64
+2024-01-01,North America,Data Scientist,135887.16,846,7.24,840.2,846,859.81
+2024-01-01,North America,Machine Learning Engineer,135513.94,738,19.18,732.33,738,749.91
+2024-01-01,North America,Data Analyst,134313.39,1021,10.53,1009.77,1021,1026.78
+2024-01-01,North America,AI Researcher,132414.49,431,17.03,419.07,431,441.44
+2024-01-01,North America,MLOps Engineer,124796.16,577,17.92,566.42,577,587.35
+2024-01-01,Europe,Data Scientist,100521.83,638,18.67,629.35,638,647.61
+2024-01-01,Europe,Machine Learning Engineer,99657.6,602,6.97,593.91,602,608.79
+2024-01-01,Europe,Data Analyst,118096.76,798,10.88,787.61,798,810.65
+2024-01-01,Europe,AI Researcher,106184.08,462,12.06,452.82,462,475.42
+2024-01-01,Europe,MLOps Engineer,113006.13,466,19.84,454.14,466,474.87
+2024-01-01,Asia-Pacific,Data Scientist,159519.42,913,16.84,902.12,913,917.48
+2024-01-01,Asia-Pacific,Machine Learning Engineer,159384.38,871,8.14,861.19,871,879.63
+2024-01-01,Asia-Pacific,Data Analyst,151405.95,1151,16.31,1138.66,1151,1165.8
+2024-01-01,Asia-Pacific,AI Researcher,146019.0,534,14.51,525.03,534,547.43
+2024-01-01,Asia-Pacific,MLOps Engineer,148713.78,674,9.86,661.13,674,685.97
+2024-01-01,South America,Data Scientist,87772.54,595,18.5,582.96,595,602.87
+2024-01-01,South America,Machine Learning Engineer,88092.45,454,10.52,444.83,454,467.58
+2024-01-01,South America,Data Analyst,91577.59,665,7.69,651.23,665,678.56
+2024-01-01,South America,AI Researcher,84808.32,324,9.94,312.09,324,331.85
+2024-01-01,South America,MLOps Engineer,89678.63,373,6.29,361.54,373,385.3
+2024-01-01,Middle East & Africa,Data Scientist,81323.14,504,14.0,491.94,504,514.12
+2024-01-01,Middle East & Africa,Machine Learning Engineer,87054.48,466,19.85,455.2,466,474.05
+2024-01-01,Middle East & Africa,Data Analyst,74535.21,605,8.1,593.99,605,612.17
+2024-01-01,Middle East & Africa,AI Researcher,82931.47,300,9.91,287.88,300,309.94
+2024-01-01,Middle East & Africa,MLOps Engineer,74601.4,357,18.52,345.22,357,367.14
+2024-02-01,North America,Data Scientist,123423.42,917,15.66,908.03,917,927.36
+2024-02-01,North America,Machine Learning Engineer,134349.05,844,11.44,836.26,844,851.84
+2024-02-01,North America,Data Analyst,139203.43,1094,18.73,1088.81,1094,1098.56
+2024-02-01,North America,AI Researcher,130880.29,553,16.94,547.97,553,560.34
+2024-02-01,North America,MLOps Engineer,122475.81,658,12.65,644.83,658,668.25
+2024-02-01,Europe,Data Scientist,108346.29,741,7.57,732.0,741,747.12
+2024-02-01,Europe,Machine Learning Engineer,109204.76,716,10.27,703.06,716,724.84
+2024-02-01,Europe,Data Analyst,112359.32,983,5.37,973.39,983,995.48
+2024-02-01,Europe,AI Researcher,104782.57,447,9.54,440.37,447,463.14
+2024-02-01,Europe,MLOps Engineer,111674.71,543,18.99,531.13,543,550.95
+2024-02-01,Asia-Pacific,Data Scientist,150989.78,1038,6.71,1029.27,1038,1045.7
+2024-02-01,Asia-Pacific,Machine Learning Engineer,138467.19,983,8.94,970.95,983,990.79
+2024-02-01,Asia-Pacific,Data Analyst,155226.07,1251,9.77,1235.95,1251,1262.18
+2024-02-01,Asia-Pacific,AI Researcher,149070.81,593,11.49,581.07,593,603.67
+2024-02-01,Asia-Pacific,MLOps Engineer,153280.68,698,6.02,687.93,698,705.04
+2024-02-01,South America,Data Scientist,89780.55,638,10.34,621.28,638,648.39
+2024-02-01,South America,Machine Learning Engineer,83417.02,594,5.7,584.44,594,605.04
+2024-02-01,South America,Data Analyst,89337.63,737,18.3,726.45,737,744.75
+2024-02-01,South America,AI Researcher,81840.16,405,7.67,395.85,405,418.15
+2024-02-01,South America,MLOps Engineer,88391.63,431,10.45,421.9,431,440.18
+2024-02-01,Middle East & Africa,Data Scientist,78801.39,574,5.07,562.0,574,579.36
+2024-02-01,Middle East & Africa,Machine Learning Engineer,81186.29,509,16.54,494.52,509,523.57
+2024-02-01,Middle East & Africa,Data Analyst,74657.72,659,15.94,648.08,659,668.85
+2024-02-01,Middle East & Africa,AI Researcher,79106.91,351,18.76,336.89,351,365.9
+2024-02-01,Middle East & Africa,MLOps Engineer,73844.44,385,7.99,370.43,385,393.67
+2024-03-01,North America,Data Scientist,135796.96,962,5.67,957.44,962,971.61
+2024-03-01,North America,Machine Learning Engineer,133075.04,815,14.18,807.05,815,827.4
+2024-03-01,North America,Data Analyst,136977.18,1135,7.21,1130.83,1135,1148.06
+2024-03-01,North America,AI Researcher,137605.5,547,13.85,535.97,547,553.11
+2024-03-01,North America,MLOps Engineer,130967.26,580,6.09,572.93,580,589.45
+2024-03-01,Europe,Data Scientist,112575.31,756,10.64,745.43,756,770.82
+2024-03-01,Europe,Machine Learning Engineer,114845.82,678,17.47,665.92,678,685.66
+2024-03-01,Europe,Data Analyst,102372.77,930,14.41,920.09,930,941.19
+2024-03-01,Europe,AI Researcher,117408.18,481,18.35,471.02,481,488.93
+2024-03-01,Europe,MLOps Engineer,101726.64,575,11.66,561.17,575,584.82
+2024-03-01,Asia-Pacific,Data Scientist,156725.98,1067,5.37,1060.39,1067,1077.51
+2024-03-01,Asia-Pacific,Machine Learning Engineer,148719.18,945,9.61,935.55,945,954.66
+2024-03-01,Asia-Pacific,Data Analyst,158637.49,1240,7.0,1229.89,1240,1246.91
+2024-03-01,Asia-Pacific,AI Researcher,163133.52,647,7.74,632.52,647,659.17
+2024-03-01,Asia-Pacific,MLOps Engineer,146095.27,745,13.36,730.53,745,751.41
+2024-03-01,South America,Data Scientist,82363.1,630,11.01,620.32,630,644.82
+2024-03-01,South America,Machine Learning Engineer,91360.45,592,13.19,583.21,592,600.05
+2024-03-01,South America,Data Analyst,83160.95,759,19.99,746.91,759,767.96
+2024-03-01,South America,AI Researcher,95765.57,373,18.25,362.53,373,381.63
+2024-03-01,South America,MLOps Engineer,88609.37,421,13.97,412.02,421,434.07
+2024-03-01,Middle East & Africa,Data Scientist,85512.57,572,15.64,563.03,572,583.31
+2024-03-01,Middle East & Africa,Machine Learning Engineer,80476.76,521,16.35,505.46,521,532.62
+2024-03-01,Middle East & Africa,Data Analyst,78705.94,709,13.91,696.27,709,721.5
+2024-03-01,Middle East & Africa,AI Researcher,80746.3,350,12.22,346.58,350,355.73
+2024-03-01,Middle East & Africa,MLOps Engineer,80056.43,424,7.7,413.81,424,436.5
+2024-04-01,North America,Data Scientist,136229.55,859,13.47,848.27,859,869.82
+2024-04-01,North America,Machine Learning Engineer,126545.83,697,17.13,683.85,697,704.16
+2024-04-01,North America,Data Analyst,124643.13,998,11.65,988.74,998,1006.56
+2024-04-01,North America,AI Researcher,132709.67,489,15.2,478.3,489,498.87
+2024-04-01,North America,MLOps Engineer,132885.91,571,15.73,556.81,571,584.57
+2024-04-01,Europe,Data Scientist,109438.97,690,12.09,676.8,690,699.13
+2024-04-01,Europe,Machine Learning Engineer,113861.06,636,16.95,629.3,636,646.13
+2024-04-01,Europe,Data Analyst,103668.25,865,19.25,856.13,865,873.56
+2024-04-01,Europe,AI Researcher,106692.55,464,7.51,454.29,464,472.83
+2024-04-01,Europe,MLOps Engineer,111836.81,478,18.77,468.2,478,488.48
+2024-04-01,Asia-Pacific,Data Scientist,148109.0,916,5.75,906.27,916,930.83
+2024-04-01,Asia-Pacific,Machine Learning Engineer,136437.79,837,9.79,825.96,837,851.37
+2024-04-01,Asia-Pacific,Data Analyst,147413.63,1132,11.01,1117.01,1132,1140.57
+2024-04-01,Asia-Pacific,AI Researcher,147879.31,538,5.25,533.11,538,546.51
+2024-04-01,Asia-Pacific,MLOps Engineer,144434.37,693,7.62,682.26,693,705.66
+2024-04-01,South America,Data Scientist,85840.79,549,16.73,537.4,549,561.9
+2024-04-01,South America,Machine Learning Engineer,92290.71,477,5.32,469.7,477,485.76
+2024-04-01,South America,Data Analyst,89151.32,703,13.01,697.59,703,711.33
+2024-04-01,South America,AI Researcher,90069.28,305,9.07,295.16,305,316.96
+2024-04-01,South America,MLOps Engineer,89403.28,417,9.19,410.94,417,431.41
+2024-04-01,Middle East & Africa,Data Scientist,79450.2,518,10.02,505.65,518,527.8
+2024-04-01,Middle East & Africa,Machine Learning Engineer,75573.07,449,7.23,441.29,449,460.44
+2024-04-01,Middle East & Africa,Data Analyst,84233.9,614,6.76,606.42,614,629.03
+2024-04-01,Middle East & Africa,AI Researcher,74740.49,295,8.79,286.43,295,302.81
+2024-04-01,Middle East & Africa,MLOps Engineer,79919.23,361,13.58,356.78,361,375.48
+2024-05-01,North America,Data Scientist,125017.97,717,9.6,704.98,717,719.04
+2024-05-01,North America,Machine Learning Engineer,135634.04,633,14.67,626.0,633,646.1
+2024-05-01,North America,Data Analyst,117866.45,836,5.08,824.81,836,846.26
+2024-05-01,North America,AI Researcher,132802.07,414,8.23,403.41,414,416.44
+2024-05-01,North America,MLOps Engineer,132546.89,512,15.41,499.32,512,522.49
+2024-05-01,Europe,Data Scientist,107670.51,558,14.51,550.28,558,565.87
+2024-05-01,Europe,Machine Learning Engineer,104153.3,555,9.44,542.46,555,570.18
+2024-05-01,Europe,Data Analyst,114902.1,758,18.06,747.34,758,771.1
+2024-05-01,Europe,AI Researcher,104758.28,428,8.38,418.26,428,434.69
+2024-05-01,Europe,MLOps Engineer,103490.52,416,10.45,407.35,416,424.78
+2024-05-01,Asia-Pacific,Data Scientist,137889.38,807,16.35,795.91,807,818.51
+2024-05-01,Asia-Pacific,Machine Learning Engineer,144124.13,767,16.85,758.72,767,779.62
+2024-05-01,Asia-Pacific,Data Analyst,148595.02,1025,16.58,1015.64,1025,1035.2
+2024-05-01,Asia-Pacific,AI Researcher,151449.78,503,16.68,492.91,503,512.51
+2024-05-01,Asia-Pacific,MLOps Engineer,155623.25,596,18.21,587.0,596,607.14
+2024-05-01,South America,Data Scientist,90392.75,519,10.35,507.02,519,531.24
+2024-05-01,South America,Machine Learning Engineer,91390.71,457,19.8,442.76,457,462.04
+2024-05-01,South America,Data Analyst,95049.6,576,19.05,566.97,576,590.01
+2024-05-01,South America,AI Researcher,91661.69,299,7.55,289.15,299,308.12
+2024-05-01,South America,MLOps Engineer,92393.09,309,10.97,300.2,309,319.47
+2024-05-01,Middle East & Africa,Data Scientist,75730.26,421,6.01,414.02,421,431.94
+2024-05-01,Middle East & Africa,Machine Learning Engineer,86746.61,402,16.34,392.36,402,416.54
+2024-05-01,Middle East & Africa,Data Analyst,79874.95,526,8.05,513.89,526,537.01
+2024-05-01,Middle East & Africa,AI Researcher,78777.63,270,19.69,257.85,270,278.82
+2024-05-01,Middle East & Africa,MLOps Engineer,79170.74,277,6.16,261.58,277,285.9
+2024-06-01,North America,Data Scientist,133457.51,681,11.24,671.1,681,688.28
+2024-06-01,North America,Machine Learning Engineer,127369.85,642,13.24,634.68,642,654.65
+2024-06-01,North America,Data Analyst,132973.85,888,19.31,875.39,888,898.07
+2024-06-01,North America,AI Researcher,126019.25,376,18.17,359.92,376,385.2
+2024-06-01,North America,MLOps Engineer,127599.14,495,9.81,480.37,495,500.74
+2024-06-01,Europe,Data Scientist,109403.1,623,12.02,613.31,623,630.92
+2024-06-01,Europe,Machine Learning Engineer,110052.38,534,6.61,519.7,534,538.78
+2024-06-01,Europe,Data Analyst,106960.19,703,19.08,690.78,703,716.32
+2024-06-01,Europe,AI Researcher,109303.01,328,16.61,315.66,328,338.16
+2024-06-01,Europe,MLOps Engineer,108892.19,458,19.4,448.12,458,470.26
+2024-06-01,Asia-Pacific,Data Scientist,146960.24,828,14.36,813.7,828,832.42
+2024-06-01,Asia-Pacific,Machine Learning Engineer,149292.98,735,11.72,720.27,735,745.07
+2024-06-01,Asia-Pacific,Data Analyst,158978.21,934,13.16,923.64,934,947.13
+2024-06-01,Asia-Pacific,AI Researcher,146735.64,491,14.35,480.17,491,504.01
+2024-06-01,Asia-Pacific,MLOps Engineer,162901.99,564,6.43,553.37,564,573.86
+2024-06-01,South America,Data Scientist,91766.05,472,14.76,465.63,472,484.41
+2024-06-01,South America,Machine Learning Engineer,96198.96,469,11.56,458.47,469,475.93
+2024-06-01,South America,Data Analyst,94458.2,642,9.97,629.82,642,650.79
+2024-06-01,South America,AI Researcher,85008.29,244,19.37,231.06,244,253.25
+2024-06-01,South America,MLOps Engineer,83939.46,381,5.78,367.43,381,393.61
+2024-06-01,Middle East & Africa,Data Scientist,87991.3,423,13.24,415.77,423,430.54
+2024-06-01,Middle East & Africa,Machine Learning Engineer,81767.04,370,16.14,360.46,370,376.98
+2024-06-01,Middle East & Africa,Data Analyst,77426.74,589,17.71,581.39,589,602.06
+2024-06-01,Middle East & Africa,AI Researcher,78793.68,237,9.01,228.72,237,246.85
+2024-06-01,Middle East & Africa,MLOps Engineer,82340.29,298,16.4,289.88,298,301.84
+2024-07-01,North America,Data Scientist,130469.87,846,9.04,836.68,846,862.84
+2024-07-01,North America,Machine Learning Engineer,123892.7,712,6.7,702.95,712,719.59
+2024-07-01,North America,Data Analyst,139039.18,1016,15.05,1005.69,1016,1025.68
+2024-07-01,North America,AI Researcher,128702.57,464,5.22,455.13,464,472.32
+2024-07-01,North America,MLOps Engineer,112155.55,573,13.94,565.54,573,582.45
+2024-07-01,Europe,Data Scientist,107951.2,667,14.42,661.6,667,677.81
+2024-07-01,Europe,Machine Learning Engineer,101341.12,666,13.3,654.26,666,671.9
+2024-07-01,Europe,Data Analyst,109110.57,806,14.08,798.92,806,815.89
+2024-07-01,Europe,AI Researcher,108217.03,402,6.09,388.19,402,415.0
+2024-07-01,Europe,MLOps Engineer,111196.95,554,11.51,548.28,554,565.5
+2024-07-01,Asia-Pacific,Data Scientist,154767.95,952,17.09,947.62,952,960.49
+2024-07-01,Asia-Pacific,Machine Learning Engineer,141239.91,856,16.89,844.91,856,864.47
+2024-07-01,Asia-Pacific,Data Analyst,156689.08,1133,14.25,1125.04,1133,1143.78
+2024-07-01,Asia-Pacific,AI Researcher,146623.84,530,15.24,520.89,530,537.92
+2024-07-01,Asia-Pacific,MLOps Engineer,139449.6,666,10.03,651.51,666,676.3
+2024-07-01,South America,Data Scientist,93306.37,530,19.66,520.65,530,539.12
+2024-07-01,South America,Machine Learning Engineer,89870.33,533,10.01,522.36,533,542.51
+2024-07-01,South America,Data Analyst,90124.97,684,16.68,673.42,684,698.56
+2024-07-01,South America,AI Researcher,95872.33,364,13.0,359.53,364,378.36
+2024-07-01,South America,MLOps Engineer,90842.33,385,10.57,375.34,385,393.85
+2024-07-01,Middle East & Africa,Data Scientist,81075.1,489,9.95,477.83,489,503.36
+2024-07-01,Middle East & Africa,Machine Learning Engineer,86602.99,456,10.84,445.15,456,465.98
+2024-07-01,Middle East & Africa,Data Analyst,74461.93,616,16.46,608.33,616,624.6
+2024-07-01,Middle East & Africa,AI Researcher,79870.07,296,11.16,286.05,296,306.88
+2024-07-01,Middle East & Africa,MLOps Engineer,78792.81,407,6.44,397.68,407,418.69
+2024-08-01,North America,Data Scientist,118593.81,950,14.39,940.74,950,961.34
+2024-08-01,North America,Machine Learning Engineer,130042.57,868,14.22,860.43,868,874.66
+2024-08-01,North America,Data Analyst,137354.48,1144,8.23,1137.85,1144,1153.01
+2024-08-01,North America,AI Researcher,129569.92,579,8.01,572.2,579,590.92
+2024-08-01,North America,MLOps Engineer,132954.27,655,19.78,647.25,655,664.1
+2024-08-01,Europe,Data Scientist,102437.03,788,14.9,776.84,788,794.54
+2024-08-01,Europe,Machine Learning Engineer,107688.52,713,17.18,701.74,713,721.51
+2024-08-01,Europe,Data Analyst,112233.52,965,13.06,958.5,965,976.78
+2024-08-01,Europe,AI Researcher,107113.51,468,11.96,460.05,468,481.46
+2024-08-01,Europe,MLOps Engineer,110788.8,527,17.46,515.99,527,532.98
+2024-08-01,Asia-Pacific,Data Scientist,137675.99,1041,9.27,1030.41,1041,1051.98
+2024-08-01,Asia-Pacific,Machine Learning Engineer,147737.0,993,9.69,982.81,993,1003.08
+2024-08-01,Asia-Pacific,Data Analyst,127367.65,1360,8.08,1350.91,1360,1374.76
+2024-08-01,Asia-Pacific,AI Researcher,151243.94,673,17.41,661.89,673,686.61
+2024-08-01,Asia-Pacific,MLOps Engineer,150937.25,697,8.46,686.42,697,712.03
+2024-08-01,South America,Data Scientist,87296.01,622,8.21,610.99,622,636.28
+2024-08-01,South America,Machine Learning Engineer,90762.43,594,11.52,584.35,594,600.45
+2024-08-01,South America,Data Analyst,92264.55,838,9.01,831.05,838,843.23
+2024-08-01,South America,AI Researcher,89899.16,409,9.98,400.69,409,416.89
+2024-08-01,South America,MLOps Engineer,95043.09,463,6.82,452.38,463,473.01
+2024-08-01,Middle East & Africa,Data Scientist,82921.0,566,16.73,558.42,566,574.62
+2024-08-01,Middle East & Africa,Machine Learning Engineer,73863.5,490,7.58,481.8,490,497.83
+2024-08-01,Middle East & Africa,Data Analyst,76899.41,708,7.05,691.5,708,721.16
+2024-08-01,Middle East & Africa,AI Researcher,84674.32,358,15.22,351.67,358,364.5
+2024-08-01,Middle East & Africa,MLOps Engineer,74339.18,377,6.32,366.19,377,387.75
+2024-09-01,North America,Data Scientist,134456.77,911,8.39,901.47,911,922.78
+2024-09-01,North America,Machine Learning Engineer,125990.48,846,7.01,834.33,846,862.16
+2024-09-01,North America,Data Analyst,133072.16,1154,10.64,1147.22,1154,1162.79
+2024-09-01,North America,AI Researcher,139479.81,587,11.49,576.04,587,596.94
+2024-09-01,North America,MLOps Engineer,121154.57,691,5.24,675.86,691,700.46
+2024-09-01,Europe,Data Scientist,107177.49,790,14.8,780.42,790,798.99
+2024-09-01,Europe,Machine Learning Engineer,103844.12,743,8.83,730.25,743,754.88
+2024-09-01,Europe,Data Analyst,106106.15,942,6.51,927.16,942,954.84
+2024-09-01,Europe,AI Researcher,112034.59,485,9.34,475.12,485,498.3
+2024-09-01,Europe,MLOps Engineer,120797.37,603,14.56,592.34,603,615.9
+2024-09-01,Asia-Pacific,Data Scientist,155968.98,1078,10.79,1067.13,1078,1090.17
+2024-09-01,Asia-Pacific,Machine Learning Engineer,150904.91,992,6.95,987.16,992,1005.14
+2024-09-01,Asia-Pacific,Data Analyst,146093.3,1293,17.03,1283.7,1293,1303.49
+2024-09-01,Asia-Pacific,AI Researcher,146133.78,668,8.95,656.03,668,675.83
+2024-09-01,Asia-Pacific,MLOps Engineer,150928.16,767,10.81,754.43,767,774.72
+2024-09-01,South America,Data Scientist,97860.54,618,13.36,608.58,618,622.65
+2024-09-01,South America,Machine Learning Engineer,87236.83,524,14.05,510.1,524,533.04
+2024-09-01,South America,Data Analyst,92121.88,793,14.74,781.82,793,799.9
+2024-09-01,South America,AI Researcher,91916.6,392,10.38,384.35,392,402.44
+2024-09-01,South America,MLOps Engineer,89678.97,503,5.43,492.81,503,510.81
+2024-09-01,Middle East & Africa,Data Scientist,82805.56,569,11.18,557.19,569,577.26
+2024-09-01,Middle East & Africa,Machine Learning Engineer,84450.26,571,19.88,564.04,571,575.72
+2024-09-01,Middle East & Africa,Data Analyst,77985.11,692,10.92,681.27,692,700.3
+2024-09-01,Middle East & Africa,AI Researcher,72796.9,320,8.5,305.7,320,330.57
+2024-09-01,Middle East & Africa,MLOps Engineer,74005.46,440,11.69,426.1,440,453.0
+2024-10-01,North America,Data Scientist,124960.38,841,6.55,832.79,841,851.33
+2024-10-01,North America,Machine Learning Engineer,124988.23,799,16.18,791.35,799,811.47
+2024-10-01,North America,Data Analyst,126076.03,1002,8.16,989.53,1002,1012.12
+2024-10-01,North America,AI Researcher,132979.07,463,13.87,447.62,463,473.33
+2024-10-01,North America,MLOps Engineer,133845.77,643,14.23,632.26,643,652.23
+2024-10-01,Europe,Data Scientist,109542.77,676,7.11,663.16,676,685.57
+2024-10-01,Europe,Machine Learning Engineer,108875.25,662,9.92,652.91,662,671.06
+2024-10-01,Europe,Data Analyst,120921.22,867,15.68,857.65,867,877.28
+2024-10-01,Europe,AI Researcher,111516.15,416,18.89,404.63,416,427.3
+2024-10-01,Europe,MLOps Engineer,113502.79,439,14.43,432.29,439,447.38
+2024-10-01,Asia-Pacific,Data Scientist,138268.46,943,13.83,932.58,943,953.72
+2024-10-01,Asia-Pacific,Machine Learning Engineer,163362.64,871,18.42,861.16,871,879.96
+2024-10-01,Asia-Pacific,Data Analyst,144692.85,1161,10.58,1148.04,1161,1172.38
+2024-10-01,Asia-Pacific,AI Researcher,147672.03,593,7.26,586.23,593,599.3
+2024-10-01,Asia-Pacific,MLOps Engineer,160315.95,732,13.19,720.2,732,742.53
+2024-10-01,South America,Data Scientist,83782.04,565,7.68,550.48,565,573.24
+2024-10-01,South America,Machine Learning Engineer,84406.8,458,18.87,448.34,458,472.8
+2024-10-01,South America,Data Analyst,91372.88,706,13.14,697.75,706,715.91
+2024-10-01,South America,AI Researcher,83811.33,342,7.62,330.31,342,351.68
+2024-10-01,South America,MLOps Engineer,95910.63,393,13.38,377.41,393,403.45
+2024-10-01,Middle East & Africa,Data Scientist,77870.16,516,9.85,498.49,516,524.55
+2024-10-01,Middle East & Africa,Machine Learning Engineer,73569.43,477,5.04,467.38,477,487.37
+2024-10-01,Middle East & Africa,Data Analyst,79674.1,621,12.69,610.5,621,627.55
+2024-10-01,Middle East & Africa,AI Researcher,75854.68,304,10.29,294.82,304,312.7
+2024-10-01,Middle East & Africa,MLOps Engineer,73223.38,321,14.85,311.54,321,333.26
+2024-11-01,North America,Data Scientist,124636.42,718,11.83,704.65,718,727.5
+2024-11-01,North America,Machine Learning Engineer,131113.21,626,18.26,615.9,626,633.44
+2024-11-01,North America,Data Analyst,120846.53,865,10.01,851.83,865,876.81
+2024-11-01,North America,AI Researcher,126236.1,457,8.26,446.15,457,466.69
+2024-11-01,North America,MLOps Engineer,133257.09,470,10.1,459.65,470,480.98
+2024-11-01,Europe,Data Scientist,116833.25,600,18.23,591.98,600,609.4
+2024-11-01,Europe,Machine Learning Engineer,113022.66,576,13.2,562.64,576,587.96
+2024-11-01,Europe,Data Analyst,111314.02,742,12.33,735.83,742,748.75
+2024-11-01,Europe,AI Researcher,121642.42,364,12.41,354.8,364,378.36
+2024-11-01,Europe,MLOps Engineer,113007.89,490,18.35,478.53,490,500.17
+2024-11-01,Asia-Pacific,Data Scientist,158974.7,865,5.84,859.52,865,878.28
+2024-11-01,Asia-Pacific,Machine Learning Engineer,147296.31,738,19.09,733.74,738,745.1
+2024-11-01,Asia-Pacific,Data Analyst,129446.8,1052,11.78,1040.44,1052,1062.42
+2024-11-01,Asia-Pacific,AI Researcher,159347.71,521,15.77,512.99,521,531.26
+2024-11-01,Asia-Pacific,MLOps Engineer,143855.5,590,5.28,583.59,590,597.55
+2024-11-01,South America,Data Scientist,91279.74,499,8.24,485.52,499,508.45
+2024-11-01,South America,Machine Learning Engineer,93779.75,441,19.6,432.94,441,450.09
+2024-11-01,South America,Data Analyst,88105.36,603,15.96,597.0,603,614.89
+2024-11-01,South America,AI Researcher,90027.59,315,19.73,302.02,315,324.05
+2024-11-01,South America,MLOps Engineer,86356.29,366,12.67,353.94,366,375.21
+2024-11-01,Middle East & Africa,Data Scientist,79868.5,438,6.12,425.32,438,447.22
+2024-11-01,Middle East & Africa,Machine Learning Engineer,80637.96,387,18.01,378.28,387,396.63
+2024-11-01,Middle East & Africa,Data Analyst,82021.05,530,13.48,521.17,530,544.01
+2024-11-01,Middle East & Africa,AI Researcher,84007.32,295,13.1,283.96,295,304.81
+2024-11-01,Middle East & Africa,MLOps Engineer,80933.14,343,13.23,332.06,343,351.36
+2024-12-01,North America,Data Scientist,124468.28,703,10.4,695.64,703,712.48
+2024-12-01,North America,Machine Learning Engineer,128236.57,626,14.52,611.28,626,635.18
+2024-12-01,North America,Data Analyst,132810.26,913,17.59,897.34,913,920.1
+2024-12-01,North America,AI Researcher,121720.06,446,18.91,434.84,446,454.4
+2024-12-01,North America,MLOps Engineer,119651.33,524,5.49,515.7,524,536.43
+2024-12-01,Europe,Data Scientist,115034.72,621,14.15,616.01,621,633.49
+2024-12-01,Europe,Machine Learning Engineer,104901.92,586,17.94,575.45,586,592.06
+2024-12-01,Europe,Data Analyst,112739.62,755,17.59,741.8,755,764.89
+2024-12-01,Europe,AI Researcher,109657.68,354,15.53,343.4,354,363.8
+2024-12-01,Europe,MLOps Engineer,118929.41,404,7.55,397.38,404,413.53
+2024-12-01,Asia-Pacific,Data Scientist,139287.27,832,9.52,820.15,832,839.98
+2024-12-01,Asia-Pacific,Machine Learning Engineer,160488.63,795,19.54,785.65,795,803.47
+2024-12-01,Asia-Pacific,Data Analyst,143312.59,1000,11.55,987.92,1000,1017.72
+2024-12-01,Asia-Pacific,AI Researcher,135066.45,514,6.0,503.63,514,521.17
+2024-12-01,Asia-Pacific,MLOps Engineer,163185.52,603,8.04,596.05,603,614.61
+2024-12-01,South America,Data Scientist,97941.72,460,6.68,450.67,460,470.26
+2024-12-01,South America,Machine Learning Engineer,96809.58,469,16.43,459.52,469,478.56
+2024-12-01,South America,Data Analyst,94274.5,655,9.78,644.7,655,664.61
+2024-12-01,South America,AI Researcher,91177.79,270,15.39,267.47,270,283.65
+2024-12-01,South America,MLOps Engineer,88383.22,394,16.36,386.58,394,398.92
+2024-12-01,Middle East & Africa,Data Scientist,76398.73,432,5.69,422.19,432,441.76
+2024-12-01,Middle East & Africa,Machine Learning Engineer,80057.35,430,6.09,416.86,430,445.09
+2024-12-01,Middle East & Africa,Data Analyst,71354.56,594,7.79,583.99,594,603.42
+2024-12-01,Middle East & Africa,AI Researcher,80869.62,316,14.42,305.97,316,325.37
+2024-12-01,Middle East & Africa,MLOps Engineer,81706.52,333,7.55,323.12,333,341.49
