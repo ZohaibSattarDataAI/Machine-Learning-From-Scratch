@@ -52,6 +52,7 @@ Each folder includes:
 - ✅ Huber Regression
 - ✅ Orthogonal Matching Pursuit (OMP)
 - ✅Theil-Sen Regression
+- ✅Quantile Regression
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
