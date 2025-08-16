@@ -53,6 +53,7 @@ Each folder includes:
 - ✅ Orthogonal Matching Pursuit (OMP)
 - ✅Theil-Sen Regression
 - ✅Quantile Regression
+- ✅Tweedi Regression
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
