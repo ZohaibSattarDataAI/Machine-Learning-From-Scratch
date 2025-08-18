@@ -34,26 +34,27 @@ Each folder includes:
 ### 🔹 **Supervised Learning**
 
 #### 📈 Regression
-- ✅ Simple Linear Regression  
-- ✅ Polynomial Linear Regression  
-- ✅ Multiple Linear Regression  
-- ✅ Lasso Regression  
-- ✅ Ridge Regression  
-- ✅ Random Forest Regression  
-- ✅ XGBoost Regressor *(Scikit-learn version only)*
-- ✅ Decision Tree Regressor
-- ✅ LightGBMRegressor
-- ✅ CastboostRegression
-- ✅ ElasticNet Regression
-- ✅ BayesianRidge Regression
-- ✅ Gradient Boosting Regression
-- ✅ Support Vector Machine (SVM) Regression
-- ✅ K-Nearest Neighbors (KNN)  Regression
-- ✅ Huber Regression
-- ✅ Orthogonal Matching Pursuit (OMP)
-- ✅Theil-Sen Regression
-- ✅Quantile Regression
-- ✅Tweedi Regression
+1. ✅ Simple Linear Regression  
+2. ✅ Polynomial Linear Regression  
+3. ✅ Multiple Linear Regression  
+4. ✅ Lasso Regression  
+5. ✅ Ridge Regression  
+6. ✅ Random Forest Regression  
+7. ✅ XGBoost Regressor *(Scikit-learn version only)*  
+8. ✅ Decision Tree Regressor  
+9. ✅ LightGBM Regressor  
+10. ✅ CatBoost Regression  
+11. ✅ ElasticNet Regression  
+12. ✅ Bayesian Ridge Regression  
+13. ✅ Gradient Boosting Regression  
+14. ✅ Support Vector Machine (SVM) Regression  
+15. ✅ K-Nearest Neighbors (KNN) Regression  
+16. ✅ Huber Regression  
+17. ✅ Orthogonal Matching Pursuit (OMP)  
+18. ✅ Theil-Sen Regression  
+19. ✅ Quantile Regression  
+20. ✅ Tweedie Regression  
+
 
 #### 🔍 Classification
 - ✅ Logistic Regression  
