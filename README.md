@@ -54,6 +54,7 @@ Each folder includes:
 18. ✅ Theil-Sen Regression  
 19. ✅ Quantile Regression  
 20. ✅ Tweedie Regression  
+21. ✅ Principle Component Regression (PCR)
 
 
 #### 🔍 Classification
