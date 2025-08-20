@@ -55,6 +55,7 @@ Each folder includes:
 19. ✅ Quantile Regression  
 20. ✅ Tweedie Regression  
 21. ✅ Principal Component Regression (PCR)
+22. ✅ Gamma Regression
 
 
 #### 🔍 Classification
