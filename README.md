@@ -56,6 +56,7 @@ Each folder includes:
 20. ✅ Tweedie Regression  
 21. ✅ Principal Component Regression (PCR)
 22. ✅ Gamma Regression
+23. ✅ AdaBoost Regression
 
 
 #### 🔍 Classification
