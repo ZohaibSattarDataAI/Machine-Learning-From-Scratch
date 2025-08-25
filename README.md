@@ -57,6 +57,9 @@ Each folder includes:
 21. ✅ Principal Component Regression (PCR)
 22. ✅ Gamma Regression
 23. ✅ AdaBoost Regression
+24. ✅ Stepwise Regression
+       i) Forward Stepwise
+      ii) Backward Stepwise
 
 
 #### 🔍 Classification
