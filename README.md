@@ -113,7 +113,7 @@ This repository is perfect for:
 ## 🙌 Author
 
 **Zohaib Sattar**  
-📧 Email: [zabizubi86@gmail.com] 
+📧 Email: [zabizubi86@gmail.com](mailto:zabizubi86@gmail.com)
 🔗 LinkedIn: [Zohaib Sattar](https://www.linkedin.com/in/zohaib-sattar)
 
 ---
