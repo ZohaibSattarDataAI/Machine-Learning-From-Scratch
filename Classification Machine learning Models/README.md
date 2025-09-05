@@ -11,7 +11,7 @@ Welcome to **Classification Machine Learning Models** — a structured, beginner
 
 > # Classification Algorithms
 
-🔗 Link: [Classification Machine Learning Models](https://github.com/ZohaibSattarDataAI/Classification-ML-Models)
+🔗 Link: [Classification Machine Learning Models](https://github.com/ZohaibSattarDataAI/Machine-Learning-From-Scratch/tree/main/Classification%20Machine%20learning%20Models)
 
 ---
 
