@@ -11,7 +11,7 @@ Welcome to **Regression Machine Learning Models** — a structured, beginner-fri
 
 > # Regression Algorithms
 
-🔗 Link: [Regression Machine Learning Models](https://github.com/ZohaibSattarDataAI/Machine-Learning-From-Scratch/blob/main/Regression%20Machine%20Learning%20Models)
+🔗 Link: [Regression Machine Learning Models](https://github.com/ZohaibSattarDataAI/Machine-Learning-From-Scratch/tree/main/Regression%20Machine%20Learning%20Models)
 
 ---
 
