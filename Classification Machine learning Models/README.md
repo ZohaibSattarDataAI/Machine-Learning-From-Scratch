@@ -34,23 +34,6 @@ Each folder includes:
 ### 🔹 **Supervised Learning — Classification**
 
 1. ✅ Logistic Regression  
-2. ✅ Naive Bayes  
-   - Bernoulli Naive Bayes  
-   - Multinomial Naive Bayes  
-   - Gaussian Naive Bayes  
-3. ✅ Decision Tree Classifier  
-4. ✅ K-Nearest Neighbors (KNN)  
-5. ✅ Support Vector Machine (SVM)  
-6. ✅ Random Forest Classifier *(Scikit-learn only)*  
-7. ✅ Gradient Boosting Classifier  
-8. ✅ XGBoost Classifier *(Scikit-learn version only)*  
-9. ✅ LightGBM Classifier  
-10. ✅ CatBoost Classifier  
-11. ✅ Multi-Layer Perceptron (MLP) Classifier *(Neural Network)*  
-12. ✅ AdaBoost Classifier  
-13. ✅ Extra Trees Classifier  
-14. ✅ Quadratic Discriminant Analysis (QDA)  
-15. ✅ Linear Discriminant Analysis (LDA)  
 
 ---
 
