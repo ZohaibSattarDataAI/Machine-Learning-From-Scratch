@@ -33,7 +33,10 @@ Each folder includes:
 
 ### 🔹 **Supervised Learning — Classification**
 
-1. ✅ Logistic Regression  
+1. ✅ Logistic Regression
+2. ✅ Random Forest Classification
+3. ✅ Decision Tree Classification
+     
 
 ---
 
