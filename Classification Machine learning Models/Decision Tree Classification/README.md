@@ -29,7 +29,8 @@ The dataset **Credit_scoring** used in this project is a structured dataset repr
 
 ## Decision Tree
 
-[Decision Tree](<img width="7035" height="6990" alt="decision_tree" src="https://github.com/user-attachments/assets/3e2d26c8-915a-46e8-af98-6447fd5b8f90" />)
+<img width="7035" height="6990" alt="decision_tree" src="https://github.com/user-attachments/assets/545e618f-8dfa-4d86-9921-3853a43442a1" />
+
 
 ## ✅ Features Implemented
 - Data Preprocessing  
