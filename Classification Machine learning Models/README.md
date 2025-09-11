@@ -37,8 +37,7 @@ Each folder includes:
 2. ✅ Random Forest Classification
 3. ✅ Decision Tree Classification
 4. ✅ LightGBM Classification
-5. ✅ KNN Classification
-   
+
 
      
 
