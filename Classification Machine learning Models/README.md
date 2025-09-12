@@ -2,8 +2,8 @@
 
 Welcome to **Classification Machine Learning Models** — a structured, beginner-friendly, and professional repository containing classic **Machine Learning classification algorithms** implemented in two ways:
 
-✅ **From Scratch (Pure Python)** — for a deeper understanding of the math & logic  
-✅ **With Scikit-learn** — for production-ready, optimized implementations  
+✅ **From Scratch (Pure Python)** — for a deeper understanding of the math & logic
+✅ **With Scikit-learn** — for production-ready, optimized implementations
 
 > 📌 This project focuses **only on Classification models**, with clean code, real datasets, and Jupyter notebooks for hands-on practice.
 
@@ -37,9 +37,11 @@ Each folder includes:
 2. ✅ Random Forest Classification
 3. ✅ Decision Tree Classification
 4. ✅ LightGBM Classification
+5. ✅ K Nearest Neighbors Classification
+6. ✅ Support Vector Machine Classification
 
 
-     
+
 
 ---
 
@@ -47,23 +49,23 @@ Each folder includes:
 
 Classification algorithms are widely used across industries to solve **decision-making problems**. Here are some common applications:
 
-- 🏥 **Healthcare** — Disease prediction (e.g., diabetes, cancer detection)  
-- 📧 **Email Filtering** — Spam vs. non-spam classification  
-- 🛒 **E-commerce** — Customer segmentation, product recommendations  
-- 💳 **Finance** — Fraud detection in transactions  
-- 🚗 **Autonomous Vehicles** — Object detection & recognition  
-- 📱 **Social Media** — Sentiment analysis, fake news detection  
-- 👮 **Security** — Face recognition, intrusion detection  
-- 🎓 **Education** — Student performance prediction, cheating detection  
+- 🏥 **Healthcare** — Disease prediction (e.g., diabetes, cancer detection)
+- 📧 **Email Filtering** — Spam vs. non-spam classification
+- 🛒 **E-commerce** — Customer segmentation, product recommendations
+- 💳 **Finance** — Fraud detection in transactions
+- 🚗 **Autonomous Vehicles** — Object detection & recognition
+- 📱 **Social Media** — Sentiment analysis, fake news detection
+- 👮 **Security** — Face recognition, intrusion detection
+- 🎓 **Education** — Student performance prediction, cheating detection
 
 ---
 
 ## 📘 Requirements
 
-- Python 3.x  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- Scikit-learn (for sklearn implementations)  
-- Optional: XGBoost, LightGBM, CatBoost  
+- Python 3.x
+- NumPy, Pandas, Matplotlib, Seaborn
+- Scikit-learn (for sklearn implementations)
+- Optional: XGBoost, LightGBM, CatBoost
 
 Install dependencies:
 ```bash
@@ -72,7 +74,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm catboo
 
 ## 🙌 Author
 
-*Zohaib Sattar*  
+*Zohaib Sattar*
 📧 Email: [zabizubi86@gmail.com](mailto:zabizubi86@gmail.com)
 🔗 LinkedIn: [Zohaib Sattar](https://www.linkedin.com/in/zohaib-sattar)
 
