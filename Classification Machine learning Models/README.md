@@ -39,6 +39,7 @@ Each folder includes:
 4. ✅ LightGBM Classification
 5. ✅ K-Nearest Neighbors Classification (KNN)
 6. ✅ Support Vector Machine Classification (SVM)
+7. ✅ Naive Bayes Classification (GaussianNB)
 
 
 
