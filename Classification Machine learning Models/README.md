@@ -40,6 +40,8 @@ Each folder includes:
 5. ✅ K-Nearest Neighbors Classification (KNN)
 6. ✅ Support Vector Machine Classification (SVM)
 7. ✅ Naive Bayes Classification (GaussianNB)
+8. ✅ Naive Bayes Classification(BernoulliNB)
+9. ✅ Naive Bayes Classification(MultinomialNB)
 
 
 
