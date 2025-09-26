@@ -42,6 +42,8 @@ Each folder includes:
 7. ✅ Naive Bayes Classification (GaussianNB)
 8. ✅ Naive Bayes Classification(BernoulliNB)
 9. ✅ Naive Bayes Classification(MultinomialNB)
+10. ✅ AdaBoost Classification
+    
 
 
 
