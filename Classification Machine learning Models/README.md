@@ -43,7 +43,9 @@ Each folder includes:
 8. ✅ Naive Bayes Classification(BernoulliNB)
 9. ✅ Naive Bayes Classification(MultinomialNB)
 10. ✅ AdaBoost Classification
-11. ✅ CatBoost Classification 
+11. ✅ CatBoost Classification
+12. ✅ XGBoost Classification
+13. ✅ Gradient Boosting Classification
     
 
 
