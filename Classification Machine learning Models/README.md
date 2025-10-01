@@ -46,6 +46,7 @@ Each folder includes:
 11. ✅ CatBoost Classification
 12. ✅ XGBoost Classification
 13. ✅ Gradient Boosting Classification
+14. ✅ Extra Tree Classification 
     
 
 
