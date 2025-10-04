@@ -63,14 +63,35 @@ Each folder includes:
 
 
 #### 🔍 Classification
-- ✅ Logistic Regression  
-- ✅ Bernoulli Naive Bayes  
-- ✅ Multinomial Naive Bayes  
-- ✅ Naive Bayes Classification  
-- ✅ Decision Tree Classification  
-- ✅ K-Nearest Neighbors (KNN)  
-- ✅ Support Vector Machine (SVM)  
-- ✅ Random Forest Classifier *(Scikit-learn only)*
+25. ✅ Logistic Regression
+
+26. ✅ Random Forest Classification
+
+27. ✅ Decision Tree Classification
+
+28. ✅ LightGBM Classification
+
+29. ✅ K-Nearest Neighbors Classification (KNN)
+
+30. ✅ Support Vector Machine Classification (SVM)
+
+31. ✅ Gaussian Naive Bayes Classification
+
+32. ✅ Bernoulli Naive Bayes Classification
+
+33. ✅ Multinomial Naive Bayes Classification
+
+34. ✅ AdaBoost Classification
+
+35. ✅ CatBoost Classification
+
+36. ✅ XGBoost Classification
+
+37. ✅ Gradient Boosting Classification
+
+38. ✅ Extra Tree Classification
+
+39. ✅ Linear Discriminant Analysis (LDA)
 
 ---
 
