@@ -48,6 +48,7 @@ Each folder includes:
 13. ✅ Gradient Boosting Classification
 14. ✅ Extra Tree Classification
 15. ✅ Linear Discriminant Classifiers (LDC)
+16. ✅ Stacking Classification
     
 
 
