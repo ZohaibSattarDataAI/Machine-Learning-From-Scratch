@@ -49,6 +49,7 @@ Each folder includes:
 14. ✅ Extra Tree Classification
 15. ✅ Linear Discriminant Classifiers (LDC)
 16. ✅ Stacking Classification
+17. ✅ Bagging Classification
     
 
 
