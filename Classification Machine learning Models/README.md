@@ -50,6 +50,7 @@ Each folder includes:
 15. ✅ Linear Discriminant Classifiers (LDC)
 16. ✅ Stacking Classification
 17. ✅ Bagging Classification
+18. ✅ Voting Classification
     
 
 
