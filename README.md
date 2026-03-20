@@ -106,6 +106,10 @@ Install dependencies:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 ---
+## popular Websites for Machine Learning
+1: Machine Learning Playground
+2: Tensor Flow Playground
+3: Techable Machine
 
 ## 💼 Use Cases
 
