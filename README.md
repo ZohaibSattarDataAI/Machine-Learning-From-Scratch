@@ -130,6 +130,6 @@ This repository is perfect for:
 
 ---
 
-## ⭐️ Support the Project
+## ⭐️ Support & Share the Project
 
 If you find this project helpful, please ⭐️ star the repo and share it with your network. It motivates further open-source contributions!
