@@ -1,4 +1,4 @@
-# 🤖   From Scratch scikit learn
+# 🤖  Machine learning From Scratch scikit learn
 
 Welcome to **Machine Learning From Scratch** — a comprehensive, beginner-friendly, and professional repository containing classic **Machine Learning algorithms** implemented in two ways:
 
